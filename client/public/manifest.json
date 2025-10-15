@@ -1,0 +1,39 @@
+{
+  "name": "Veganizer - Convertisseur de Recettes Véganes",
+  "short_name": "Veganizer",
+  "description": "Convertissez vos recettes en alternatives véganes avec analyse nutritionnelle et impact environnemental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22272E",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "fr",
+  "categories": ["food", "lifestyle", "health"],
+  "icons": [
+    {
+      "src": "/logo2.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo2.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo2.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo2.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

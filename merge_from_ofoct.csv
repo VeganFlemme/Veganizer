@@ -1,0 +1,851 @@
+recetteID,nom_recette,ingredient_1,ingredient_1_vegan,ingredient_2,ingredient_2_vegan,ingredient_3,ingredient_3_vegan,ingredient_4,ingredient_4_vegan,ingredient_5,ingredient_5_vegan,ingredient_6,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_1_vegan,ingredient_vegan_2,ingredient_vegan_2_vegan,ingredient_vegan_3,ingredient_vegan_3_vegan,ingredient_vegan_4,ingredient_vegan_4_vegan,ingredient_vegan_5,ingredient_vegan_5_vegan,ingredient_vegan_6,ingredient_vegan_6_vegan
+177,Flammekueche,Pâte fine,Y,Crème fraîche,N,Lardons,N,Oignons,Y,Muscade,Y,Huile,Y,Flammekueche végane,Pâte fine,Y,Crème de soja,Y,Tempeh fumé,Y,Oignons,Y,Muscade,Y,Huile,Y
+178,Choucroute de poisson,Choucroute,Y,Saumon,N,Cabillaud,N,Haddock,N,Vin blanc,Y,Genièvre,Y,Choucroute végane marine,Choucroute,Y,Tofu fumé,Y,Tempeh,Y,Algues,Y,Vin blanc,Y,Genièvre,Y
+179,Brandade de légumes,Pommes de terre,Y,Courgettes,Y,Ail,Y,Huile d'olive,Y,Lait végétal,Y,Persil,Y,Brandade de légumes,Pommes de terre,Y,Courgettes,Y,Ail,Y,Huile d'olive,Y,Lait végétal,Y,Persil,Y
+180,Gratin de courgettes,Courgettes,Y,Béchamel,N,Gruyère,N,Muscade,Y,Beurre,N,Chapelure,Y,Gratin végane courgettes,Courgettes,Y,Béchamel végane,Y,Fromage végétal,Y,Muscade,Y,Beurre végétal,Y,Chapelure,Y
+181,Tian provençal,Tomates,Y,Courgettes,Y,Aubergines,Y,Oignons,Y,Herbes de Provence,Y,Huile d'olive,Y,Tian provençal,Tomates,Y,Courgettes,Y,Aubergines,Y,Oignons,Y,Herbes de Provence,Y,Huile d'olive,Y
+182,Gratin de chou-fleur,Chou-fleur,Y,Béchamel,N,Gruyère,N,Muscade,Y,Beurre,N,Chapelure,Y,Gratin végane chou-fleur,Chou-fleur,Y,Béchamel végane,Y,Fromage végétal,Y,Muscade,Y,Beurre végétal,Y,Chapelure,Y
+183,Endives au jambon,Endives,Y,Jambon,N,Béchamel,N,Gruyère,N,Muscade,Y,Beurre,N,Endives véganes,Endives,Y,Jambon végétal,Y,Béchamel végane,Y,Fromage végétal,Y,Muscade,Y,Beurre végétal,Y
+184,Poireaux vinaigrette,Poireaux,Y,Moutarde,Y,Vinaigre,Y,Huile,Y,Échalotes,Y,Persil,Y,Poireaux vinaigrette,Poireaux,Y,Moutarde,Y,Vinaigre,Y,Huile,Y,Échalotes,Y,Persil,Y
+185,Carottes Vichy,Carottes,Y,Beurre,N,Sucre,Y,Persil,Y,Eau de Vichy,Y,Sel,Y,Carottes Vichy véganes,Carottes,Y,Beurre végétal,Y,Sucre,Y,Persil,Y,Eau de Vichy,Y,Sel,Y
+186,Épinards à la crème,Épinards,Y,Crème fraîche,N,Beurre,N,Muscade,Y,Ail,Y,Sel,Y,Épinards véganes à la crème,Épinards,Y,Crème de soja,Y,Beurre végétal,Y,Muscade,Y,Ail,Y,Sel,Y
+187,Haricots verts amandine,Haricots verts,Y,Amandes effilées,Y,Beurre,N,Ail,Y,Persil,Y,Citron,Y,Haricots verts véganes,Haricots verts,Y,Amandes effilées,Y,Beurre végétal,Y,Ail,Y,Persil,Y,Citron,Y
+188,Petits pois à la française,Petits pois,Y,Laitue,Y,Oignons grelots,Y,Beurre,N,Sucre,Y,Persil,Y,Petits pois véganes,Petits pois,Y,Laitue,Y,Oignons grelots,Y,Beurre végétal,Y,Sucre,Y,Persil,Y
+189,Artichauts à la barigoule,Artichauts,Y,Carottes,Y,Lardons,N,Vin blanc,Y,Thym,Y,Huile d'olive,Y,Artichauts véganes barigoule,Artichauts,Y,Carottes,Y,Tempeh fumé,Y,Vin blanc,Y,Thym,Y,Huile d'olive,Y
+190,Champignons à la grecque,Champignons,Y,Tomates,Y,Coriandre,Y,Citron,Y,Huile d'olive,Y,Vin blanc,Y,Champignons à la grecque,Champignons,Y,Tomates,Y,Coriandre,Y,Citron,Y,Huile d'olive,Y,Vin blanc,Y
+191,Ratatouille niçoise,Aubergines,Y,Courgettes,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y,Ratatouille niçoise,Aubergines,Y,Courgettes,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y
+192,Confit de légumes,Tomates,Y,Courgettes,Y,Aubergines,Y,Huile d'olive,Y,Thym,Y,Ail,Y,Confit de légumes,Tomates,Y,Courgettes,Y,Aubergines,Y,Huile d'olive,Y,Thym,Y,Ail,Y
+193,Légumes farcis,Tomates,Y,Courgettes,Y,Farce,N,Riz,Y,Herbes,Y,Huile d'olive,Y,Légumes farcis véganes,Tomates,Y,Courgettes,Y,Farce végétale,Y,Riz,Y,Herbes,Y,Huile d'olive,Y
+194,Gratin savoyard,Pommes de terre,Y,Reblochon,N,Crème fraîche,N,Lardons,N,Oignons,Y,Vin blanc,Y,Gratin savoyard végane,Pommes de terre,Y,Fromage végétal,Y,Crème de soja,Y,Tempeh fumé,Y,Oignons,Y,Vin blanc,Y
+195,Fondue bourguignonne,Huile,Y,Bœuf,N,Sauces,Y,Cornichons,Y,Oignons,Y,Pain,Y,Fondue bourguignonne végane,Huile,Y,Seitan,Y,Sauces,Y,Cornichons,Y,Oignons,Y,Pain,Y
+196,Raclette traditionnelle,Fromage à raclette,N,Pommes de terre,Y,Charcuterie,N,Cornichons,Y,Oignons,Y,Pain de seigle,Y,Raclette végane,Fromage végétal,Y,Pommes de terre,Y,Charcuterie végétale,Y,Cornichons,Y,Oignons,Y,Pain de seigle,Y
+197,Pierrade,Viandes variées,N,Légumes,Y,Sauces,Y,Pain,Y,Huile,Y,Herbes,Y,Pierrade végane,Protéines végétales,Y,Légumes,Y,Sauces,Y,Pain,Y,Huile,Y,Herbes,Y
+198,Gougères,Pâte à choux,Y,Gruyère,N,Œufs,N,Beurre,N,Muscade,Y,Poivre,Y,Gougères véganes,Pâte à choux végane,Y,Fromage végétal,Y,Aquafaba,Y,Beurre végétal,Y,Muscade,Y,Poivre,Y
+199,Pissalat,Anchois,N,Oignons,Y,Huile d'olive,Y,Thym,Y,Ail,Y,Farine,Y,Pissalat végane,Algue nori,Y,Oignons,Y,Huile d'olive,Y,Thym,Y,Ail,Y,Farine,Y
+200,Aïoli complet,Morue,N,Légumes,Y,Aïoli,N,Œufs durs,N,Escargots,N,Bulots,N,Aïoli végane complet,Tofu,Y,Légumes,Y,Aïoli végane,Y,Tofu dur,Y,Champignons,Y,Algues,Y
+201,Soufflé au fromage,Lait,N,Beurre,N,Farine,Y,Œufs,N,Gruyère,N,Muscade,Y,Soufflé végane au fromage,Lait de soja,Y,Beurre végétal,Y,Farine,Y,Aquafaba,Y,Fromage végétal,Y,Muscade,Y
+202,Beignets de fleurs de courgette,Fleurs de courgette,Y,Farine,Y,Œufs,N,Lait,N,Huile,Y,Sel,Y,Beignets véganes,Fleurs de courgette,Y,Farine,Y,Aquafaba,Y,Lait végétal,Y,Huile,Y,Sel,Y
+203,Soupe de poisson méditerranéenne,Rascasse,N,Congre,N,Tomates,Y,Safran,Y,Fenouil,Y,Huile d'olive,Y,Soupe végane méditerranéenne,Algues wakame,Y,Champignons,Y,Tomates,Y,Safran,Y,Fenouil,Y,Huile d'olive,Y
+204,Crème de marrons,Marrons,Y,Lait,N,Sucre,Y,Vanille,Y,Crème fraîche,N,Beurre,N,Crème végane de marrons,Marrons,Y,Lait de coco,Y,Sucre,Y,Vanille,Y,Crème de coco,Y,Beurre végétal,Y
+205,Gratin de potiron,Potiron,Y,Crème fraîche,N,Gruyère,N,Muscade,Y,Beurre,N,Thym,Y,Gratin végane potiron,Potiron,Y,Crème de soja,Y,Fromage végétal,Y,Muscade,Y,Beurre végétal,Y,Thym,Y
+206,Velouté de topinambours,Topinambours,Y,Crème fraîche,N,Bouillon,N,Beurre,N,Noisettes,Y,Ciboulette,Y,Velouté végane topinambours,Topinambours,Y,Crème de soja,Y,Bouillon végétal,Y,Beurre végétal,Y,Noisettes,Y,Ciboulette,Y
+207,Consommé de volaille,Poule,N,Légumes,Y,Blancs d'œufs,N,Bouquet garni,Y,Sel,Y,Poivre,Y,Consommé végétal,Champignons shiitake,Y,Légumes,Y,Aquafaba,Y,Bouquet garni,Y,Sel,Y,Poivre,Y
+208,Potage crécy,Carottes,Y,Riz,Y,Bouillon,N,Beurre,N,Crème fraîche,N,Persil,Y,Potage végane crécy,Carottes,Y,Riz,Y,Bouillon végétal,Y,Beurre végétal,Y,Crème de soja,Y,Persil,Y
+209,Soupe aux choux,Choux,Y,Lard,N,Saucisse,N,Pommes de terre,Y,Carottes,Y,Oignons,Y,Soupe végane aux choux,Choux,Y,Tempeh fumé,Y,Saucisse végétale,Y,Pommes de terre,Y,Carottes,Y,Oignons,Y
+210,Velouté d'asperges,Asperges,Y,Crème fraîche,N,Bouillon,N,Beurre,N,Ciboulette,Y,Muscade,Y,Velouté végane asperges,Asperges,Y,Crème de coco,Y,Bouillon végétal,Y,Beurre végétal,Y,Ciboulette,Y,Muscade,Y
+211,Soupe de pois cassés,Pois cassés,Y,Lard,N,Carottes,Y,Oignons,Y,Bouquet garni,Y,Bouillon,N,Soupe végane pois cassés,Pois cassés,Y,Tempeh fumé,Y,Carottes,Y,Oignons,Y,Bouquet garni,Y,Bouillon végétal,Y
+212,Bisque d'écrevisses,Écrevisses,N,Crème fraîche,N,Cognac,Y,Tomates,Y,Riz,Y,Beurre,N,Bisque végane rouge,Tomates cerises,Y,Crème de coco,Y,Cognac,Y,Tomates,Y,Riz,Y,Beurre végétal,Y
+213,Velouté de panais,Panais,Y,Crème fraîche,N,Bouillon,N,Beurre,N,Muscade,Y,Persil,Y,Velouté végane panais,Panais,Y,Crème de soja,Y,Bouillon végétal,Y,Beurre végétal,Y,Muscade,Y,Persil,Y
+214,Soupe gratinée lyonnaise,Bouillon de bœuf,N,Oignons,Y,Vin blanc,Y,Gruyère,N,Pain,Y,Beurre,N,Soupe gratinée végane,Bouillon végétal,Y,Oignons,Y,Vin blanc,Y,Fromage végétal,Y,Pain,Y,Beurre végétal,Y
+215,Waterzoï de poisson,Poissons blancs,N,Poireaux,Y,Carottes,Y,Crème fraîche,N,Vin blanc,Y,Persil,Y,Waterzoï végane,Tofu,Y,Poireaux,Y,Carottes,Y,Crème de soja,Y,Vin blanc,Y,Persil,Y
+216,Potée auvergnate,Choux,Y,Lard,N,Saucisse,N,Pommes de terre,Y,Haricots blancs,Y,Carottes,Y,Potée végane auvergnate,Choux,Y,Tempeh,Y,Saucisse végétale,Y,Pommes de terre,Y,Haricots blancs,Y,Carottes,Y
+217,Hochepot,Bœuf,N,Porc,N,Légumes,Y,Chou,Y,Carottes,Y,Navets,Y,Hochepot végane,Seitan,Y,Tempeh,Y,Légumes,Y,Chou,Y,Carottes,Y,Navets,Y
+218,Potage cultivateur,Légumes variés,Y,Lard,N,Pommes de terre,Y,Haricots verts,Y,Persil,Y,Bouillon,N,Potage végane cultivateur,Légumes variés,Y,Tempeh fumé,Y,Pommes de terre,Y,Haricots verts,Y,Persil,Y,Bouillon végétal,Y
+219,Velouté de céleri,Céleri branche,Y,Crème fraîche,N,Bouillon,N,Beurre,N,Roquefort,N,Noix,Y,Velouté végane céleri,Céleri branche,Y,Crème de soja,Y,Bouillon végétal,Y,Beurre végétal,Y,Fromage végétal,Y,Noix,Y
+220,Soupe au vermicelle,Vermicelles,Y,Bouillon de poule,N,Carottes,Y,Poireaux,Y,Persil,Y,Beurre,N,Soupe végane vermicelle,Vermicelles,Y,Bouillon végétal,Y,Carottes,Y,Poireaux,Y,Persil,Y,Beurre végétal,Y
+221,Escalope milanaise,Veau,N,Chapelure,Y,Œufs,N,Parmesan,N,Citron,Y,Beurre,N,Escalope végane milanaise,Seitan,Y,Chapelure,Y,Aquafaba,Y,Parmesan végétal,Y,Citron,Y,Beurre végétal,Y
+222,Osso buco à la milanaise,Jarret de veau,N,Tomates,Y,Vin blanc,Y,Gremolata,Y,Risotto,Y,Bouillon,N,Osso buco végane,Seitan épais,Y,Tomates,Y,Vin blanc,Y,Gremolata,Y,Risotto,Y,Bouillon végétal,Y
+223,Saltimbocca,Veau,N,Jambon de Parme,N,Sauge,Y,Vin blanc,Y,Beurre,N,Citron,Y,Saltimbocca végane,Seitan,Y,Jambon végétal,Y,Sauge,Y,Vin blanc,Y,Beurre végétal,Y,Citron,Y
+224,Vitello tonnato moderne,Veau,N,Thon,N,Mayonnaise,N,Câpres,Y,Anchois,N,Citron,Y,Vitello végane moderne,Seitan,Y,Pois chiches,Y,Mayonnaise végane,Y,Câpres,Y,Algue nori,Y,Citron,Y
+225,Carpaccio de Saint-Jacques,Saint-Jacques,N,Huile d'olive,Y,Citron vert,Y,Gingembre,Y,Coriandre,Y,Piment,Y,Carpaccio végane,Champignons king oyster,Y,Huile d'olive,Y,Citron vert,Y,Gingembre,Y,Coriandre,Y,Piment,Y
+226,Tartare de thon,Thon,N,Avocat,Y,Citron,Y,Huile d'olive,Y,Câpres,Y,Échalotes,Y,Tartare végane,Tomates,Y,Avocat,Y,Citron,Y,Huile d'olive,Y,Câpres,Y,Échalotes,Y
+227,Saumon gravlax,Saumon,N,Aneth,Y,Sucre,Y,Sel,Y,Poivre,Y,Moutarde,Y,Saumon végane gravlax,Carotte,Y,Aneth,Y,Sucre,Y,Sel,Y,Poivre,Y,Moutarde,Y
+228,Ceviche de dorade,Dorade,N,Citron vert,Y,Oignons,Y,Coriandre,Y,Piment,Y,Avocat,Y,Ceviche végane,Champignons,Y,Citron vert,Y,Oignons,Y,Coriandre,Y,Piment,Y,Avocat,Y
+229,Tartare de saumon,Saumon,N,Avocat,Y,Citron,Y,Aneth,Y,Câpres,Y,Échalotes,Y,Tartare végane saumon,Betterave,Y,Avocat,Y,Citron,Y,Aneth,Y,Câpres,Y,Échalotes,Y
+230,Crudo de bar,Bar,N,Huile d'olive,Y,Citron,Y,Fleur de sel,Y,Poivre,Y,Basilic,Y,Crudo végane,Radis noir,Y,Huile d'olive,Y,Citron,Y,Fleur de sel,Y,Poivre,Y,Basilic,Y
+231,Tiramisu,Mascarpone,N,Œufs,N,Sucre,Y,Café,Y,Cacao,Y,Biscuits,Y,Tiramisu végane,Mascarpone végétal,Y,Aquafaba,Y,Sucre,Y,Café,Y,Cacao,Y,Biscuits véganes,Y
+232,Panna cotta,Crème fraîche,N,Gélatine,N,Sucre,Y,Vanille,Y,Fruits rouges,Y,,Panna cotta végane,Crème de coco,Y,Agar-agar,Y,Sucre,Y,Vanille,Y,Fruits rouges,Y,Lait de cajou,Y
+233,Tarte aux fraises,Fraises,Y,Pâte sablée,Y,Crème pâtissière,N,Beurre,N,Œufs,N,Sucre,Y,Tarte végane fraises,Fraises,Y,Pâte sablée végane,Y,Crème végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+234,Bavarois aux fruits,Crème anglaise,N,Gélatine,N,Fruits,Y,Sucre,Y,Crème chantilly,N,,Bavarois végane,Crème végétale,Y,Agar-agar,Y,Fruits,Y,Sucre,Y,Chantilly végétale,Y,Lait de coco,Y
+235,Charlotte aux framboise,Biscuits à la cuillère,Y,Framboises,Y,Crème mousseuse,N,Gélatine,N,Sucre,Y,,Charlotte végane framboise,Biscuits véganes,Y,Framboises,Y,Mousse végétale,Y,Agar-agar,Y,Sucre,Y,Aquafaba,Y
+236,Clafoutis aux abricots,Abricots,Y,Lait,N,Œufs,N,Farine,Y,Sucre,Y,Beurre,N,Clafoutis végane abricots,Abricots,Y,Lait d'amande,Y,Aquafaba,Y,Farine,Y,Sucre,Y,Huile coco,Y
+237,Tarte aux poires,Poires,Y,Pâte brisée,Y,Crème d'amande,Y,Beurre,N,Œufs,N,Sucre,Y,Tarte végane poires,Poires,Y,Pâte brisée,Y,Crème d'amande,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+238,Flan pâtissier,Lait,N,Œufs,N,Sucre,Y,Farine,Y,Vanille,Y,Pâte brisée,Y,Flan végane,Lait de soja,Y,Tofu soyeux,Y,Sucre,Y,Farine,Y,Vanille,Y,Pâte brisée,Y
+239,Tarte tropézienne,Brioche,N,Crème pâtissière,N,Crème chantilly,N,Sucre perlé,Y,Œufs,N,Beurre,N,Tropézienne végane,Brioche végane,Y,Crème végane,Y,Chantilly végétale,Y,Sucre perlé,Y,Aquafaba,Y,Beurre végétal,Y
+240,Mille-feuille à la vanille,Pâte feuilletée,Y,Crème pâtissière,N,Fondant,Y,Vanille,Y,Beurre,N,Sucre,Y,Mille-feuille végane,Pâte feuilletée,Y,Crème végane vanille,Y,Fondant végane,Y,Vanille,Y,Beurre végétal,Y,Sucre,Y
+241,Chouquettes,Pâte à choux,Y,Œufs,N,Beurre,N,Sucre perlé,Y,Lait,N,Farine,Y,Chouquettes véganes,Pâte à choux végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre perlé,Y,Lait végétal,Y,Farine,Y
+242,Pets de nonne,Pâte à choux,Y,Œufs,N,Beurre,N,Huile,Y,Sucre,Y,Farine,Y,Pets de nonne véganes,Pâte à choux végane,Y,Aquafaba,Y,Beurre végétal,Y,Huile,Y,Sucre,Y,Farine,Y
+243,Choux à la crème,Pâte à choux,Y,Crème chantilly,N,Œufs,N,Beurre,N,Sucre,Y,Farine,Y,Choux véganes crème,Pâte à choux végane,Y,Chantilly végétale,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Farine,Y
+244,Salambo,Pâte à choux,Y,Crème pâtissière,N,Caramel,Y,Œufs,N,Beurre,N,Farine,Y,Salambo végane,Pâte à choux végane,Y,Crème végane,Y,Caramel végétal,Y,Aquafaba,Y,Beurre végétal,Y,Farine,Y
+245,Savarin,Pâte à savarin,Y,Rhum,Y,Crème chantilly,N,Beurre,N,Œufs,N,Fruits,Y,Savarin végane,Pâte végane,Y,Rhum,Y,Chantilly végétale,Y,Beurre végétal,Y,Aquafaba,Y,Fruits,Y
+246,Baba au rhum,Pâte à brioche,N,Rhum,Y,Crème chantilly,N,Beurre,N,Œufs,N,Raisins,Y,Baba végane,Pâte végane,Y,Rhum,Y,Chantilly végétale,Y,Beurre végétal,Y,Aquafaba,Y,Raisins,Y
+247,Tarte bourdaloue,Poires,Y,Crème d'amande,Y,Pâte brisée,Y,Beurre,N,Œufs,N,Amandes,Y,Tarte végane bourdaloue,Poires,Y,Crème d'amande,Y,Pâte brisée,Y,Beurre végétal,Y,Aquafaba,Y,Amandes,Y
+248,Saint-Genix,Brioche,N,Pralines roses,Y,Crème,N,Beurre,N,Œufs,N,Sucre,Y,Saint-Genix végane,Brioche végane,Y,Pralines roses,Y,Crème végétale,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+249,Visitandine,Beurre noisette,N,Amandes,Y,Blancs d'œufs,N,Sucre,Y,Farine,Y,Miel,Y,Visitandine végane,Beurre végétal,Y,Amandes,Y,Aquafaba,Y,Sucre,Y,Farine,Y,Sirop d'agave,Y
+250,Tarte à la rhubarbe,Rhubarbe,Y,Pâte brisée,Y,Crème d'amande,Y,Beurre,N,Œufs,N,Sucre,Y,Tarte végane rhubarbe,Rhubarbe,Y,Pâte brisée,Y,Crème d'amande,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+251,Saucisse de Toulouse,Porc,N,Boyau naturel,N,Ail,Y,Persil,Y,Vin rouge,Y,Épices,Y,Saucisse végétale Toulouse,Protéines de blé,Y,Boyau végétal,Y,Ail,Y,Persil,Y,Vin rouge,Y,Épices,Y
+252,Merguez,Agneau,N,Bœuf,N,Harissa,Y,Ail,Y,Coriandre,Y,Boyau,N,Merguez végétales,Protéines végétales,Y,Seitan,Y,Harissa,Y,Ail,Y,Coriandre,Y,Boyau végétal,Y
+253,Boudin antillais,Sang de porc,N,Riz,Y,Piment,Y,Oignons,Y,Thym,Y,Boyau,N,Boudin végétal antillais,Riz noir,Y,Riz,Y,Piment,Y,Oignons,Y,Thym,Y,Boyau végétal,Y
+254,Andouille de Vire,Tripes,N,Chaudin,N,Sel,Y,Poivre,Y,Épices,Y,,Andouille végétale,Champignons king oyster,Y,Algues,Y,Sel,Y,Poivre,Y,Épices,Y,Fumage liquide,Y
+255,Saucisson sec,Porc,N,Lard,N,Ail,Y,Sel,Y,Poivre,Y,Ferments,Y,Saucisson végétal sec,Seitan,Y,Graisse végétale,Y,Ail,Y,Sel,Y,Poivre,Y,Ferments végétaux,Y
+256,Jambon de Bayonne,Jambon,N,Sel de Salies,Y,Piment d'Espelette,Y,,,Jambon végétal Bayonne,Seitan fumé,Y,Sel de Salies,Y,Piment d'Espelette,Y,Fumage végétal,Y,Protéines de blé,Y,Huile d'olive,Y
+257,Coppa,Échine de porc,N,Sel,Y,Vin rouge,Y,Épices,Y,Boyau,N,,Coppa végétale,Seitan,Y,Sel,Y,Vin rouge,Y,Épices,Y,Boyau végétal,Y,Betterave,Y
+258,Rosette de Lyon,Porc,N,Lard,N,Vin rouge,Y,Ail,Y,Poivre,Y,Boyau,N,Rosette végétale,Seitan,Y,Graisse végétale,Y,Vin rouge,Y,Ail,Y,Poivre,Y,Boyau végétal,Y
+259,Chorizo,Porc,N,Paprika,Y,Ail,Y,Vin rouge,Y,Piment,Y,Boyau,N,Chorizo végétal,Protéines végétales,Y,Paprika,Y,Ail,Y,Vin rouge,Y,Piment,Y,Boyau végétal,Y
+260,Mortadelle,Porc,N,Lard,N,Pistaches,Y,Poivre,Y,Coriandre,Y,Boyau,N,Mortadelle végétale,Seitan,Y,Graisse végétale,Y,Pistaches,Y,Poivre,Y,Coriandre,Y,Boyau végétal,Y
+261,Confit d'oie,Oie,N,Graisse d'oie,N,Thym,Y,Laurier,Y,Ail,Y,Gros sel,Y,Confit végétal d'oie,Champignons shiitake,Y,Huile d'olive,Y,Thym,Y,Laurier,Y,Ail,Y,Gros sel,Y
+262,Magret fumé,Canard,N,Sel,Y,Poivre,Y,Thym,Y,Fumage,Y,,Magret végétal fumé,Seitan,Y,Sel,Y,Poivre,Y,Thym,Y,Fumage végétal,Y,Protéines de blé,Y
+263,Jambon blanc,Porc,N,Saumure,Y,Épices,Y,,,Jambon végétal blanc,Seitan,Y,Saumure végétale,Y,Épices,Y,Protéines de blé,Y,Huile végétale,Y,Arômes naturels,Y
+264,Bresaola,Bœuf,N,Sel,Y,Vin rouge,Y,Épices,Y,Herbes,Y,,Bresaola végétale,Betterave,Y,Sel,Y,Vin rouge,Y,Épices,Y,Herbes,Y,Agar-agar,Y
+265,Pancetta,Ventre de porc,N,Sel,Y,Poivre,Y,Fenouil,Y,Thym,Y,,Pancetta végétale,Seitan,Y,Sel,Y,Poivre,Y,Fenouil,Y,Thym,Y,Huile d'olive,Y
+266,Gratin de cardons,Cardons,Y,Béchamel,N,Gruyère,N,Moelle,N,Muscade,Y,Beurre,N,Gratin végane cardons,Cardons,Y,Béchamel végane,Y,Fromage végétal,Y,Champignons,Y,Muscade,Y,Beurre végétal,Y
+267,Farcis niçois,Tomates,Y,Courgettes,Y,Farce,N,Riz,Y,Herbes,Y,Parmesan,N,Farcis véganes niçois,Tomates,Y,Courgettes,Y,Farce végétale,Y,Riz,Y,Herbes,Y,Fromage végétal,Y
+268,Petits farcis provençaux,Légumes variés,Y,Farce,N,Ail,Y,Herbes de Provence,Y,Huile d'olive,Y,Riz,Y,Petits farcis véganes,Légumes variés,Y,Farce végétale,Y,Ail,Y,Herbes de Provence,Y,Huile d'olive,Y,Riz,Y
+269,Caillettes,Foie de porc,N,Épinards,Y,Riz,Y,Herbes,Y,Crépine,N,Ail,Y,Caillettes végétales,Lentilles,Y,Épinards,Y,Riz,Y,Herbes,Y,Feuilles de chou,Y,Ail,Y
+270,Godiveau,Veau,N,Graisse de rognon,N,Œufs,N,Mie de pain,Y,Muscade,Y,Persil,Y,Godiveau végétal,Tofu,Y,Graisse végétale,Y,Aquafaba,Y,Mie de pain,Y,Muscade,Y,Persil,Y
+271,Fricadelles,Porc,N,Bœuf,N,Œufs,N,Chapelure,Y,Oignons,Y,Persil,Y,Fricadelles végétales,Protéines végétales,Y,Seitan,Y,Aquafaba,Y,Chapelure,Y,Oignons,Y,Persil,Y
+272,Boulettes de viande,Bœuf,N,Porc,N,Œufs,N,Mie de pain,Y,Oignons,Y,Persil,Y,Boulettes végétales,Protéines végétales,Y,Lentilles,Y,Aquafaba,Y,Mie de pain,Y,Oignons,Y,Persil,Y
+273,Hachis parmentier,Bœuf haché,N,Pommes de terre,Y,Lait,N,Beurre,N,Oignons,Y,Persil,Y,Hachis végane,Protéines végétales,Y,Pommes de terre,Y,Lait végétal,Y,Beurre végétal,Y,Oignons,Y,Persil,Y
+274,Moussaka,Aubergines,Y,Agneau,N,Béchamel,N,Tomates,Y,Oignons,Y,Parmesan,N,Moussaka végane,Aubergines,Y,Lentilles,Y,Béchamel végane,Y,Tomates,Y,Oignons,Y,Fromage végétal,Y
+275,Shepherd's pie,Agneau,N,Pommes de terre,Y,Carottes,Y,Petits pois,Y,Oignons,Y,Bouillon,N,Shepherd's pie végane,Lentilles,Y,Pommes de terre,Y,Carottes,Y,Petits pois,Y,Oignons,Y,Bouillon végétal,Y
+276,Pastitsio,Pâtes,Y,Agneau,N,Béchamel,N,Tomates,Y,Cannelle,Y,Fromage,N,Pastitsio végane,Pâtes,Y,Lentilles,Y,Béchamel végane,Y,Tomates,Y,Cannelle,Y,Fromage végétal,Y
+277,Lasagnes,Pâtes,Y,Bœuf,N,Béchamel,N,Tomates,Y,Parmesan,N,Mozzarella,N,Lasagnes véganes,Pâtes,Y,Protéines végétales,Y,Béchamel végane,Y,Tomates,Y,Parmesan végétal,Y,Mozzarella végétale,Y
+278,Cannellonis,Pâtes,Y,Ricotta,N,Épinards,Y,Tomates,Y,Parmesan,N,Muscade,Y,Cannellonis véganes,Pâtes,Y,Ricotta végétale,Y,Épinards,Y,Tomates,Y,Parmesan végétal,Y,Muscade,Y
+279,Raviolis,Pâtes fraîches,Y,Ricotta,N,Épinards,Y,Œufs,N,Parmesan,N,Muscade,Y,Raviolis véganes,Pâtes fraîches véganes,Y,Ricotta végétale,Y,Épinards,Y,Aquafaba,Y,Parmesan végétal,Y,Muscade,Y
+280,Gratin de pâtes,Pâtes,Y,Béchamel,N,Gruyère,N,Jambon,N,Muscade,Y,Beurre,N,Gratin végane de pâtes,Pâtes,Y,Béchamel végane,Y,Fromage végétal,Y,Jambon végétal,Y,Muscade,Y,Beurre végétal,Y
+281,Risotto aux champignons,Riz arborio,Y,Champignons,Y,Parmesan,N,Vin blanc,Y,Bouillon,N,Beurre,N,Risotto végane,Riz arborio,Y,Champignons,Y,Parmesan végétal,Y,Vin blanc,Y,Bouillon végétal,Y,Beurre végétal,Y
+282,Risotto aux fruits de mer,Riz arborio,Y,Crevettes,N,Moules,N,Vin blanc,Y,Bouillon,N,Parmesan,N,Risotto végane mer,Riz arborio,Y,Algues,Y,Champignons,Y,Vin blanc,Y,Bouillon végétal,Y,Parmesan végétal,Y
+283,Paëlla aux fruits de mer,Riz,Y,Crevettes,N,Moules,N,Calamars,N,Safran,Y,Tomates,Y,Paëlla végane mer,Riz,Y,Algues,Y,Champignons,Y,Tofu,Y,Safran,Y,Tomates,Y
+284,Riz pilaf,Riz,Y,Bouillon,N,Oignons,Y,Beurre,N,Épices,Y,Amandes,Y,Riz pilaf végane,Riz,Y,Bouillon végétal,Y,Oignons,Y,Huile d'olive,Y,Épices,Y,Amandes,Y
+285,Riz au curry,Riz,Y,Curry,Y,Lait de coco,Y,Oignons,Y,Ail,Y,Gingembre,Y,Riz au curry,Riz,Y,Curry,Y,Lait de coco,Y,Oignons,Y,Ail,Y,Gingembre,Y
+286,Riz cantonais,Riz,Y,Œufs,N,Jambon,N,Petits pois,Y,Carottes,Y,Oignons,Y,Riz cantonais végane,Riz,Y,Tofu brouillé,Y,Jambon végétal,Y,Petits pois,Y,Carottes,Y,Oignons,Y
+287,Taboulé libanais,Boulgour,Y,Persil,Y,Menthe,Y,Tomates,Y,Citron,Y,Huile d'olive,Y,Taboulé libanais,Boulgour,Y,Persil,Y,Menthe,Y,Tomates,Y,Citron,Y,Huile d'olive,Y
+288,Couscous aux légumes,Semoule,Y,Courgettes,Y,Carottes,Y,Navets,Y,Pois chiches,Y,Bouillon,N,Couscous végane,Semoule,Y,Courgettes,Y,Carottes,Y,Navets,Y,Pois chiches,Y,Bouillon végétal,Y
+289,Polenta,Farine de maïs,Y,Eau,Y,Sel,Y,Beurre,N,Parmesan,N,,Polenta végane,Farine de maïs,Y,Eau,Y,Sel,Y,Beurre végétal,Y,Levure nutritionnelle,Y,Huile d'olive,Y
+290,Gnocchis,Pommes de terre,Y,Farine,Y,Œufs,N,Parmesan,N,Muscade,Y,Sel,Y,Gnocchis véganes,Pommes de terre,Y,Farine,Y,Aquafaba,Y,Levure nutritionnelle,Y,Muscade,Y,Sel,Y
+291,Brandade nîmoise,Morue,N,Pommes de terre,Y,Huile d'olive,Y,Lait,N,Ail,Y,Persil,Y,Brandade végane nîmoise,Tofu émietté,Y,Pommes de terre,Y,Huile d'olive,Y,Lait végétal,Y,Ail,Y,Persil,Y
+292,Aïoli garni,Morue,N,Légumes,Y,Œufs durs,N,Escargots,N,Aïoli,N,Olives,Y,Aïoli végane garni,Tofu,Y,Légumes,Y,Œufs véganes,Y,Champignons,Y,Aïoli végane,Y,Olives,Y
+293,Anchoïade,Anchois,N,Ail,Y,Huile d'olive,Y,Vinaigre,Y,Figues,Y,Tomates,Y,Anchoïade végane,Algue nori,Y,Ail,Y,Huile d'olive,Y,Vinaigre,Y,Figues,Y,Tomates,Y
+294,Bourride sétoise,Lotte,N,Baudroie,N,Aïoli,N,Pommes de terre,Y,Fenouil,Y,Safran,Y,Bourride végane sétoise,Tofu ferme,Y,Champignons,Y,Aïoli végane,Y,Pommes de terre,Y,Fenouil,Y,Safran,Y
+295,Ttoro,Poissons,N,Piment d'Espelette,Y,Tomates,Y,Oignons,Y,Vin blanc,Y,Ail,Y,Ttoro végane,Tofu,Y,Piment d'Espelette,Y,Tomates,Y,Oignons,Y,Vin blanc,Y,Ail,Y
+296,Caldeirada,Poissons variés,N,Pommes de terre,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Huile d'olive,Y,Caldeirada végane,Algues variées,Y,Pommes de terre,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Huile d'olive,Y
+297,Cioppino,Poissons,N,Fruits de mer,N,Tomates,Y,Vin blanc,Y,Fenouil,Y,Ail,Y,Cioppino végane,Champignons,Y,Algues,Y,Tomates,Y,Vin blanc,Y,Fenouil,Y,Ail,Y
+298,Zarzuela,Poissons,N,Fruits de mer,N,Tomates,Y,Safran,Y,Ail,Y,Persil,Y,Zarzuela végane,Tofu,Y,Champignons,Y,Tomates,Y,Safran,Y,Ail,Y,Persil,Y
+299,Suquet,Poissons,N,Pommes de terre,Y,Tomates,Y,Ail,Y,Persil,Y,Huile d'olive,Y,Suquet végane,Tofu fumé,Y,Pommes de terre,Y,Tomates,Y,Ail,Y,Persil,Y,Huile d'olive,Y
+300,Kakavia,Poissons,N,Oignons,Y,Tomates,Y,Céleri,Y,Citron,Y,Huile d'olive,Y,Kakavia végane,Algues kombu,Y,Oignons,Y,Tomates,Y,Céleri,Y,Citron,Y,Huile d'olive,YrecetteID,nom_recette,ingredient_1,ingredient_1_vegan,ingredient_2,ingredient_2_vegan,ingredient_3,ingredient_3_vegan,ingredient_4,ingredient_4_vegan,ingredient_5,ingredient_5_vegan,ingredient_6,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_1_vegan,ingredient_vegan_2,ingredient_vegan_2_vegan,ingredient_vegan_3,ingredient_vegan_3_vegan,ingredient_vegan_4,ingredient_vegan_4_vegan,ingredient_vegan_5,ingredient_vegan_5_vegan,ingredient_vegan_6,ingredient_vegan_6_vegan
+301,Crozets de Savoie,Crozets,Y,Reblochon,N,Lardons,N,Oignons,Y,Vin blanc,Y,Crème fraîche,N,Crozets véganes,Crozets,Y,Fromage végétal,Y,Tempeh fumé,Y,Oignons,Y,Vin blanc,Y,Crème de soja,Y
+302,Diots au vin blanc,Diots,N,Vin blanc,Y,Oignons,Y,Thym,Y,Laurier,Y,Beurre,N,Diots végétaux,Saucisses végétales,Y,Vin blanc,Y,Oignons,Y,Thym,Y,Laurier,Y,Beurre végétal,Y
+303,Pélardon,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Pélardon végétal,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Levure nutritionnelle,Y,Agar-agar,Y
+304,Picodon,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Picodon végétal,Lait d'amande,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Probiotiques,Y,Huile de coco,Y
+305,Crottin de Chavignol,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Crottin végétal,Noix de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Levure nutritionnelle,Y,Agar-agar,Y
+306,Rocamadour,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Rocamadour végétal,Lait de coco,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Cultures lactiques,Y,Huile d'olive,Y
+307,Cabécou,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Cabécou végétal,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Agar-agar,Y,Probiotiques,Y
+308,Banon,Lait de chèvre,N,Présure,N,Feuilles de châtaignier,Y,Sel,Y,,,Banon végétal,Lait végétal,Y,Ferments végétaux,Y,Feuilles de châtaignier,Y,Sel,Y,Cultures végétales,Y,Agar-agar,Y
+309,Sainte-Maure de Touraine,Lait de chèvre,N,Présure,N,Ferments,Y,Cendre,Y,Sel,Y,,Sainte-Maure végétale,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Cendre végétale,Y,Sel,Y,Levure nutritionnelle,Y
+310,Valençay,Lait de chèvre,N,Présure,N,Cendre,Y,Sel,Y,,,Valençay végétal,Lait d'amande,Y,Ferments végétaux,Y,Cendre végétale,Y,Sel,Y,Cultures lactiques,Y,Agar-agar,Y
+311,Pouligny-Saint-Pierre,Lait de chèvre,N,Présure,N,Ferments,Y,Sel,Y,,,Pouligny végétal,Noix de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Probiotiques,Y,Huile de coco,Y
+312,Selles-sur-Cher,Lait de chèvre,N,Présure,N,Cendre,Y,Sel,Y,,,Selles-sur-Cher végétale,Lait végétal,Y,Ferments végétaux,Y,Cendre végétale,Y,Sel,Y,Levure nutritionnelle,Y,Agar-agar,Y
+313,Fougasse provençale,Farine,Y,Huile d'olive,Y,Herbes de Provence,Y,Olives,Y,Tomates séchées,Y,Levure,Y,Fougasse provençale,Farine,Y,Huile d'olive,Y,Herbes de Provence,Y,Olives,Y,Tomates séchées,Y,Levure,Y
+314,Pain de campagne,Farine,Y,Levain,Y,Sel,Y,Eau,Y,,,Pain de campagne,Farine,Y,Levain,Y,Sel,Y,Eau,Y,Graines,Y,Huile d'olive,Y
+315,Pain aux noix,Farine,Y,Noix,Y,Levure,Y,Sel,Y,Eau,Y,Miel,Y,Pain végane aux noix,Farine,Y,Noix,Y,Levure,Y,Sel,Y,Eau,Y,Sirop d'agave,Y
+316,Pain aux olives,Farine,Y,Olives,Y,Huile d'olive,Y,Levure,Y,Sel,Y,Herbes,Y,Pain aux olives,Farine,Y,Olives,Y,Huile d'olive,Y,Levure,Y,Sel,Y,Herbes,Y
+317,Fougassette,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y,Fougassette,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y
+318,Pain brioché,Farine,Y,Beurre,N,Œufs,N,Lait,N,Sucre,Y,Levure,Y,Pain brioché végane,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Levure,Y
+319,Pain de seigle,Farine de seigle,Y,Levain,Y,Sel,Y,Eau,Y,Graines,Y,,Pain de seigle,Farine de seigle,Y,Levain,Y,Sel,Y,Eau,Y,Graines,Y,Huile,Y
+320,Pain complet,Farine complète,Y,Levure,Y,Sel,Y,Eau,Y,Miel,Y,,Pain complet végane,Farine complète,Y,Levure,Y,Sel,Y,Eau,Y,Sirop d'érable,Y,Graines,Y
+321,Chouquettes sucrées,Pâte à choux,Y,Œufs,N,Beurre,N,Sucre perlé,Y,Lait,N,Vanille,Y,Chouquettes véganes sucrées,Pâte à choux végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre perlé,Y,Lait végétal,Y,Vanille,Y
+322,Choux au chocolat,Pâte à choux,Y,Crème au chocolat,N,Œufs,N,Beurre,N,Chocolat,Y,Sucre,Y,Choux véganes chocolat,Pâte à choux végane,Y,Crème végane chocolat,Y,Aquafaba,Y,Beurre végétal,Y,Chocolat,Y,Sucre,Y
+323,Gâteau opéra,Biscuit Joconde,N,Ganache chocolat,N,Crème au beurre,N,Sirop café,Y,Glaçage,Y,Café,Y,Opéra végane,Biscuit végane,Y,Ganache végane,Y,Crème végétale,Y,Sirop café,Y,Glaçage végétal,Y,Café,Y
+324,Fraisier,Génoise,N,Crème mousseline,N,Fraises,Y,Pâte d'amande,Y,Sucre,Y,,Fraisier végane,Génoise végane,Y,Crème végétale,Y,Fraises,Y,Pâte d'amande,Y,Sucre,Y,Agar-agar,Y
+325,Forêt noire,Génoise chocolat,N,Crème chantilly,N,Cerises,Y,Kirsch,Y,Chocolat,Y,,Forêt noire végane,Génoise végane,Y,Chantilly végétale,Y,Cerises,Y,Kirsch,Y,Chocolat,Y,Crème de coco,Y
+326,Succès aux pralines,Meringue,N,Crème au beurre,N,Pralines,Y,Amandes,Y,Sucre,Y,,Succès végane pralines,Meringue végane,Y,Crème végétale,Y,Pralines,Y,Amandes,Y,Sucre,Y,Aquafaba,Y
+327,Dacquoise,Meringue aux amandes,N,Crème au beurre,N,Amandes,Y,Sucre,Y,Vanille,Y,,Dacquoise végane,Meringue végane amandes,Y,Crème végétale,Y,Amandes,Y,Sucre,Y,Vanille,Y,Aquafaba,Y
+328,Vacherin glacé,Meringue,N,Glace vanille,N,Glace fraise,N,Chantilly,N,Fruits rouges,Y,,Vacherin végane,Meringue végane,Y,Glace végétale vanille,Y,Glace végétale fraise,Y,Chantilly végétale,Y,Fruits rouges,Y,Aquafaba,Y
+329,Charlotte russe,Biscuits à la cuillère,Y,Crème bavaroise,N,Fruits,Y,Gélatine,N,Sucre,Y,,Charlotte russe végane,Biscuits véganes,Y,Crème végétale,Y,Fruits,Y,Agar-agar,Y,Sucre,Y,Lait de coco,Y
+330,Diplomate,Brioche,N,Crème anglaise,N,Fruits confits,Y,Kirsch,Y,Crème chantilly,N,,Diplomate végane,Brioche végane,Y,Crème végétale,Y,Fruits confits,Y,Kirsch,Y,Chantilly végétale,Y,Lait végétal,Y
+331,Moka,Génoise,N,Crème au beurre café,N,Café,Y,Sucre,Y,Amandes,Y,,Moka végane,Génoise végane,Y,Crème végétale café,Y,Café,Y,Sucre,Y,Amandes,Y,Beurre végétal,Y
+332,Royal chocolat,Mousse chocolat,N,Biscuit,Y,Glaçage,Y,Chocolat,Y,Crème,N,,Royal végane chocolat,Mousse végane,Y,Biscuit végane,Y,Glaçage végétal,Y,Chocolat,Y,Crème végétale,Y,Tofu soyeux,Y
+333,Trianon,Feuilletine,Y,Mousse chocolat,N,Ganache,N,Chocolat,Y,Praline,Y,,Trianon végane,Feuilletine,Y,Mousse végane,Y,Ganache végane,Y,Chocolat,Y,Praline,Y,Crème de coco,Y
+334,Entremets fruits rouges,Génoise,N,Mousse fruits,N,Fruits rouges,Y,Gélatine,N,Sucre,Y,,Entremets végane,Génoise végane,Y,Mousse végétale,Y,Fruits rouges,Y,Agar-agar,Y,Sucre,Y,Crème de coco,Y
+335,Tarte aux figues,Figues,Y,Pâte sablée,Y,Crème d'amande,Y,Beurre,N,Œufs,N,Miel,Y,Tarte végane figues,Figues,Y,Pâte sablée végane,Y,Crème d'amande,Y,Beurre végétal,Y,Aquafaba,Y,Sirop d'agave,Y
+336,Tarte aux prunes,Prunes,Y,Pâte brisée,Y,Crème pâtissière,N,Beurre,N,Œufs,N,Sucre,Y,Tarte végane prunes,Prunes,Y,Pâte brisée,Y,Crème végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+337,Tarte aux mirabelles,Mirabelles,Y,Pâte sablée,Y,Crème d'amande,Y,Beurre,N,Œufs,N,Sucre,Y,Tarte végane mirabelles,Mirabelles,Y,Pâte sablée végane,Y,Crème d'amande,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+338,Tarte aux quetsches,Quetsches,Y,Pâte brisée,Y,Crème pâtissière,N,Beurre,N,Œufs,N,Cannelle,Y,Tarte végane quetsches,Quetsches,Y,Pâte brisée,Y,Crème végane,Y,Beurre végétal,Y,Aquafaba,Y,Cannelle,Y
+339,Tarte Bourdaloue aux poires,Poires,Y,Crème d'amande,Y,Pâte sablée,Y,Beurre,N,Œufs,N,Amandes,Y,Bourdaloue végane,Poires,Y,Crème d'amande,Y,Pâte sablée végane,Y,Beurre végétal,Y,Aquafaba,Y,Amandes,Y
+340,Tarte normande,Pommes,Y,Crème fraîche,N,Œufs,N,Calvados,Y,Pâte brisée,Y,Beurre,N,Tarte normande végane,Pommes,Y,Crème de soja,Y,Tofu soyeux,Y,Calvados,Y,Pâte brisée,Y,Beurre végétal,Y
+341,Kouglof,Farine,Y,Beurre,N,Œufs,N,Lait,N,Levure,Y,Raisins,Y,Kouglof végane,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Lait végétal,Y,Levure,Y,Raisins,Y
+342,Stollen,Farine,Y,Beurre,N,Œufs,N,Fruits confits,Y,Amandes,Y,Rhum,Y,Stollen végane,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Fruits confits,Y,Amandes,Y,Rhum,Y
+343,Panettone,Farine,Y,Beurre,N,Œufs,N,Fruits confits,Y,Levure,Y,Lait,N,Panettone végane,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Fruits confits,Y,Levure,Y,Lait végétal,Y
+344,Brioche des rois,Farine,Y,Beurre,N,Œufs,N,Fruits confits,Y,Fleur d'oranger,Y,Sucre,Y,Brioche végane rois,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Fruits confits,Y,Fleur d'oranger,Y,Sucre,Y
+345,Galette bretonne,Farine,Y,Beurre salé,N,Sucre,Y,Œufs,N,Poudre d'amande,Y,,Galette bretonne végane,Farine,Y,Beurre végétal salé,Y,Sucre,Y,Aquafaba,Y,Poudre d'amande,Y,Farine de sarrasin,Y
+346,Sablés bretons,Farine,Y,Beurre salé,N,Sucre,Y,Jaunes d'œufs,N,Sel,Y,,Sablés bretons véganes,Farine,Y,Beurre végétal salé,Y,Sucre,Y,Aquafaba,Y,Sel,Y,Vanille,Y
+347,Palets bretons,Farine,Y,Beurre salé,N,Sucre,Y,Œufs,N,Rhum,Y,,Palets bretons véganes,Farine,Y,Beurre végétal salé,Y,Sucre,Y,Aquafaba,Y,Rhum,Y,Levure,Y
+348,Quatre-quarts,Farine,Y,Beurre,N,Œufs,N,Sucre,Y,Levure,Y,,Quatre-quarts végane,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y,Levure,Y,Lait végétal,Y
+349,Cake aux fruits,Farine,Y,Beurre,N,Œufs,N,Fruits confits,Y,Rhum,Y,Sucre,Y,Cake végane fruits,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Fruits confits,Y,Rhum,Y,Sucre,Y
+350,Génoise nature,Farine,Y,Œufs,N,Sucre,Y,Beurre,N,Vanille,Y,,Génoise végane,Farine,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Vanille,Y,Lait végétal,Y
+351,Biscuit de Savoie,Farine,Y,Œufs,N,Sucre,Y,Fécule,Y,Vanille,Y,,Biscuit végane Savoie,Farine,Y,Aquafaba,Y,Sucre,Y,Fécule,Y,Vanille,Y,Levure,Y
+352,Congolais,Noix de coco,Y,Blancs d'œufs,N,Sucre,Y,Vanille,Y,,,Congolais véganes,Noix de coco,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Agar-agar,Y,Crème de coco,Y
+353,Rochers coco,Noix de coco,Y,Blancs d'œufs,N,Sucre,Y,Vanille,Y,,,Rochers coco véganes,Noix de coco,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Sirop d'agave,Y,Farine,Y
+354,Tuiles aux amandes,Amandes effilées,Y,Blancs d'œufs,N,Sucre,Y,Beurre,N,Farine,Y,,Tuiles véganes amandes,Amandes effilées,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Farine,Y,Vanille,Y
+355,Langues de chat,Farine,Y,Beurre,N,Sucre glace,Y,Blancs d'œufs,N,Vanille,Y,,Langues de chat véganes,Farine,Y,Beurre végétal,Y,Sucre glace,Y,Aquafaba,Y,Vanille,Y,Lait végétal,Y
+356,Cigarettes russes,Farine,Y,Beurre,N,Sucre,Y,Blancs d'œufs,N,Vanille,Y,,Cigarettes russes véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Vanille,Y,Sirop,Y
+357,Palets de dames,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Raisins de Corinthe,Y,,Palets véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Raisins de Corinthe,Y,Vanille,Y
+358,Sablés de Caen,Farine,Y,Beurre,N,Sucre,Y,Jaunes d'œufs,N,Calvados,Y,,Sablés véganes Caen,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Calvados,Y,Vanille,Y
+359,Galettes de Pont-Aven,Farine,Y,Beurre salé,N,Sucre,Y,Œufs,N,,,Galettes véganes Pont-Aven,Farine,Y,Beurre végétal salé,Y,Sucre,Y,Aquafaba,Y,Sel de mer,Y,Vanille,Y
+360,Croquets aux amandes,Amandes,Y,Farine,Y,Sucre,Y,Blancs d'œufs,N,Vanille,Y,,Croquets véganes,Amandes,Y,Farine,Y,Sucre,Y,Aquafaba,Y,Vanille,Y,Huile d'amande,Y
+361,Nougat de Montélimar,Amandes,Y,Pistaches,Y,Miel,Y,Blancs d'œufs,N,Sucre,Y,,Nougat végane,Amandes,Y,Pistaches,Y,Sirop d'agave,Y,Aquafaba,Y,Sucre,Y,Vanille,Y
+362,Calissons d'Aix,Amandes,Y,Fruits confits,Y,Sucre,Y,Blanc d'œuf,N,Fleur d'oranger,Y,,Calissons véganes,Amandes,Y,Fruits confits,Y,Sucre,Y,Aquafaba,Y,Fleur d'oranger,Y,Agar-agar,Y
+363,Pralines roses,Amandes,Y,Sucre,Y,Colorant rose,Y,Eau,Y,,,Pralines roses,Amandes,Y,Sucre,Y,Colorant rose,Y,Eau,Y,Sirop,Y,Arôme,Y
+364,Dragées,Amandes,Y,Sucre,Y,Blanc d'œuf,N,Colorants,Y,Gomme arabique,Y,,Dragées véganes,Amandes,Y,Sucre,Y,Aquafaba,Y,Colorants,Y,Gomme arabique,Y,Sirop,Y
+365,Berlingots de Carpentras,Sucre,Y,Glucose,Y,Menthe,Y,Colorants,Y,,,Berlingots véganes,Sucre,Y,Glucose,Y,Menthe,Y,Colorants,Y,Agar-agar,Y,Arômes naturels,Y
+366,Caramels au beurre salé,Sucre,Y,Beurre salé,N,Crème fraîche,N,Miel,Y,,,Caramels véganes,Sucre,Y,Beurre végétal salé,Y,Crème de coco,Y,Sirop d'agave,Y,Sel de mer,Y,Vanille,Y
+367,Pâtes de fruits,Fruits,Y,Sucre,Y,Pectine,Y,Acide citrique,Y,,,Pâtes de fruits,Fruits,Y,Sucre,Y,Pectine,Y,Acide citrique,Y,Agar-agar,Y,Jus de citron,Y
+368,Guimauves,Sucre,Y,Gélatine,N,Blanc d'œuf,N,Vanille,Y,Eau,Y,,Guimauves véganes,Sucre,Y,Agar-agar,Y,Aquafaba,Y,Vanille,Y,Eau,Y,Sirop,Y
+369,Marshmallows,Sucre,Y,Gélatine,N,Sirop de glucose,Y,Vanille,Y,Eau,Y,,Marshmallows véganes,Sucre,Y,Agar-agar,Y,Sirop de glucose,Y,Vanille,Y,Eau,Y,Aquafaba,Y
+370,Mendiants,Chocolat noir,Y,Amandes,Y,Noisettes,Y,Raisins secs,Y,Figues sèches,Y,,Mendiants véganes,Chocolat noir,Y,Amandes,Y,Noisettes,Y,Raisins secs,Y,Figues sèches,Y,Cranberries,Y
+371,Orangettes,Écorces d'orange,Y,Chocolat noir,Y,Sucre,Y,Eau,Y,,,Orangettes véganes,Écorces d'orange,Y,Chocolat noir,Y,Sucre,Y,Eau,Y,Sirop,Y,Vanille,Y
+372,Rochers au chocolat,Chocolat noir,Y,Beurre,N,Noisettes,Y,Sucre,Y,Cacao,Y,,Rochers véganes chocolat,Chocolat noir,Y,Beurre végétal,Y,Noisettes,Y,Sucre,Y,Cacao,Y,Crème de coco,Y
+373,Truffes au chocolat,Chocolat noir,Y,Crème fraîche,N,Beurre,N,Cacao,Y,Cognac,Y,,Truffes véganes,Chocolat noir,Y,Crème de coco,Y,Beurre végétal,Y,Cacao,Y,Cognac,Y,Tofu soyeux,Y
+374,Ganache,Chocolat noir,Y,Crème fraîche,N,Beurre,N,Miel,Y,,,Ganache végane,Chocolat noir,Y,Crème de coco,Y,Beurre végétal,Y,Sirop d'agave,Y,Lait de coco,Y,Vanille,Y
+375,Mousse au chocolat noir,Chocolat noir,Y,Œufs,N,Sucre,Y,Beurre,N,,,Mousse végane chocolat,Chocolat noir,Y,Tofu soyeux,Y,Sucre,Y,Aquafaba,Y,Crème de coco,Y,Vanille,Y
+376,Pot de crème chocolat,Lait,N,Chocolat,Y,Œufs,N,Sucre,Y,Vanille,Y,,Pot de crème végane,Lait de soja,Y,Chocolat,Y,Tofu soyeux,Y,Sucre,Y,Vanille,Y,Agar-agar,Y
+377,Crème anglaise,Lait,N,Œufs,N,Sucre,Y,Vanille,Y,,,Crème anglaise végane,Lait de coco,Y,Tofu soyeux,Y,Sucre,Y,Vanille,Y,Fécule,Y,Curcuma,Y
+378,Crème pâtissière,Lait,N,Œufs,N,Sucre,Y,Farine,Y,Vanille,Y,Beurre,N,Crème pâtissière végane,Lait de soja,Y,Tofu soyeux,Y,Sucre,Y,Farine,Y,Vanille,Y,Beurre végétal,Y
+379,Crème diplomate,Crème pâtissière,N,Crème fouettée,N,Gélatine,N,Sucre,Y,Vanille,Y,,Crème diplomate végane,Crème végane,Y,Chantilly végétale,Y,Agar-agar,Y,Sucre,Y,Vanille,Y,Lait de coco,Y
+380,Crème chiboust,Crème pâtissière,N,Meringue italienne,N,Gélatine,N,Sucre,Y,Vanille,Y,,Crème chiboust végane,Crème végane,Y,Meringue végane,Y,Agar-agar,Y,Sucre,Y,Vanille,Y,Aquafaba,Y
+381,Sabayon,Jaunes d'œufs,N,Sucre,Y,Vin doux,Y,Vanille,Y,,,Sabayon végane,Tofu soyeux,Y,Sucre,Y,Vin doux,Y,Vanille,Y,Aquafaba,Y,Crème de coco,Y
+382,Crème au beurre,Beurre,N,Œufs,N,Sucre,Y,Vanille,Y,,,Crème végane beurre,Beurre végétal,Y,Tofu soyeux,Y,Sucre,Y,Vanille,Y,Lait végétal,Y,Aquafaba,Y
+383,Chantilly,Crème fraîche,N,Sucre,Y,Vanille,Y,,,Chantilly végétale,Crème de coco,Y,Sucre,Y,Vanille,Y,Aquafaba,Y,Stabilisant végétal,Y,Lait de coco,Y
+384,Crème fouettée,Crème fraîche,N,Sucre,Y,Vanille,Y,,,Crème fouettée végane,Crème végétale,Y,Sucre,Y,Vanille,Y,Stabilisant,Y,Lait de coco,Y,Aquafaba,Y
+385,Caramel beurre salé,Sucre,Y,Beurre salé,N,Crème fraîche,N,Fleur de sel,Y,,,Caramel végane,Sucre,Y,Beurre végétal salé,Y,Crème de coco,Y,Fleur de sel,Y,Sirop d'agave,Y,Vanille,Y
+386,Confiture de lait,Lait,N,Sucre,Y,Vanille,Y,Bicarbonate,Y,,,Confiture végane lait,Lait de coco,Y,Sucre,Y,Vanille,Y,Bicarbonate,Y,Crème de soja,Y,Agar-agar,Y
+387,Pâte à tartiner,Noisettes,Y,Chocolat,Y,Lait en poudre,N,Sucre,Y,Huile,Y,,Pâte végane tartiner,Noisettes,Y,Chocolat,Y,Lait végétal poudre,Y,Sucre,Y,Huile de coco,Y,Vanille,Y
+388,Coulis de fruits rouges,Fruits rouges,Y,Sucre,Y,Citron,Y,,,Coulis fruits rouges,Fruits rouges,Y,Sucre,Y,Citron,Y,Agar-agar,Y,Eau,Y,Vanille,Y
+389,Compote de pommes,Pommes,Y,Sucre,Y,Cannelle,Y,Citron,Y,,,Compote pommes,Pommes,Y,Sucre,Y,Cannelle,Y,Citron,Y,Vanille,Y,Eau,Y
+390,Marmelade d'oranges,Oranges,Y,Sucre,Y,Citron,Y,Pectine,Y,,,Marmelade oranges,Oranges,Y,Sucre,Y,Citron,Y,Pectine,Y,Agar-agar,Y,Eau,Y
+391,Confiture de fraises,Fraises,Y,Sucre,Y,Citron,Y,Pectine,Y,,,Confiture fraises,Fraises,Y,Sucre,Y,Citron,Y,Pectine,Y,Agar-agar,Y,Vanille,Y
+392,Gelée de groseilles,Groseilles,Y,Sucre,Y,Pectine,Y,Citron,Y,,,Gelée groseilles,Groseilles,Y,Sucre,Y,Pectine,Y,Citron,Y,Agar-agar,Y,Eau,Y
+393,Chutney de mangue,Mangues,Y,Vinaigre,Y,Sucre,Y,Épices,Y,Oignons,Y,,Chutney mangue,Mangues,Y,Vinaigre,Y,Sucre,Y,Épices,Y,Oignons,Y,Gingembre,Y
+394,Pickles de légumes,Légumes variés,Y,Vinaigre,Y,Sel,Y,Épices,Y,Sucre,Y,,Pickles légumes,Légumes variés,Y,Vinaigre,Y,Sel,Y,Épices,Y,Sucre,Y,Herbes,Y
+395,Cornichons,Cornichons,Y,Vinaigre,Y,Sel,Y,Estragon,Y,Échalotes,Y,,Cornichons,Cornichons,Y,Vinaigre,Y,Sel,Y,Estragon,Y,Échalotes,Y,Graines,Y
+396,Olives marinées,Olives,Y,Huile d'olive,Y,Herbes,Y,Ail,Y,Citron,Y,,Olives marinées,Olives,Y,Huile d'olive,Y,Herbes,Y,Ail,Y,Citron,Y,Épices,Y
+397,Antipasti,Légumes grillés,Y,Huile d'olive,Y,Vinaigre,Y,Herbes,Y,Ail,Y,,Antipasti,Légumes grillés,Y,Huile d'olive,Y,Vinaigre,Y,Herbes,Y,Ail,Y,Épices,Y
+398,Caviar d'aubergines,Aubergines,Y,Huile d'olive,Y,Ail,Y,Citron,Y,Persil,Y,,Caviar aubergines,Aubergines,Y,Huile d'olive,Y,Ail,Y,Citron,Y,Persil,Y,Tahini,Y
+399,Houmous,Pois chiches,Y,Tahini,Y,Citron,Y,Ail,Y,Huile d'olive,Y,,Houmous,Pois chiches,Y,Tahini,Y,Citron,Y,Ail,Y,Huile d'olive,Y,Cumin,Y
+400,Guacamole,Avocats,Y,Citron,Y,Oignons,Y,Tomates,Y,Coriandre,Y,Piment,Y,Guacamole,Avocats,Y,Citron,Y,Oignons,Y,Tomates,Y,Coriandre,Y,Piment,Y
+401,Tzatziki,Yaourt grec,N,Concombre,Y,Ail,Y,Citron,Y,Aneth,Y,Huile d'olive,Y,Tzatziki végane,Yaourt végétal,Y,Concombre,Y,Ail,Y,Citron,Y,Aneth,Y,Huile d'olive,Y
+402,Baba ganoush,Aubergines,Y,Tahini,Y,Citron,Y,Ail,Y,Huile d'olive,Y,Persil,Y,Baba ganoush,Aubergines,Y,Tahini,Y,Citron,Y,Ail,Y,Huile d'olive,Y,Persil,Y
+403,Muhammara,Poivrons rouges,Y,Noix,Y,Chapelure,Y,Huile d'olive,Y,Épices,Y,Grenade,Y,Muhammara,Poivrons rouges,Y,Noix,Y,Chapelure,Y,Huile d'olive,Y,Épices,Y,Grenade,Y
+404,Tapenade verte,Olives vertes,Y,Câpres,Y,Anchois,N,Ail,Y,Huile d'olive,Y,Citron,Y,Tapenade verte végane,Olives vertes,Y,Câpres,Y,Algue nori,Y,Ail,Y,Huile d'olive,Y,Citron,Y
+405,Pesto genovese,Basilic,Y,Pignons,Y,Parmesan,N,Ail,Y,Huile d'olive,Y,,Pesto végane,Basilic,Y,Pignons,Y,Levure nutritionnelle,Y,Ail,Y,Huile d'olive,Y,Noix,Y
+406,Pesto rosso,Tomates séchées,Y,Basilic,Y,Parmesan,N,Pignons,Y,Ail,Y,Huile d'olive,Y,Pesto rosso végane,Tomates séchées,Y,Basilic,Y,Levure nutritionnelle,Y,Pignons,Y,Ail,Y,Huile d'olive,Y
+407,Chimichurri,Persil,Y,Origan,Y,Ail,Y,Vinaigre,Y,Huile d'olive,Y,Piment,Y,Chimichurri,Persil,Y,Origan,Y,Ail,Y,Vinaigre,Y,Huile d'olive,Y,Piment,Y
+408,Salsa verde,Persil,Y,Câpres,Y,Anchois,N,Ail,Y,Vinaigre,Y,Huile d'olive,Y,Salsa verde végane,Persil,Y,Câpres,Y,Algue wakame,Y,Ail,Y,Vinaigre,Y,Huile d'olive,Y
+409,Gremolata,Persil,Y,Ail,Y,Zeste de citron,Y,,,Gremolata,Persil,Y,Ail,Y,Zeste de citron,Y,Huile d'olive,Y,Sel,Y,Poivre,Y
+410,Persillade,Persil,Y,Ail,Y,Huile d'olive,Y,Sel,Y,,,Persillade,Persil,Y,Ail,Y,Huile d'olive,Y,Sel,Y,Citron,Y,Poivre,Y
+411,Soupe de lentilles,Lentilles,Y,Carottes,Y,Oignons,Y,Céleri,Y,Bouillon,N,Thym,Y,Soupe végane lentilles,Lentilles,Y,Carottes,Y,Oignons,Y,Céleri,Y,Bouillon végétal,Y,Thym,Y
+412,Soupe de haricots blancs,Haricots blancs,Y,Carottes,Y,Oignons,Y,Céleri,Y,Bouillon,N,Laurier,Y,Soupe végane haricots,Haricots blancs,Y,Carottes,Y,Oignons,Y,Céleri,Y,Bouillon végétal,Y,Laurier,Y
+413,Minestrone,Légumes variés,Y,Haricots,Y,Pâtes,Y,Tomates,Y,Basilic,Y,Parmesan,N,Minestrone végane,Légumes variés,Y,Haricots,Y,Pâtes,Y,Tomates,Y,Basilic,Y,Levure nutritionnelle,Y
+414,Ribollita,Pain rassis,Y,Haricots,Y,Choux,Y,Carottes,Y,Céleri,Y,Tomates,Y,Ribollita,Pain rassis,Y,Haricots,Y,Choux,Y,Carottes,Y,Céleri,Y,Tomates,Y
+415,Soupe au pistou niçoise,Légumes variés,Y,Haricots,Y,Pâtes,Y,Pistou,Y,Tomates,Y,Basilic,Y,Soupe pistou végane,Légumes variés,Y,Haricots,Y,Pâtes,Y,Pistou végane,Y,Tomates,Y,Basilic,Y
+416,Pasta e fagioli,Pâtes,Y,Haricots,Y,Tomates,Y,Céleri,Y,Carottes,Y,Parmesan,N,Pasta fagioli végane,Pâtes,Y,Haricots,Y,Tomates,Y,Céleri,Y,Carottes,Y,Levure nutritionnelle,Y
+417,Soupe de pois chiches,Pois chiches,Y,Épinards,Y,Tomates,Y,Oignons,Y,Cumin,Y,Coriandre,Y,Soupe pois chiches,Pois chiches,Y,Épinards,Y,Tomates,Y,Oignons,Y,Cumin,Y,Coriandre,Y
+418,Dahl de lentilles,Lentilles corail,Y,Lait de coco,Y,Épices,Y,Oignons,Y,Ail,Y,Gingembre,Y,Dahl lentilles,Lentilles corail,Y,Lait de coco,Y,Épices,Y,Oignons,Y,Ail,Y,Gingembre,Y
+419,Curry de légumes,Légumes variés,Y,Lait de coco,Y,Pâte de curry,Y,Oignons,Y,Ail,Y,Gingembre,Y,Curry légumes,Légumes variés,Y,Lait de coco,Y,Pâte de curry,Y,Oignons,Y,Ail,Y,Gingembre,Y
+420,Ratatouille provençale,Aubergines,Y,Courgettes,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y,Ratatouille provençale,Aubergines,Y,Courgettes,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y
+421,Caponata sicilienne,Aubergines,Y,Tomates,Y,Céleri,Y,Olives,Y,Câpres,Y,Vinaigre,Y,Caponata sicilienne,Aubergines,Y,Tomates,Y,Céleri,Y,Olives,Y,Câpres,Y,Vinaigre,Y
+422,Peperonata,Poivrons,Y,Tomates,Y,Oignons,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Peperonata,Poivrons,Y,Tomates,Y,Oignons,Y,Ail,Y,Basilic,Y,Huile d'olive,Y
+423,Bohémienne,Aubergines,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y,Bohémienne,Aubergines,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y
+424,Papeton d'aubergines,Aubergines,Y,Œufs,N,Lait,N,Herbes,Y,Ail,Y,Huile d'olive,Y,Papeton végane,Aubergines,Y,Tofu soyeux,Y,Lait végétal,Y,Herbes,Y,Ail,Y,Huile d'olive,Y
+425,Tian de légumes,Légumes variés,Y,Huile d'olive,Y,Herbes,Y,Ail,Y,Tomates,Y,,Tian légumes,Légumes variés,Y,Huile d'olive,Y,Herbes,Y,Ail,Y,Tomates,Y,Thym,Y
+426,Confit de tomates,Tomates,Y,Huile d'olive,Y,Ail,Y,Thym,Y,Sel,Y,,Confit tomates,Tomates,Y,Huile d'olive,Y,Ail,Y,Thym,Y,Sel,Y,Sucre,Y
+427,Tomates farcies,Tomates,Y,Farce,N,Riz,Y,Herbes,Y,Oignons,Y,Ail,Y,Tomates farcies véganes,Tomates,Y,Farce végétale,Y,Riz,Y,Herbes,Y,Oignons,Y,Ail,Y
+428,Poivrons farcis,Poivrons,Y,Farce,N,Riz,Y,Oignons,Y,Tomates,Y,Herbes,Y,Poivrons farcis véganes,Poivrons,Y,Farce végétale,Y,Riz,Y,Oignons,Y,Tomates,Y,Herbes,Y
+429,Courgettes farcies,Courgettes,Y,Farce,N,Riz,Y,Tomates,Y,Herbes,Y,Parmesan,N,Courgettes farcies véganes,Courgettes,Y,Farce végétale,Y,Riz,Y,Tomates,Y,Herbes,Y,Fromage végétal,Y
+430,Aubergines farcies,Aubergines,Y,Farce,N,Tomates,Y,Oignons,Y,Ail,Y,Herbes,Y,Aubergines farcies véganes,Aubergines,Y,Farce végétale,Y,Tomates,Y,Oignons,Y,Ail,Y,Herbes,Y
+431,Chou farci,Chou,Y,Farce,N,Riz,Y,Oignons,Y,Carottes,Y,Bouillon,N,Chou farci végane,Chou,Y,Farce végétale,Y,Riz,Y,Oignons,Y,Carottes,Y,Bouillon végétal,Y
+432,Feuilles de vigne farcies,Feuilles de vigne,Y,Riz,Y,Oignons,Y,Herbes,Y,Pignons,Y,Citron,Y,Feuilles vigne farcies,Feuilles de vigne,Y,Riz,Y,Oignons,Y,Herbes,Y,Pignons,Y,Citron,Y
+433,Dolmas,Feuilles de vigne,Y,Riz,Y,Herbes,Y,Oignons,Y,Pignons,Y,Raisins,Y,Dolmas,Feuilles de vigne,Y,Riz,Y,Herbes,Y,Oignons,Y,Pignons,Y,Raisins,Y
+434,Champignons farcis,Champignons,Y,Farce,N,Ail,Y,Persil,Y,Chapelure,Y,Parmesan,N,Champignons farcis véganes,Champignons,Y,Farce végétale,Y,Ail,Y,Persil,Y,Chapelure,Y,Levure nutritionnelle,Y
+435,Artichauts farcis,Artichauts,Y,Farce,N,Ail,Y,Persil,Y,Chapelure,Y,Citron,Y,Artichauts farcis véganes,Artichauts,Y,Farce végétale,Y,Ail,Y,Persil,Y,Chapelure,Y,Citron,Y
+436,Oignons farcis,Oignons,Y,Farce,N,Riz,Y,Herbes,Y,Tomates,Y,Bouillon,N,Oignons farcis véganes,Oignons,Y,Farce végétale,Y,Riz,Y,Herbes,Y,Tomates,Y,Bouillon végétal,Y
+437,Pâtes à la carbonara,Pâtes,Y,Lardons,N,Œufs,N,Parmesan,N,Crème fraîche,N,Poivre,Y,Carbonara végane,Pâtes,Y,Tempeh fumé,Y,Tofu soyeux,Y,Levure nutritionnelle,Y,Crème de soja,Y,Poivre,Y
+438,Pâtes à la bolognaise,Pâtes,Y,Bœuf haché,N,Tomates,Y,Carottes,Y,Céleri,Y,Vin rouge,Y,Bolognaise végane,Pâtes,Y,Protéines végétales,Y,Tomates,Y,Carottes,Y,Céleri,Y,Vin rouge,Y
+439,Pâtes all'arrabbiata,Pâtes,Y,Tomates,Y,Ail,Y,Piment,Y,Huile d'olive,Y,Persil,Y,Arrabbiata,Pâtes,Y,Tomates,Y,Ail,Y,Piment,Y,Huile d'olive,Y,Persil,Y
+440,Pâtes aglio olio,Pâtes,Y,Ail,Y,Huile d'olive,Y,Piment,Y,Persil,Y,,Aglio olio,Pâtes,Y,Ail,Y,Huile d'olive,Y,Piment,Y,Persil,Y,Levure nutritionnelle,Y
+441,Pâtes puttanesca,Pâtes,Y,Tomates,Y,Olives,Y,Câpres,Y,Anchois,N,Ail,Y,Puttanesca végane,Pâtes,Y,Tomates,Y,Olives,Y,Câpres,Y,Algue nori,Y,Ail,Y
+442,Pâtes aux champignons,Pâtes,Y,Champignons,Y,Crème fraîche,N,Ail,Y,Persil,Y,Parmesan,N,Pâtes véganes champignons,Pâtes,Y,Champignons,Y,Crème de soja,Y,Ail,Y,Persil,Y,Levure nutritionnelle,Y
+443,Spaghetti alle vongole,Spaghetti,Y,Palourdes,N,Vin blanc,Y,Ail,Y,Persil,Y,Huile d'olive,Y,Spaghetti véganes,Spaghetti,Y,Champignons,Y,Vin blanc,Y,Ail,Y,Persil,Y,Huile d'olive,Y
+444,Linguine aux fruits de mer,Linguine,Y,Fruits de mer,N,Tomates,Y,Ail,Y,Persil,Y,Vin blanc,Y,Linguine véganes,Linguine,Y,Champignons variés,Y,Tomates,Y,Ail,Y,Persil,Y,Vin blanc,Y
+445,Penne à l'arrabiata,Penne,Y,Tomates,Y,Piment,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Penne arrabiata,Penne,Y,Tomates,Y,Piment,Y,Ail,Y,Basilic,Y,Huile d'olive,Y
+446,Fettuccine Alfredo,Fettuccine,Y,Beurre,N,Parmesan,N,Crème fraîche,N,Muscade,Y,Poivre,Y,Fettuccine véganes,Fettuccine,Y,Beurre végétal,Y,Levure nutritionnelle,Y,Crème de cajou,Y,Muscade,Y,Poivre,Y
+447,Tortellini en brodo,Tortellini,Y,Bouillon de poule,N,Parmesan,N,Persil,Y,,,Tortellini véganes,Tortellini véganes,Y,Bouillon végétal,Y,Levure nutritionnelle,Y,Persil,Y,Légumes,Y,Herbes,Y
+448,Cacio e pepe,Spaghetti,Y,Pecorino,N,Poivre noir,Y,Eau de cuisson,Y,,,Cacio e pepe végane,Spaghetti,Y,Fromage végétal,Y,Poivre noir,Y,Eau de cuisson,Y,Levure nutritionnelle,Y,Beurre végétal,Y
+449,Spaghetti al pomodoro,Spaghetti,Y,Tomates,Y,Basilic,Y,Ail,Y,Huile d'olive,Y,,Spaghetti pomodoro,Spaghetti,Y,Tomates,Y,Basilic,Y,Ail,Y,Huile d'olive,Y,Sel,Y
+450,Risotto à la milanaise,Riz arborio,Y,Safran,Y,Parmesan,N,Vin blanc,Y,Bouillon,N,Beurre,N,Risotto végane milanaise,Riz arborio,Y,Safran,Y,Levure nutritionnelle,Y,Vin blanc,Y,Bouillon végétal,Y,Beurre végétal,YrecetteID,nom_recette,ingredient_1,ingredient_1_vegan,ingredient_2,ingredient_2_vegan,ingredient_3,ingredient_3_vegan,ingredient_4,ingredient_4_vegan,ingredient_5,ingredient_5_vegan,ingredient_6,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_1_vegan,ingredient_vegan_2,ingredient_vegan_2_vegan,ingredient_vegan_3,ingredient_vegan_3_vegan,ingredient_vegan_4,ingredient_vegan_4_vegan,ingredient_vegan_5,ingredient_vegan_5_vegan,ingredient_vegan_6,ingredient_vegan_6_vegan
+1,Coq au vin,Poulet,N,Vin rouge,Y,Champignons,Y,Lardons,N,Oignons,Y,Beurre,N,Coq au vin végane,Seitan,Y,Vin rouge,Y,Champignons,Y,Tempeh fumé,Y,Oignons,Y,Huile d'olive,Y
+2,Bœuf bourguignon,Bœuf,N,Vin rouge,Y,Carottes,Y,Oignons,Y,Champignons,Y,Beurre,N,Bourguignon végane,Protéine de soja texturée,Y,Vin rouge,Y,Carottes,Y,Oignons,Y,Champignons,Y,Huile d'olive,Y
+3,Blanquette de veau,Veau,N,Crème fraîche,N,Carottes,Y,Champignons,Y,Oignons,Y,Beurre,N,Blanquette végane,Seitan,Y,Crème de coco,Y,Carottes,Y,Champignons,Y,Oignons,Y,Huile d'olive,Y
+4,Pot-au-feu,Bœuf,N,Carottes,Y,Navets,Y,Poireaux,Y,Pommes de terre,Y,Os à moelle,N,Pot-au-feu végane,Protéines végétales,Y,Carottes,Y,Navets,Y,Poireaux,Y,Pommes de terre,Y,Bouillon de légumes,Y
+5,Cassoulet,Haricots blancs,Y,Confit de canard,N,Saucisses,N,Lardons,N,Tomates,Y,Oignons,Y,Cassoulet végane,Haricots blancs,Y,Seitan,Y,Saucisses végétales,Y,Tempeh fumé,Y,Tomates,Y,Oignons,Y
+6,Ratatouille,Courgettes,Y,Aubergines,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Huile d'olive,Y,Ratatouille,Courgettes,Y,Aubergines,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Huile d'olive,Y
+7,Bouillabaisse,Poissons variés,N,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Croûtons,Y,Bouillabaisse végane,Algues marines,Y,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Croûtons,Y
+8,Quiche Lorraine,Œufs,N,Lardons,N,Crème fraîche,N,Pâte brisée,Y,Gruyère,N,Beurre,N,Quiche végane,Tofu soyeux,Y,Tempeh fumé,Y,Crème de soja,Y,Pâte brisée,Y,Fromage végétal,Y,Huile d'olive,Y
+9,Escargots de Bourgogne,Escargots,N,Beurre à l'ail,N,Persil,Y,Ail,Y,Beurre,N,Échalotes,Y,Escargots véganes,Champignons farcis,Y,Beurre végétal à l'ail,Y,Persil,Y,Ail,Y,Huile d'olive,Y,Échalotes,Y
+10,Fondue savoyarde,Gruyère,N,Emmental,N,Vin blanc,Y,Ail,Y,Pain,Y,Kirsch,Y,Fondue végane,Fromage végétal,Y,Fromage végétal à pâte dure,Y,Vin blanc,Y,Ail,Y,Pain,Y,Kirsch,Y
+11,Soupe à l'oignon,Oignons,Y,Bouillon de bœuf,N,Gruyère,N,Pain,Y,Beurre,N,Vin blanc,Y,Soupe à l'oignon végane,Oignons,Y,Bouillon de légumes,Y,Fromage végétal,Y,Pain,Y,Huile d'olive,Y,Vin blanc,Y
+12,Confit de canard,Canard,N,Graisse de canard,N,Thym,Y,Laurier,Y,Ail,Y,Sel,Y,Confit végane,Champignons king oyster,Y,Huile d'olive,Y,Thym,Y,Laurier,Y,Ail,Y,Sel,Y
+13,Choucroute garnie,Choucroute,Y,Saucisses,N,Lard,N,Pommes de terre,Y,Vin blanc,Y,Genièvre,Y,Choucroute végane,Choucroute,Y,Saucisses végétales,Y,Tempeh fumé,Y,Pommes de terre,Y,Vin blanc,Y,Genièvre,Y
+14,Gratin dauphinois,Pommes de terre,Y,Crème fraîche,N,Lait,N,Gruyère,N,Ail,Y,Beurre,N,Gratin dauphinois végane,Pommes de terre,Y,Crème de soja,Y,Lait d'avoine,Y,Fromage végétal,Y,Ail,Y,Huile d'olive,Y
+15,Magret de canard,Canard,N,Miel,Y,Figues,Y,Vinaigre balsamique,Y,Thym,Y,Poivre,Y,Magret végane,Seitan tranché,Y,Sirop d'érable,Y,Figues,Y,Vinaigre balsamique,Y,Thym,Y,Poivre,Y
+16,Tartiflette,Pommes de terre,Y,Reblochon,N,Lardons,N,Oignons,Y,Vin blanc,Y,Crème fraîche,N,Tartiflette végane,Pommes de terre,Y,Fromage végétal coulant,Y,Tempeh fumé,Y,Oignons,Y,Vin blanc,Y,Crème de soja,Y
+17,Aligot,Pommes de terre,Y,Tome fraîche,N,Beurre,N,Ail,Y,Crème fraîche,N,Sel,Y,Aligot végane,Pommes de terre,Y,Fromage végétal,Y,Beurre végétal,Y,Ail,Y,Crème de soja,Y,Sel,Y
+18,Gigot d'agneau,Agneau,N,Ail,Y,Romarin,Y,Thym,Y,Huile d'olive,Y,Pommes de terre,Y,Gigot végane,Seitan roulé,Y,Ail,Y,Romarin,Y,Thym,Y,Huile d'olive,Y,Pommes de terre,Y
+19,Steak frites,Bœuf,N,Pommes de terre,Y,Huile,Y,Beurre,N,Échalotes,Y,Persil,Y,Steak végane frites,Steak végétal,Y,Pommes de terre,Y,Huile,Y,Beurre végétal,Y,Échalotes,Y,Persil,Y
+20,Croque-monsieur,Pain de mie,Y,Jambon,N,Gruyère,N,Béchamel,N,Beurre,N,Muscade,Y,Croque-monsieur végane,Pain de mie,Y,Jambon végétal,Y,Fromage végétal,Y,Béchamel végane,Y,Beurre végétal,Y,Muscade,Y
+21,Salade niçoise,Thon,N,Œufs,N,Tomates,Y,Olives,Y,Haricots verts,Y,Anchois,N,Salade niçoise végane,Pois chiches,Y,Tofu brouillé,Y,Tomates,Y,Olives,Y,Haricots verts,Y,Câpres,Y
+22,Rôti de porc,Porc,N,Ail,Y,Thym,Y,Romarin,Y,Moutarde,Y,Huile d'olive,Y,Rôti végane,Seitan roulé,Y,Ail,Y,Thym,Y,Romarin,Y,Moutarde,Y,Huile d'olive,Y
+23,Fish and chips,Poisson,N,Pommes de terre,Y,Farine,Y,Bière,Y,Huile,Y,Sel,Y,Fish and chips végane,Tofu pané,Y,Pommes de terre,Y,Farine,Y,Bière,Y,Huile,Y,Sel,Y
+24,Moules marinières,Moules,N,Vin blanc,Y,Échalotes,Y,Persil,Y,Beurre,N,Ail,Y,Moules véganes,Champignons king oyster,Y,Vin blanc,Y,Échalotes,Y,Persil,Y,Beurre végétal,Y,Ail,Y
+25,Côte de bœuf,Bœuf,N,Sel,Y,Poivre,Y,Herbes de Provence,Y,Huile d'olive,Y,Ail,Y,Côte végane,Seitan épais,Y,Sel,Y,Poivre,Y,Herbes de Provence,Y,Huile d'olive,Y,Ail,Y
+26,Lapin aux pruneaux,Lapin,N,Pruneaux,Y,Vin blanc,Y,Oignons,Y,Thym,Y,Beurre,N,Lapin végane aux pruneaux,Seitan,Y,Pruneaux,Y,Vin blanc,Y,Oignons,Y,Thym,Y,Huile d'olive,Y
+27,Sole meunière,Sole,N,Farine,Y,Beurre,N,Citron,Y,Persil,Y,Amandes,Y,Sole végane meunière,Tofu en tranches,Y,Farine,Y,Beurre végétal,Y,Citron,Y,Persil,Y,Amandes,Y
+28,Poulet rôti,Poulet,N,Herbes de Provence,Y,Ail,Y,Citron,Y,Huile d'olive,Y,Pommes de terre,Y,Poulet végane rôti,Seitan entier,Y,Herbes de Provence,Y,Ail,Y,Citron,Y,Huile d'olive,Y,Pommes de terre,Y
+29,Osso bucco,Jarret de veau,N,Tomates,Y,Vin blanc,Y,Carottes,Y,Céleri,Y,Oignons,Y,Osso bucco végane,Seitan en rondelles,Y,Tomates,Y,Vin blanc,Y,Carottes,Y,Céleri,Y,Oignons,Y
+30,Andouillette,Andouillette,N,Moutarde,Y,Échalotes,Y,Vin blanc,Y,Beurre,N,Fines herbes,Y,Andouillette végane,Saucisse végétale,Y,Moutarde,Y,Échalotes,Y,Vin blanc,Y,Beurre végétal,Y,Fines herbes,Y
+31,Pieds de porc,Pieds de porc,N,Vinaigre,Y,Oignons,Y,Laurier,Y,Thym,Y,Carottes,Y,Pieds véganes,Champignons king oyster,Y,Vinaigre,Y,Oignons,Y,Laurier,Y,Thym,Y,Carottes,Y
+32,Bœuf aux carottes,Bœuf,N,Carottes,Y,Oignons,Y,Bouillon,N,Thym,Y,Pommes de terre,Y,Bœuf végane aux carottes,Protéines de soja,Y,Carottes,Y,Oignons,Y,Bouillon végétal,Y,Thym,Y,Pommes de terre,Y
+33,Escalope de veau,Veau,N,Farine,Y,Beurre,N,Citron,Y,Persil,Y,Câpres,Y,Escalope végane,Seitan en escalope,Y,Farine,Y,Beurre végétal,Y,Citron,Y,Persil,Y,Câpres,Y
+34,Canard à l'orange,Canard,N,Oranges,Y,Grand Marnier,Y,Miel,Y,Vinaigre,Y,Beurre,N,Canard végane à l'orange,Seitan,Y,Oranges,Y,Grand Marnier,Y,Sirop d'agave,Y,Vinaigre,Y,Huile d'olive,Y
+35,Homard thermidor,Homard,N,Crème fraîche,N,Gruyère,N,Moutarde,Y,Cognac,Y,Beurre,N,Homard végane thermidor,Champignons du roi,Y,Crème de coco,Y,Fromage végétal,Y,Moutarde,Y,Cognac,Y,Beurre végétal,Y
+36,Bavette à l'échalote,Bavette,N,Échalotes,Y,Vin rouge,Y,Beurre,N,Persil,Y,Poivre,Y,Bavette végane à l'échalote,Seitan tranché,Y,Échalotes,Y,Vin rouge,Y,Beurre végétal,Y,Persil,Y,Poivre,Y
+37,Tripes à la mode de Caen,Tripes,N,Calvados,Y,Carottes,Y,Oignons,Y,Bouquet garni,Y,Pommes,Y,Tripes véganes de Caen,Champignons variés,Y,Calvados,Y,Carottes,Y,Oignons,Y,Bouquet garni,Y,Pommes,Y
+38,Saint-Jacques à la plancha,Saint-Jacques,N,Beurre,N,Ail,Y,Persil,Y,Citron,Y,Huile d'olive,Y,Saint-Jacques véganes,Champignons king oyster,Y,Beurre végétal,Y,Ail,Y,Persil,Y,Citron,Y,Huile d'olive,Y
+39,Tête de veau,Tête de veau,N,Câpres,Y,Cornichons,Y,Persil,Y,Vinaigre,Y,Huile d'olive,Y,Tête végane,Chou-fleur entier,Y,Câpres,Y,Cornichons,Y,Persil,Y,Vinaigre,Y,Huile d'olive,Y
+40,Joue de bœuf,Joue de bœuf,N,Vin rouge,Y,Carottes,Y,Oignons,Y,Thym,Y,Laurier,Y,Joue végane,Seitan braisé,Y,Vin rouge,Y,Carottes,Y,Oignons,Y,Thym,Y,Laurier,Y
+41,Saumon grillé,Saumon,N,Citron,Y,Aneth,Y,Huile d'olive,Y,Sel,Y,Poivre,Y,Saumon végane grillé,Tofu mariné,Y,Citron,Y,Aneth,Y,Huile d'olive,Y,Sel,Y,Poivre,Y
+42,Cuisse de grenouilles,Cuisses de grenouilles,N,Ail,Y,Persil,Y,Beurre,N,Farine,Y,Citron,Y,Cuisse végane,Champignons pleurotes,Y,Ail,Y,Persil,Y,Beurre végétal,Y,Farine,Y,Citron,Y
+43,Lotte à l'armoricaine,Lotte,N,Tomates,Y,Cognac,Y,Vin blanc,Y,Échalotes,Y,Beurre,N,Lotte végane à l'armoricaine,Cœur de palmier,Y,Tomates,Y,Cognac,Y,Vin blanc,Y,Échalotes,Y,Beurre végétal,Y
+44,Fricassée de volaille,Volaille,N,Champignons,Y,Crème fraîche,N,Vin blanc,Y,Oignons,Y,Thym,Y,Fricassée végane,Seitan en morceaux,Y,Champignons,Y,Crème de soja,Y,Vin blanc,Y,Oignons,Y,Thym,Y
+45,Rognons de veau,Rognons,N,Moutarde,Y,Vin blanc,Y,Crème fraîche,N,Échalotes,Y,Persil,Y,Rognons véganes,Champignons shiitake,Y,Moutarde,Y,Vin blanc,Y,Crème de soja,Y,Échalotes,Y,Persil,Y
+46,Carré d'agneau,Agneau,N,Herbes de Provence,Y,Ail,Y,Moutarde,Y,Huile d'olive,Y,Romarin,Y,Carré végane,Seitan côtelettes,Y,Herbes de Provence,Y,Ail,Y,Moutarde,Y,Huile d'olive,Y,Romarin,Y
+47,Daube provençale,Bœuf,N,Vin rouge,Y,Tomates,Y,Olives,Y,Herbes de Provence,Y,Carottes,Y,Daube végane provençale,Protéines de soja,Y,Vin rouge,Y,Tomates,Y,Olives,Y,Herbes de Provence,Y,Carottes,Y
+48,Poularde aux morilles,Poularde,N,Morilles,Y,Crème fraîche,N,Vin jaune,Y,Échalotes,Y,Beurre,N,Poularde végane aux morilles,Seitan,Y,Morilles,Y,Crème de soja,Y,Vin jaune,Y,Échalotes,Y,Beurre végétal,Y
+49,Turbot sauce hollandaise,Turbot,N,Beurre,N,Jaunes d'œufs,N,Citron,Y,Vinaigre,Y,Échalotes,Y,Turbot végane hollandaise,Tofu ferme,Y,Beurre végétal,Y,Aquafaba,Y,Citron,Y,Vinaigre,Y,Échalotes,Y
+50,Ris de veau,Ris de veau,N,Beurre,N,Morilles,Y,Crème fraîche,N,Vin blanc,Y,Persil,Y,Ris véganes,Champignons du roi,Y,Beurre végétal,Y,Morilles,Y,Crème de soja,Y,Vin blanc,Y,Persil,Y
+51,Couscous royal,Agneau,N,Merguez,N,Pois chiches,Y,Courgettes,Y,Carottes,Y,Semoule,Y,Couscous végane royal,Seitan,Y,Merguez végétales,Y,Pois chiches,Y,Courgettes,Y,Carottes,Y,Semoule,Y
+52,Paella valenciana,Riz,Y,Poulet,N,Fruits de mer,N,Safran,Y,Haricots verts,Y,Tomates,Y,Paella végane,Riz,Y,Seitan,Y,Cœurs de palmier,Y,Safran,Y,Haricots verts,Y,Tomates,Y
+53,Saucisson brioché,Saucisson,N,Brioche,N,Œufs,N,Beurre,N,Moutarde,Y,Cornichons,Y,Saucisson végane brioché,Saucisson végétal,Y,Brioche végane,Y,Aquafaba,Y,Beurre végétal,Y,Moutarde,Y,Cornichons,Y
+54,Raclette,Fromage à raclette,N,Pommes de terre,Y,Charcuterie,N,Cornichons,Y,Oignons,Y,Pain,Y,Raclette végane,Fromage végane à raclette,Y,Pommes de terre,Y,Charcuterie végétale,Y,Cornichons,Y,Oignons,Y,Pain,Y
+55,Bourride,Poissons blancs,N,Aïoli,N,Pommes de terre,Y,Fenouil,Y,Safran,Y,Vin blanc,Y,Bourride végane,Tofu en cubes,Y,Aïoli végane,Y,Pommes de terre,Y,Fenouil,Y,Safran,Y,Vin blanc,Y
+56,Cervelles de canut,Fromage blanc,N,Échalotes,Y,Ciboulette,Y,Persil,Y,Vinaigre,Y,Huile d'olive,Y,Cervelles véganes,Fromage végétal blanc,Y,Échalotes,Y,Ciboulette,Y,Persil,Y,Vinaigre,Y,Huile d'olive,Y
+57,Poulet basquaise,Poulet,N,Tomates,Y,Poivrons,Y,Oignons,Y,Jambon de Bayonne,N,Piment d'Espelette,Y,Poulet végane basquaise,Seitan,Y,Tomates,Y,Poivrons,Y,Oignons,Y,Tempeh fumé,Y,Piment d'Espelette,Y
+58,Bouillade,Poissons,N,Pommes de terre,Y,Aïoli,N,Tomates,Y,Oignons,Y,Fenouil,Y,Bouillade végane,Tofu,Y,Pommes de terre,Y,Aïoli végane,Y,Tomates,Y,Oignons,Y,Fenouil,Y
+59,Côtes de porc,Côtes de porc,N,Moutarde,Y,Herbes de Provence,Y,Ail,Y,Huile d'olive,Y,Pommes de terre,Y,Côtes véganes,Seitan côtelettes,Y,Moutarde,Y,Herbes de Provence,Y,Ail,Y,Huile d'olive,Y,Pommes de terre,Y
+60,Brandade de morue,Morue,N,Pommes de terre,Y,Lait,N,Huile d'olive,Y,Ail,Y,Persil,Y,Brandade végane,Tofu émietté,Y,Pommes de terre,Y,Lait végétal,Y,Huile d'olive,Y,Ail,Y,Persil,Y
+61,Lièvre à la royale,Lièvre,N,Vin rouge,Y,Foie gras,N,Truffes,Y,Échalotes,Y,Cognac,Y,Lièvre végane à la royale,Seitan,Y,Vin rouge,Y,Pâté végétal,Y,Truffes,Y,Échalotes,Y,Cognac,Y
+62,Filet de bœuf Wellington,Filet de bœuf,N,Pâte feuilletée,Y,Champignons,Y,Foie gras,N,Œufs,N,Moutarde,Y,Wellington végane,Seitan roulé,Y,Pâte feuilletée,Y,Champignons,Y,Pâté végétal,Y,Aquafaba,Y,Moutarde,Y
+63,Chateaubriand,Filet de bœuf,N,Beurre,N,Échalotes,Y,Vin rouge,Y,Estragon,Y,Poivre,Y,Chateaubriand végane,Seitan épais,Y,Beurre végétal,Y,Échalotes,Y,Vin rouge,Y,Estragon,Y,Poivre,Y
+64,Langue de bœuf,Langue de bœuf,N,Câpres,Y,Cornichons,Y,Moutarde,Y,Vinaigre,Y,Oignons,Y,Langue végane,Seitan texturé,Y,Câpres,Y,Cornichons,Y,Moutarde,Y,Vinaigre,Y,Oignons,Y
+65,Fricandeau,Veau,N,Oseille,Y,Crème fraîche,N,Vin blanc,Y,Carottes,Y,Oignons,Y,Fricandeau végane,Seitan,Y,Oseille,Y,Crème de soja,Y,Vin blanc,Y,Carottes,Y,Oignons,Y
+66,Canette aux navets,Canette,N,Navets,Y,Miel,Y,Thym,Y,Vin blanc,Y,Beurre,N,Canette végane aux navets,Seitan,Y,Navets,Y,Sirop d'agave,Y,Thym,Y,Vin blanc,Y,Huile d'olive,Y
+67,Pied de cochon farci,Pied de cochon,N,Chair à saucisse,N,Champignons,Y,Persil,Y,Ail,Y,Œufs,N,Pied végane farci,Champignons portobello,Y,Farce végétale,Y,Champignons,Y,Persil,Y,Ail,Y,Tofu brouillé,Y
+68,Bar en croûte de sel,Bar,N,Gros sel,Y,Blancs d'œufs,N,Herbes,Y,Citron,Y,Huile d'olive,Y,Bar végane en croûte,Chou-fleur entier,Y,Gros sel,Y,Aquafaba,Y,Herbes,Y,Citron,Y,Huile d'olive,Y
+69,Gigot de sept heures,Gigot d'agneau,N,Haricots blancs,Y,Tomates,Y,Ail,Y,Thym,Y,Vin blanc,Y,Gigot végane sept heures,Seitan braisé,Y,Haricots blancs,Y,Tomates,Y,Ail,Y,Thym,Y,Vin blanc,Y
+70,Fricassée d'escargots,Escargots,N,Champignons,Y,Vin blanc,Y,Crème fraîche,N,Ail,Y,Persil,Y,Fricassée végane,Champignons variés,Y,Champignons,Y,Vin blanc,Y,Crème de soja,Y,Ail,Y,Persil,Y
+71,Selle d'agneau,Selle d'agneau,N,Herbes de Provence,Y,Ail,Y,Moutarde,Y,Huile d'olive,Y,Romarin,Y,Selle végane,Seitan farci,Y,Herbes de Provence,Y,Ail,Y,Moutarde,Y,Huile d'olive,Y,Romarin,Y
+72,Coquilles Saint-Jacques gratinées,Saint-Jacques,N,Champignons,Y,Crème fraîche,N,Gruyère,N,Vin blanc,Y,Échalotes,Y,Saint-Jacques véganes gratinées,Champignons king oyster,Y,Champignons,Y,Crème de soja,Y,Fromage végétal,Y,Vin blanc,Y,Échalotes,Y
+73,Suprême de volaille,Blanc de volaille,N,Crème fraîche,N,Champignons,Y,Vin blanc,Y,Estragon,Y,Beurre,N,Suprême végane,Seitan tranché,Y,Crème de soja,Y,Champignons,Y,Vin blanc,Y,Estragon,Y,Beurre végétal,Y
+74,Navarin d'agneau,Agneau,N,Navets,Y,Carottes,Y,Petits pois,Y,Pommes de terre,Y,Oignons,Y,Navarin végane,Seitan en morceaux,Y,Navets,Y,Carottes,Y,Petits pois,Y,Pommes de terre,Y,Oignons,Y
+75,Carbonnade flamande,Bœuf,N,Bière,Y,Oignons,Y,Cassonade,Y,Thym,Y,Laurier,Y,Carbonnade végane,Seitan,Y,Bière,Y,Oignons,Y,Cassonade,Y,Thym,Y,Laurier,Y
+76,Soupe de poissons,Poissons variés,N,Tomates,Y,Safran,Y,Fenouil,Y,Huile d'olive,Y,Ail,Y,Soupe végane de mer,Algues variées,Y,Tomates,Y,Safran,Y,Fenouil,Y,Huile d'olive,Y,Ail,Y
+77,Bœuf à la ficelle,Bœuf,N,Légumes,Y,Bouillon,N,Gros sel,Y,Moutarde,Y,Cornichons,Y,Bœuf végane à la ficelle,Seitan,Y,Légumes,Y,Bouillon végétal,Y,Gros sel,Y,Moutarde,Y,Cornichons,Y
+78,Rougets à la plancha,Rougets,N,Huile d'olive,Y,Citron,Y,Thym,Y,Ail,Y,Fleur de sel,Y,Rougets véganes,Betterave rouge tranchée,Y,Huile d'olive,Y,Citron,Y,Thym,Y,Ail,Y,Fleur de sel,Y
+79,Perdrix aux choux,Perdrix,N,Choux,Y,Lardons,N,Saucisses,N,Carottes,Y,Oignons,Y,Perdrix végane aux choux,Seitan,Y,Choux,Y,Tempeh fumé,Y,Saucisses végétales,Y,Carottes,Y,Oignons,Y
+80,Matelote d'anguille,Anguille,N,Vin rouge,Y,Champignons,Y,Oignons,Y,Lardons,N,Beurre,N,Matelote végane,Tofu en lanières,Y,Vin rouge,Y,Champignons,Y,Oignons,Y,Tempeh fumé,Y,Beurre végétal,Y
+81,Fricassée de lapin,Lapin,N,Vin blanc,Y,Champignons,Y,Crème fraîche,N,Oignons,Y,Thym,Y,Fricassée végane,Seitan en morceaux,Y,Vin blanc,Y,Champignons,Y,Crème de soja,Y,Oignons,Y,Thym,Y
+82,Tournedos Rossini,Filet de bœuf,N,Foie gras,N,Truffes,Y,Madère,Y,Beurre,N,Pain de mie,Y,Tournedos végane Rossini,Seitan épais,Y,Pâté végétal,Y,Truffes,Y,Madère,Y,Beurre végétal,Y,Pain de mie,Y
+83,Civet de lièvre,Lièvre,N,Vin rouge,Y,Sang,N,Champignons,Y,Oignons,Y,Lardons,N,Civet végane,Seitan,Y,Vin rouge,Y,Mélasse,Y,Champignons,Y,Oignons,Y,Tempeh fumé,Y
+84,Alose à l'oseille,Alose,N,Oseille,Y,Beurre,N,Crème fraîche,N,Vin blanc,Y,Échalotes,Y,Alose végane à l'oseille,Tofu ferme,Y,Oseille,Y,Beurre végétal,Y,Crème de soja,Y,Vin blanc,Y,Échalotes,Y
+85,Poularde demi-deuil,Poularde,N,Truffes,Y,Crème fraîche,N,Vin blanc,Y,Carottes,Y,Oignons,Y,Poularde végane demi-deuil,Seitan,Y,Truffes,Y,Crème de soja,Y,Vin blanc,Y,Carottes,Y,Oignons,Y
+86,Faisan aux choux,Faisan,N,Choux,Y,Lard,N,Saucisses,N,Genièvre,Y,Vin blanc,Y,Faisan végane aux choux,Seitan,Y,Choux,Y,Tempeh,Y,Saucisses végétales,Y,Genièvre,Y,Vin blanc,Y
+87,Salmis de palombes,Palombes,N,Vin rouge,Y,Champignons,Y,Armagnac,Y,Échalotes,Y,Thym,Y,Salmis végane,Seitan,Y,Vin rouge,Y,Champignons,Y,Armagnac,Y,Échalotes,Y,Thym,Y
+88,Pigeon aux petits pois,Pigeon,N,Petits pois,Y,Lardons,N,Oignons,Y,Beurre,N,Bouillon,N,Pigeon végane aux petits pois,Seitan,Y,Petits pois,Y,Tempeh fumé,Y,Oignons,Y,Beurre végétal,Y,Bouillon végétal,Y
+89,Chapon aux marrons,Chapon,N,Marrons,Y,Lard,N,Vin blanc,Y,Thym,Y,Beurre,N,Chapon végane aux marrons,Seitan farci,Y,Marrons,Y,Tempeh,Y,Vin blanc,Y,Thym,Y,Beurre végétal,Y
+90,Ortolans,Ortolans,N,Armagnac,Y,Raisins,Y,Beurre,N,Thym,Y,Poivre,Y,Ortolans véganes,Champignons farcis,Y,Armagnac,Y,Raisins,Y,Beurre végétal,Y,Thym,Y,Poivre,Y
+91,Bécasse rôtie,Bécasse,N,Lard,N,Genièvre,Y,Pain de mie,Y,Beurre,N,Cognac,Y,Bécasse végane rôtie,Seitan,Y,Tempeh,Y,Genièvre,Y,Pain de mie,Y,Beurre végétal,Y,Cognac,Y
+92,Grives aux genièvres,Grives,N,Genièvre,Y,Lard,N,Pain,Y,Beurre,N,Cognac,Y,Grives véganes aux genièvres,Champignons portobello,Y,Genièvre,Y,Tempeh,Y,Pain,Y,Beurre végétal,Y,Cognac,Y
+93,Caille aux raisins,Cailles,N,Raisins,Y,Vin blanc,Y,Beurre,N,Thym,Y,Miel,Y,Caille végane aux raisins,Seitan individuel,Y,Raisins,Y,Vin blanc,Y,Beurre végétal,Y,Thym,Y,Sirop d'agave,Y
+94,Pieds et paquets,Pieds de mouton,N,Tripes,N,Tomates,Y,Vin blanc,Y,Herbes de Provence,Y,Ail,Y,Pieds véganes et paquets,Champignons king oyster,Y,Feuilles de chou farcies,Y,Tomates,Y,Vin blanc,Y,Herbes de Provence,Y,Ail,Y
+95,Pâté de foie gras,Foie gras,N,Armagnac,Y,Truffes,Y,Sel,Y,Poivre,Y,Pain,Y,Pâté végétal,Noix de cajou,Y,Armagnac,Y,Truffes,Y,Sel,Y,Poivre,Y,Pain,Y
+96,Tête de veau sauce gribiche,Tête de veau,N,Œufs durs,N,Câpres,Y,Cornichons,Y,Moutarde,Y,Huile,Y,Tête végane sauce gribiche,Chou-fleur,Y,Tofu dur,Y,Câpres,Y,Cornichons,Y,Moutarde,Y,Huile,Y
+97,Marbré de foies de volaille,Foies de volaille,N,Crème fraîche,N,Œufs,N,Cognac,Y,Beurre,N,Muscade,Y,Marbré végétal,Lentilles,Y,Crème de soja,Y,Aquafaba,Y,Cognac,Y,Beurre végétal,Y,Muscade,Y
+98,Boudin noir aux pommes,Boudin noir,N,Pommes,Y,Oignons,Y,Beurre,N,Calvados,Y,Thym,Y,Boudin végétal aux pommes,Boudin végétal,Y,Pommes,Y,Oignons,Y,Beurre végétal,Y,Calvados,Y,Thym,Y
+99,Cassoulet de Castelnaudary,Haricots blancs,Y,Confit de canard,N,Saucisse de Toulouse,N,Couenne,N,Tomates,Y,Ail,Y,Cassoulet végane de Castelnaudary,Haricots blancs,Y,Confit végétal,Y,Saucisse végétale,Y,Tempeh fumé,Y,Tomates,Y,Ail,Y
+100,Pot-au-feu du pêcheur,Poissons variés,N,Légumes,Y,Bouillon de poisson,N,Pommes de terre,Y,Aïoli,N,Croûtons,Y,Pot-au-feu végane du pêcheur,Algues et tofu,Y,Légumes,Y,Bouillon d'algues,Y,Pommes de terre,Y,Aïoli végane,Y,Croûtons,Y
+101,Tarte Tatin,Pommes,Y,Pâte brisée,Y,Beurre,N,Sucre,Y,Caramel,Y,Cannelle,Y,Tarte Tatin végane,Pommes,Y,Pâte brisée,Y,Beurre végétal,Y,Sucre,Y,Caramel végétal,Y,Cannelle,Y
+102,Clafoutis aux cerises,Cerises,Y,Lait,N,Œufs,N,Farine,Y,Sucre,Y,Beurre,N,Clafoutis végane,Cerises,Y,Lait d'amande,Y,Aquafaba,Y,Farine,Y,Sucre,Y,Huile coco,Y
+103,Kig ha farz,Porc,N,Bœuf,N,Légumes,Y,Farz noir,Y,Farz blanc,Y,Beurre salé,N,Kig ha farz végane,Seitan,Y,Protéines végétales,Y,Légumes,Y,Farz noir,Y,Farz blanc végétal,Y,Beurre végétal salé,Y
+104,Baeckeoffe,Agneau,N,Porc,N,Bœuf,N,Pommes de terre,Y,Oignons,Y,Vin blanc,Y,Baeckeoffe végane,Seitan,Y,Tempeh,Y,Protéines végétales,Y,Pommes de terre,Y,Oignons,Y,Vin blanc,Y
+105,Galette complète,Sarrasin,Y,Œuf,N,Jambon,N,Gruyère,N,Beurre salé,N,Lait,N,Galette végane complète,Sarrasin,Y,Tofu brouillé,Y,Jambon végétal,Y,Fromage végétal,Y,Beurre végétal salé,Y,Lait végétal,Y
+106,Far breton,Lait,N,Œufs,N,Farine,Y,Sucre,Y,Pruneaux,Y,Beurre,N,Far breton végane,Lait de soja,Y,Aquafaba,Y,Farine,Y,Sucre,Y,Pruneaux,Y,Beurre végétal,Y
+107,Kouign-amann,Farine,Y,Beurre salé,N,Sucre,Y,Levure,Y,Eau,Y,Sel,Y,Kouign-amann végane,Farine,Y,Beurre végétal salé,Y,Sucre,Y,Levure,Y,Eau,Y,Sel,Y
+108,Truffade,Pommes de terre,Y,Tome fraîche,N,Lardons,N,Ail,Y,Persil,Y,Huile,Y,Truffade végane,Pommes de terre,Y,Fromage végétal,Y,Tempeh fumé,Y,Ail,Y,Persil,Y,Huile,Y
+109,Cantal entre-deux,Lait de vache,N,Présure,N,Ferments,Y,Sel,Y,,,Cantal végétal,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Agar-agar,Y,Levure nutritionnelle,Y
+110,Pissaladière,Pâte à pain,Y,Oignons,Y,Anchois,N,Olives noires,Y,Thym,Y,Huile d'olive,Y,Pissaladière végane,Pâte à pain,Y,Oignons,Y,Câpres,Y,Olives noires,Y,Thym,Y,Huile d'olive,Y
+111,Socca,Farine de pois chiche,Y,Huile d'olive,Y,Eau,Y,Sel,Y,Cumin,Y,Poivre,Y,Socca,Farine de pois chiche,Y,Huile d'olive,Y,Eau,Y,Sel,Y,Cumin,Y,Poivre,Y
+112,Tapenade,Olives noires,Y,Câpres,Y,Anchois,N,Ail,Y,Huile d'olive,Y,Citron,Y,Tapenade végane,Olives noires,Y,Câpres,Y,Algue nori,Y,Ail,Y,Huile d'olive,Y,Citron,Y
+113,Soupe au pistou,Courgettes,Y,Haricots verts,Y,Haricots blancs,Y,Tomates,Y,Basilic,Y,Ail,Y,Soupe au pistou,Courgettes,Y,Haricots verts,Y,Haricots blancs,Y,Tomates,Y,Basilic,Y,Ail,Y
+114,Garbure,Choux,Y,Haricots blancs,Y,Confit de canard,N,Saucisse,N,Pommes de terre,Y,Carottes,Y,Garbure végane,Choux,Y,Haricots blancs,Y,Confit végétal,Y,Saucisse végétale,Y,Pommes de terre,Y,Carottes,Y
+115,Piperade,Tomates,Y,Poivrons,Y,Oignons,Y,Œufs,N,Jambon de Bayonne,N,Piment d'Espelette,Y,Piperade végane,Tomates,Y,Poivrons,Y,Oignons,Y,Tofu brouillé,Y,Tempeh fumé,Y,Piment d'Espelette,Y
+116,Quenelles de brochet,Brochet,N,Farine,Y,Beurre,N,Œufs,N,Lait,N,Crème fraîche,N,Quenelles véganes,Tofu,Y,Farine,Y,Beurre végétal,Y,Aquafaba,Y,Lait végétal,Y,Crème de soja,Y
+117,Saucisson chaud,Saucisson,N,Pommes de terre,Y,Beurre,N,Vin blanc,Y,Cornichons,Y,Moutarde,Y,Saucisson végétal chaud,Saucisson végétal,Y,Pommes de terre,Y,Beurre végétal,Y,Vin blanc,Y,Cornichons,Y,Moutarde,Y
+118,Carbonnade flamande,Bœuf,N,Bière,Y,Oignons,Y,Cassonade,Y,Thym,Y,Pain d'épices,Y,Carbonnade végane,Seitan,Y,Bière,Y,Oignons,Y,Cassonade,Y,Thym,Y,Pain d'épices,Y
+119,Potjevleesch,Porc,N,Veau,N,Lapin,N,Poulet,N,Vin blanc,Y,Gélatine,N,Potjevleesch végane,Seitan,Y,Tofu,Y,Tempeh,Y,Protéines végétales,Y,Vin blanc,Y,Agar-agar,Y
+120,Maroilles,Lait de vache,N,Présure,N,Ferments,Y,Sel,Y,,,Maroilles végétal,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Levure nutritionnelle,Y,Cultures probiotiques,Y
+121,Canelés,Lait,N,Œufs,N,Farine,Y,Sucre,Y,Rhum,Y,Beurre,N,Canelés véganes,Lait de coco,Y,Aquafaba,Y,Farine,Y,Sucre,Y,Rhum,Y,Beurre végétal,Y
+122,Paris-Brest,Pâte à choux,Y,Beurre,N,Œufs,N,Crème pâtissière,N,Pralin,Y,Amandes,Y,Paris-Brest végane,Pâte à choux végane,Y,Beurre végétal,Y,Aquafaba,Y,Crème végane,Y,Pralin,Y,Amandes,Y
+123,Religieuse,Pâte à choux,Y,Crème pâtissière,N,Fondant,Y,Beurre,N,Œufs,N,Sucre,Y,Religieuse végane,Pâte à choux végane,Y,Crème végane,Y,Fondant végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+124,Opéra,Biscuit Joconde,N,Ganache,N,Crème au beurre,N,Glaçage chocolat,Y,Café,Y,Sucre,Y,Opéra végane,Biscuit végane,Y,Ganache végane,Y,Crème végétale,Y,Glaçage végétal,Y,Café,Y,Sucre,Y
+125,Madeleines,Œufs,N,Farine,Y,Sucre,Y,Beurre,N,Citron,Y,Levure,Y,Madeleines véganes,Aquafaba,Y,Farine,Y,Sucre,Y,Beurre végétal,Y,Citron,Y,Levure,Y
+126,Financiers,Beurre noisette,N,Blancs d'œufs,N,Poudre d'amande,Y,Sucre glace,Y,Farine,Y,Amandes effilées,Y,Financiers véganes,Beurre végétal,Y,Aquafaba,Y,Poudre d'amande,Y,Sucre glace,Y,Farine,Y,Amandes effilées,Y
+127,Teurgoule,Riz,Y,Lait,N,Sucre,Y,Cannelle,Y,Muscade,Y,Beurre,N,Teurgoule végane,Riz,Y,Lait de coco,Y,Sucre,Y,Cannelle,Y,Muscade,Y,Beurre végétal,Y
+128,Tarte à l'oignon,Oignons,Y,Pâte brisée,Y,Lardons,N,Crème fraîche,N,Œufs,N,Gruyère,N,Tarte à l'oignon végane,Oignons,Y,Pâte brisée,Y,Tempeh fumé,Y,Crème de soja,Y,Tofu soyeux,Y,Fromage végétal,Y
+129,Munster,Lait de vache,N,Présure,N,Ferments,Y,Sel,Y,,,Munster végétal,Lait de cajou,Y,Ferments végétaux,Y,Ferments,Y,Sel,Y,Levure nutritionnelle,Y,Cultures aromatiques,Y
+130,Bûche de Noël,Génoise,N,Crème au beurre,N,Chocolat,Y,Œufs,N,Sucre,Y,Beurre,N,Bûche végane de Noël,Génoise végane,Y,Crème végétale,Y,Chocolat,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y
+131,Galette des rois,Pâte feuilletée,Y,Crème d'amande,Y,Beurre,N,Œufs,N,Sucre,Y,Amandes,Y,Galette végane des rois,Pâte feuilletée,Y,Crème d'amande,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y,Amandes,Y
+132,Croquembouche,Choux,Y,Crème pâtissière,N,Caramel,Y,Sucre,Y,Beurre,N,Œufs,N,Croquembouche végane,Choux véganes,Y,Crème végane,Y,Caramel végétal,Y,Sucre,Y,Beurre végétal,Y,Aquafaba,Y
+133,Millefeuille,Pâte feuilletée,Y,Crème pâtissière,N,Fondant,Y,Beurre,N,Œufs,N,Sucre,Y,Millefeuille végane,Pâte feuilletée,Y,Crème végane,Y,Fondant végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+134,Éclair au chocolat,Pâte à choux,Y,Crème pâtissière,N,Glaçage chocolat,Y,Beurre,N,Œufs,N,Chocolat,Y,Éclair végane,Pâte à choux végane,Y,Crème végane,Y,Glaçage végétal,Y,Beurre végétal,Y,Aquafaba,Y,Chocolat,Y
+135,Saint-Honoré,Pâte brisée,Y,Choux,Y,Crème Chiboust,N,Caramel,Y,Beurre,N,Œufs,N,Saint-Honoré végane,Pâte brisée,Y,Choux véganes,Y,Crème végane,Y,Caramel végétal,Y,Beurre végétal,Y,Aquafaba,Y
+136,Tarte aux pommes,Pommes,Y,Pâte sablée,Y,Beurre,N,Œufs,N,Sucre,Y,Cannelle,Y,Tarte végane aux pommes,Pommes,Y,Pâte sablée végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y,Cannelle,Y
+137,Charlotte aux poires,Poires,Y,Biscuits à la cuillère,Y,Crème anglaise,N,Gélatine,N,Sucre,Y,Vanille,Y,Charlotte végane aux poires,Poires,Y,Biscuits véganes,Y,Crème végétale,Y,Agar-agar,Y,Sucre,Y,Vanille,Y
+138,Tarte au citron,Citrons,Y,Pâte sablée,Y,Œufs,N,Beurre,N,Sucre,Y,Meringue,N,Tarte végane au citron,Citrons,Y,Pâte sablée végane,Y,Tofu soyeux,Y,Beurre végétal,Y,Sucre,Y,Meringue végane,Y
+139,Crème brûlée,Crème fraîche,N,Œufs,N,Sucre,Y,Vanille,Y,Cassonade,Y,,Crème brûlée végane,Crème de coco,Y,Tofu soyeux,Y,Sucre,Y,Vanille,Y,Cassonade,Y,Agar-agar,Y
+140,Mousse au chocolat,Chocolat,Y,Œufs,N,Sucre,Y,Beurre,N,Crème fraîche,N,,Mousse végane au chocolat,Chocolat,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Crème de coco,Y,Tofu soyeux,Y
+141,Profiteroles,Choux,Y,Crème glacée,N,Sauce chocolat,Y,Beurre,N,Œufs,N,Sucre,Y,Profiteroles véganes,Choux véganes,Y,Glace végétale,Y,Sauce chocolat végane,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+142,Ile flottante,Œufs,N,Lait,N,Sucre,Y,Vanille,Y,Caramel,Y,,Ile flottante végane,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Caramel végétal,Y,Agar-agar,Y
+143,Riz au lait,Riz,Y,Lait,N,Sucre,Y,Vanille,Y,Cannelle,Y,,Riz au lait végane,Riz,Y,Lait de coco,Y,Sucre,Y,Vanille,Y,Cannelle,Y,Lait d'amande,Y
+144,Crêpes suzette,Farine,Y,Lait,N,Œufs,N,Beurre,N,Grand Marnier,Y,Sucre,Y,Crêpes suzette véganes,Farine,Y,Lait végétal,Y,Aquafaba,Y,Beurre végétal,Y,Grand Marnier,Y,Sucre,Y
+145,Poires belle Hélène,Poires,Y,Glace vanille,N,Sauce chocolat,Y,Amandes effilées,Y,Sucre,Y,,Poires belle Hélène véganes,Poires,Y,Glace végétale,Y,Sauce chocolat végane,Y,Amandes effilées,Y,Sucre,Y,Chantilly végétale,Y
+146,Sabayon,Jaunes d'œufs,N,Sucre,Y,Vin blanc,Y,Marsala,Y,,,Sabayon végane,Tofu soyeux,Y,Sucre,Y,Vin blanc,Y,Marsala,Y,Aquafaba,Y,Crème végétale,Y
+147,Vacherin,Meringue,N,Crème glacée,N,Fruits rouges,Y,Sucre,Y,Crème chantilly,N,,Vacherin végane,Meringue végane,Y,Glace végétale,Y,Fruits rouges,Y,Sucre,Y,Chantilly végétale,Y,Aquafaba,Y
+148,Rillettes du Mans,Porc,N,Saindoux,N,Thym,Y,Laurier,Y,Sel,Y,Poivre,Y,Rillettes véganes,Champignons,Y,Huile de coco,Y,Thym,Y,Laurier,Y,Sel,Y,Poivre,Y
+149,Terrine de campagne,Porc,N,Foie,N,Veau,N,Œufs,N,Cognac,Y,Quatre-épices,Y,Terrine végétale,Lentilles,Y,Champignons,Y,Noix,Y,Tofu,Y,Cognac,Y,Quatre-épices,Y
+150,Pâté de foie de volaille,Foies de volaille,N,Beurre,N,Échalotes,Y,Cognac,Y,Thym,Y,Crème fraîche,N,Pâté végétal,Lentilles,Y,Beurre végétal,Y,Échalotes,Y,Cognac,Y,Thym,Y,Crème de soja,Y
+151,Boudin blanc,Porc,N,Veau,N,Lait,N,Œufs,N,Mie de pain,Y,Quatre-épices,Y,Boudin végétal blanc,Tofu,Y,Seitan,Y,Lait végétal,Y,Aquafaba,Y,Mie de pain,Y,Quatre-épices,Y
+152,Jambon persillé,Jambon,N,Persil,Y,Vin blanc,Y,Gélatine,N,Échalotes,Y,Vinaigre,Y,Jambon végétal persillé,Seitan,Y,Persil,Y,Vin blanc,Y,Agar-agar,Y,Échalotes,Y,Vinaigre,Y
+153,Salade de gésiers,Gésiers,N,Salade verte,Y,Tomates,Y,Noix,Y,Vinaigre,Y,Huile,Y,Salade végétale,Champignons grillés,Y,Salade verte,Y,Tomates,Y,Noix,Y,Vinaigre,Y,Huile,Y
+154,Velouté de champignons,Champignons,Y,Crème fraîche,N,Bouillon,N,Beurre,N,Oignons,Y,Persil,Y,Velouté végane champignons,Champignons,Y,Crème de soja,Y,Bouillon végétal,Y,Beurre végétal,Y,Oignons,Y,Persil,Y
+155,Soupe de courge,Courge,Y,Crème fraîche,N,Bouillon,N,Oignons,Y,Muscade,Y,Beurre,N,Soupe végane de courge,Courge,Y,Crème de coco,Y,Bouillon végétal,Y,Oignons,Y,Muscade,Y,Huile d'olive,Y
+156,Bisque de homard,Homard,N,Crème fraîche,N,Tomates,Y,Cognac,Y,Riz,Y,Beurre,N,Bisque végane,Champignons,Y,Crème de coco,Y,Tomates,Y,Cognac,Y,Riz,Y,Beurre végétal,Y
+157,Velouté de châtaignes,Châtaignes,Y,Crème fraîche,N,Bouillon,N,Céleri,Y,Oignons,Y,Beurre,N,Velouté végane châtaignes,Châtaignes,Y,Crème de soja,Y,Bouillon végétal,Y,Céleri,Y,Oignons,Y,Huile d'olive,Y
+158,Soupe à l'ail,Ail,Y,Bouillon,N,Œufs,N,Pain,Y,Huile d'olive,Y,Thym,Y,Soupe végane à l'ail,Ail,Y,Bouillon végétal,Y,Tofu soyeux,Y,Pain,Y,Huile d'olive,Y,Thym,Y
+159,Potage parmentier,Poireaux,Y,Pommes de terre,Y,Bouillon,N,Crème fraîche,N,Beurre,N,Ciboulette,Y,Potage végane parmentier,Poireaux,Y,Pommes de terre,Y,Bouillon végétal,Y,Crème de soja,Y,Beurre végétal,Y,Ciboulette,Y
+160,Gaspacho,Tomates,Y,Concombre,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y,Gaspacho,Tomates,Y,Concombre,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y
+161,Salade César,Salade romaine,Y,Parmesan,N,Anchois,N,Croûtons,Y,Œuf,N,Moutarde,Y,Salade César végane,Salade romaine,Y,Parmesan végétal,Y,Câpres,Y,Croûtons,Y,Tofu,Y,Moutarde,Y
+162,Taboulé,Semoule,Y,Tomates,Y,Persil,Y,Menthe,Y,Citron,Y,Huile d'olive,Y,Taboulé,Semoule,Y,Tomates,Y,Persil,Y,Menthe,Y,Citron,Y,Huile d'olive,Y
+163,Salade de lentilles,Lentilles,Y,Tomates,Y,Oignons,Y,Persil,Y,Vinaigre,Y,Huile,Y,Salade de lentilles,Lentilles,Y,Tomates,Y,Oignons,Y,Persil,Y,Vinaigre,Y,Huile,Y
+164,Caponata,Aubergines,Y,Tomates,Y,Céleri,Y,Olives,Y,Câpres,Y,Vinaigre,Y,Caponata,Aubergines,Y,Tomates,Y,Céleri,Y,Olives,Y,Câpres,Y,Vinaigre,Y
+165,Rémoulade de céleri,Céleri-rave,Y,Mayonnaise,N,Moutarde,Y,Citron,Y,Persil,Y,Câpres,Y,Rémoulade végane,Céleri-rave,Y,Mayonnaise végane,Y,Moutarde,Y,Citron,Y,Persil,Y,Câpres,Y
+166,Salade de betteraves,Betteraves,Y,Noix,Y,Chèvre,N,Miel,Y,Vinaigre balsamique,Y,Huile,Y,Salade végane betteraves,Betteraves,Y,Noix,Y,Fromage végétal,Y,Sirop d'agave,Y,Vinaigre balsamique,Y,Huile,Y
+167,Carpaccio de bœuf,Bœuf,N,Parmesan,N,Roquette,Y,Citron,Y,Huile d'olive,Y,Câpres,Y,Carpaccio végétal,Betterave rouge,Y,Parmesan végétal,Y,Roquette,Y,Citron,Y,Huile d'olive,Y,Câpres,Y
+168,Salade landaise,Salade,Y,Magrets fumés,N,Foie gras,N,Gésiers,N,Maïs,Y,Tomates,Y,Salade landaise végane,Salade,Y,Seitan fumé,Y,Pâté végétal,Y,Champignons grillés,Y,Maïs,Y,Tomates,Y
+169,Salade périgourdine,Salade,Y,Noix,Y,Roquefort,N,Magret,N,Foie gras,N,Huile de noix,Y,Salade végane périgourdine,Salade,Y,Noix,Y,Fromage végétal,Y,Seitan,Y,Pâté végétal,Y,Huile de noix,Y
+170,Tartare de bœuf,Bœuf,N,Câpres,Y,Cornichons,Y,Œuf,N,Moutarde,Y,Échalotes,Y,Tartare végétal,Betterave rouge,Y,Câpres,Y,Cornichons,Y,Tofu,Y,Moutarde,Y,Échalotes,Y
+171,Vitello tonnato,Veau,N,Thon,N,Mayonnaise,N,Câpres,Y,Citron,Y,Anchois,N,Vitello végane,Seitan,Y,Pois chiches,Y,Mayonnaise végane,Y,Câpres,Y,Citron,Y,Algue nori,Y
+172,Œufs à la coque,Œufs,N,Beurre,N,Pain,Y,Sel,Y,Mouillettes,Y,,Œufs véganes à la coque,Tofu soyeux,Y,Beurre végétal,Y,Pain,Y,Sel,Y,Mouillettes,Y,Curcuma,Y
+173,Œufs brouillés,Œufs,N,Beurre,N,Crème fraîche,N,Ciboulette,Y,Sel,Y,Poivre,Y,Œufs brouillés véganes,Tofu soyeux,Y,Beurre végétal,Y,Crème de soja,Y,Ciboulette,Y,Sel,Y,Poivre,Y
+174,Omelette aux fines herbes,Œufs,N,Beurre,N,Persil,Y,Ciboulette,Y,Estragon,Y,Cerfeuil,Y,Omelette végane,Tofu soyeux,Y,Beurre végétal,Y,Persil,Y,Ciboulette,Y,Estragon,Y,Cerfeuil,Y
+175,Croque-madame,Pain de mie,Y,Jambon,N,Gruyère,N,Béchamel,N,Œuf,N,Beurre,N,Croque-madame végane,Pain de mie,Y,Jambon végétal,Y,Fromage végétal,Y,Béchamel végane,Y,Tofu brouillé,Y,Beurre végétal,Y
+176,Welsh,Pain,Y,Cheddar,N,Bière,Y,Moutarde,Y,Jambon,N,Œuf,N,Welsh végane,Pain,Y,Fromage végétal,Y,Bière,Y,Moutarde,Y,Jambon végétal,
+601,Crème brûlée,Crème,N,Œufs,N,Sucre,Y,Vanille,Y,Lait,N,Cassonade,Y,Crème brûlée végane,Crème coco,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Lait végétal,Y,Cassonade,Y
+602,Mousse au chocolat,Chocolat noir,Y,Œufs,N,Sucre,Y,Beurre,N,Crème,N,Vanille,Y,Mousse chocolat végane,Chocolat noir,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Crème végétale,Y,Vanille,Y
+603,Tiramisu,Mascarpone,N,Œufs,N,Sucre,Y,Café,Y,Biscuits,Y,Cacao,Y,Tiramisu végane,Mascarpone végétal,Y,Aquafaba,Y,Sucre,Y,Café,Y,Biscuits véganes,Y,Cacao,Y
+604,Panna cotta,Crème,N,Gélatine,N,Sucre,Y,Vanille,Y,Fruits rouges,Y,Coulis,Y,Panna cotta végane,Crème coco,Y,Agar-agar,Y,Sucre,Y,Vanille,Y,Fruits rouges,Y,Coulis,Y
+605,Soufflé au chocolat,Chocolat noir,Y,Œufs,N,Sucre,Y,Beurre,N,Farine,Y,Lait,N,Soufflé chocolat végane,Chocolat noir,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Farine,Y,Lait végétal,Y
+606,Île flottante,Œufs,N,Lait,N,Sucre,Y,Vanille,Y,Caramel,Y,Amandes,Y,Île flottante végane,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Caramel végane,Y,Amandes,Y
+607,Profiteroles,Pâte à choux,Y,Crème pâtissière,N,Chocolat,Y,Œufs,N,Beurre,N,Sucre,Y,Profiteroles véganes,Pâte à choux végane,Y,Crème végétale,Y,Chocolat,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y
+608,Éclairs au café,Pâte à choux,Y,Crème café,N,Fondant,Y,Œufs,N,Beurre,N,Café,Y,Éclairs café véganes,Pâte à choux végane,Y,Crème café végane,Y,Fondant végane,Y,Aquafaba,Y,Beurre végétal,Y,Café,Y
+609,Paris-Brest,Pâte à choux,Y,Crème pralinée,N,Amandes,Y,Œufs,N,Beurre,N,Sucre,Y,Paris-Brest végane,Pâte à choux végane,Y,Crème pralinée végane,Y,Amandes,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y
+610,Saint-Honoré,Pâte brisée,Y,Pâte à choux,Y,Crème Chantilly,N,Caramel,Y,Œufs,N,Beurre,N,Saint-Honoré végane,Pâte brisée végane,Y,Pâte à choux végane,Y,Chantilly végétale,Y,Caramel végane,Y,Aquafaba,Y,Beurre végétal,Y
+611,Millefeuille,Pâte feuilletée,Y,Crème pâtissière,N,Fondant,Y,Œufs,N,Beurre,N,Sucre glace,Y,Millefeuille végane,Pâte feuilletée végane,Y,Crème pâtissière végane,Y,Fondant végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre glace,Y
+612,Opéra,Biscuit joconde,Y,Ganache,N,Crème café,N,Glaçage,Y,Chocolat,Y,Café,Y,Opéra végane,Biscuit végane,Y,Ganache végétale,Y,Crème café végane,Y,Glaçage végane,Y,Chocolat,Y,Café,Y
+613,Fraisier,Génoise,Y,Crème mousseline,N,Fraises,Y,Pâte d'amande,Y,Œufs,N,Beurre,N,Fraisier végane,Génoise végane,Y,Crème végétale,Y,Fraises,Y,Pâte d'amande végane,Y,Aquafaba,Y,Beurre végétal,Y
+614,Forêt noire,Génoise chocolat,Y,Crème chantilly,N,Cerises,Y,Kirsch,Y,Chocolat,Y,Œufs,N,Forêt noire végane,Génoise chocolat végane,Y,Chantilly végétale,Y,Cerises,Y,Kirsch,Y,Chocolat,Y,Aquafaba,Y
+615,Mille-feuille framboise,Pâte feuilletée,Y,Crème diplomate,N,Framboises,Y,Sucre glace,Y,Œufs,N,Crème,N,Mille-feuille framboise végane,Pâte feuilletée végane,Y,Crème végétale,Y,Framboises,Y,Sucre glace,Y,Aquafaba,Y,Crème végétale,Y
+616,Tarte au citron,Pâte sablée,Y,Citrons,Y,Œufs,N,Sucre,Y,Beurre,N,Meringue,N,Tarte citron végane,Pâte sablée végane,Y,Citrons,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Meringue végane,Y
+617,Tarte aux pommes,Pâte brisée,Y,Pommes,Y,Sucre,Y,Cannelle,Y,Beurre,N,Œufs,N,Tarte pommes végane,Pâte brisée végane,Y,Pommes,Y,Sucre,Y,Cannelle,Y,Beurre végétal,Y,Aquafaba,Y
+618,Tarte aux poires,Pâte sablée,Y,Poires,Y,Amandes,Y,Sucre,Y,Crème d'amande,N,Vanille,Y,Tarte poires végane,Pâte sablée végane,Y,Poires,Y,Amandes,Y,Sucre,Y,Crème amande végane,Y,Vanille,Y
+619,Tarte tatin,Pâte brisée,Y,Pommes,Y,Caramel,Y,Beurre,N,Sucre,Y,Cannelle,Y,Tarte tatin végane,Pâte brisée végane,Y,Pommes,Y,Caramel végane,Y,Beurre végétal,Y,Sucre,Y,Cannelle,Y
+620,Tarte aux fraises,Pâte sablée,Y,Fraises,Y,Crème pâtissière,N,Nappage,Y,Sucre,Y,Vanille,Y,Tarte fraises végane,Pâte sablée végane,Y,Fraises,Y,Crème pâtissière végane,Y,Nappage végane,Y,Sucre,Y,Vanille,Y
+621,Clafoutis aux cerises,Cerises,Y,Œufs,N,Lait,N,Sucre,Y,Farine,Y,Vanille,Y,Clafoutis végane,Cerises,Y,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Farine,Y,Vanille,Y
+622,Far breton,Pruneaux,Y,Œufs,N,Lait,N,Farine,Y,Sucre,Y,Rhum,Y,Far breton végane,Pruneaux,Y,Aquafaba,Y,Lait végétal,Y,Farine,Y,Sucre,Y,Rhum,Y
+623,Kouign-amann,Pâte levée,Y,Beurre salé,N,Sucre,Y,Farine,Y,Levure,Y,Sel,Y,Kouign-amann végane,Pâte levée végane,Y,Beurre salé végétal,Y,Sucre,Y,Farine,Y,Levure,Y,Sel,Y
+624,Cannelés,Lait,N,Œufs,N,Sucre,Y,Farine,Y,Rhum,Y,Vanille,Y,Cannelés véganes,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Farine,Y,Rhum,Y,Vanille,Y
+625,Madeleines,Œufs,N,Sucre,Y,Farine,Y,Beurre,N,Miel,N,Citron,Y,Madeleines véganes,Aquafaba,Y,Sucre,Y,Farine,Y,Beurre végétal,Y,Sirop d'agave,Y,Citron,Y
+626,Financiers,Beurre noisette,N,Sucre glace,Y,Poudre amandes,Y,Blancs œufs,N,Farine,Y,Vanille,Y,Financiers véganes,Beurre végétal,Y,Sucre glace,Y,Poudre amandes,Y,Aquafaba,Y,Farine,Y,Vanille,Y
+627,Macarons,Poudre amandes,Y,Sucre glace,Y,Blancs œufs,N,Colorant,Y,Ganache,N,Sucre,Y,Macarons véganes,Poudre amandes,Y,Sucre glace,Y,Aquafaba,Y,Colorant végétal,Y,Ganache végétale,Y,Sucre,Y
+628,Chouquettes,Pâte à choux,Y,Œufs,N,Beurre,N,Sucre perlé,Y,Farine,Y,Eau,Y,Chouquettes véganes,Pâte à choux végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre perlé,Y,Farine,Y,Eau,Y
+629,Choux à la crème,Pâte à choux,Y,Crème pâtissière,N,Œufs,N,Beurre,N,Sucre,Y,Vanille,Y,Choux crème véganes,Pâte à choux végane,Y,Crème pâtissière végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Vanille,Y
+630,Religieuse,Pâte à choux,Y,Crème café,N,Fondant,Y,Œufs,N,Beurre,N,Café,Y,Religieuse végane,Pâte à choux végane,Y,Crème café végane,Y,Fondant végane,Y,Aquafaba,Y,Beurre végétal,Y,Café,Y
+631,Baba au rhum,Pâte levée,Y,Rhum,Y,Sucre,Y,Œufs,N,Beurre,N,Raisins,Y,Baba végane,Pâte levée végane,Y,Rhum,Y,Sucre,Y,Aquafaba,Y,Beurre végétal,Y,Raisins,Y
+632,Savarin,Pâte levée,Y,Sirop,Y,Fruits,Y,Œufs,N,Beurre,N,Rhum,Y,Savarin végane,Pâte levée végane,Y,Sirop,Y,Fruits,Y,Aquafaba,Y,Beurre végétal,Y,Rhum,Y
+633,Brioche,Farine,Y,Œufs,N,Beurre,N,Sucre,Y,Levure,Y,Lait,N,Brioche végane,Farine,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Levure,Y,Lait végétal,Y
+634,Pain perdu,Pain rassis,Y,Œufs,N,Lait,N,Sucre,Y,Vanille,Y,Beurre,N,Pain perdu végane,Pain rassis,Y,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Beurre végétal,Y
+635,Crêpes sucrées,Farine,Y,Œufs,N,Lait,N,Sucre,Y,Beurre,N,Vanille,Y,Crêpes véganes,Farine,Y,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Beurre végétal,Y,Vanille,Y
+636,Crêpes Suzette,Pâte crêpes,Y,Orange,Y,Beurre,N,Sucre,Y,Grand Marnier,Y,Œufs,N,Crêpes Suzette véganes,Pâte crêpes végane,Y,Orange,Y,Beurre végétal,Y,Sucre,Y,Grand Marnier,Y,Aquafaba,Y
+637,Gaufres,Farine,Y,Œufs,N,Lait,N,Beurre,N,Sucre,Y,Levure,Y,Gaufres véganes,Farine,Y,Aquafaba,Y,Lait végétal,Y,Beurre végétal,Y,Sucre,Y,Levure,Y
+638,Beignets,Farine,Y,Œufs,N,Lait,N,Levure,Y,Sucre,Y,Huile,Y,Beignets véganes,Farine,Y,Aquafaba,Y,Lait végétal,Y,Levure,Y,Sucre,Y,Huile,Y
+639,Pets de nonne,Pâte à choux,Y,Œufs,N,Beurre,N,Farine,Y,Sucre,Y,Huile,Y,Pets de nonne véganes,Pâte à choux végane,Y,Aquafaba,Y,Beurre végétal,Y,Farine,Y,Sucre,Y,Huile,Y
+640,Bugnes,Farine,Y,Œufs,N,Beurre,N,Sucre,Y,Rhum,Y,Citron,Y,Bugnes véganes,Farine,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Rhum,Y,Citron,Y
+641,Churros,Farine,Y,Eau,Y,Beurre,N,Sucre,Y,Huile,Y,Cannelle,Y,Churros véganes,Farine,Y,Eau,Y,Beurre végétal,Y,Sucre,Y,Huile,Y,Cannelle,Y
+642,Beignets aux pommes,Pommes,Y,Pâte à beignets,Y,Œufs,N,Sucre,Y,Cannelle,Y,Huile,Y,Beignets pommes véganes,Pommes,Y,Pâte végane,Y,Aquafaba,Y,Sucre,Y,Cannelle,Y,Huile,Y
+643,Donuts,Farine,Y,Œufs,N,Beurre,N,Sucre,Y,Levure,Y,Glaçage,Y,Donuts véganes,Farine,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Levure,Y,Glaçage végane,Y
+644,Cookies,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Chocolat,Y,Vanille,Y,Cookies véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Chocolat,Y,Vanille,Y
+645,Sablés,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Vanille,Y,Sel,Y,Sablés véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Vanille,Y,Sel,Y
+646,Langues de chat,Farine,Y,Beurre,N,Sucre,Y,Blancs œufs,N,Vanille,Y,Sel,Y,Langues chat véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Vanille,Y,Sel,Y
+647,Tuiles aux amandes,Amandes,Y,Sucre,Y,Beurre,N,Blancs œufs,N,Farine,Y,Vanille,Y,Tuiles véganes,Amandes,Y,Sucre,Y,Beurre végétal,Y,Aquafaba,Y,Farine,Y,Vanille,Y
+648,Rochers coco,Noix de coco,Y,Sucre,Y,Blancs œufs,N,Vanille,Y,Maïzena,Y,Sel,Y,Rochers coco véganes,Noix de coco,Y,Sucre,Y,Aquafaba,Y,Vanille,Y,Maïzena,Y,Sel,Y
+649,Mendiants,Chocolat noir,Y,Amandes,Y,Noisettes,Y,Raisins,Y,Figues,Y,Pistaches,Y,Mendiants véganes,Chocolat noir végane,Y,Amandes,Y,Noisettes,Y,Raisins,Y,Figues,Y,Pistaches,Y
+650,Truffes au chocolat,Chocolat noir,Y,Crème,N,Beurre,N,Cacao,Y,Rhum,Y,Sucre,Y,Truffes véganes,Chocolat noir,Y,Crème coco,Y,Beurre végétal,Y,Cacao,Y,Rhum,Y,Sucre,Y
+651,Fudge,Sucre,Y,Beurre,N,Crème,N,Chocolat,Y,Vanille,Y,Noix,Y,Fudge végane,Sucre,Y,Beurre végétal,Y,Crème végétale,Y,Chocolat végane,Y,Vanille,Y,Noix,Y
+652,Caramels,Sucre,Y,Beurre,N,Crème,N,Sel,Y,Vanille,Y,Glucose,Y,Caramels véganes,Sucre,Y,Beurre végétal,Y,Crème végétale,Y,Sel,Y,Vanille,Y,Glucose,Y
+653,Nougat tendre,Miel,N,Blancs œufs,N,Sucre,Y,Amandes,Y,Pistaches,Y,Vanille,Y,Nougat tendre végane,Sirop d'agave,Y,Aquafaba,Y,Sucre,Y,Amandes,Y,Pistaches,Y,Vanille,Y
+654,Pralines,Amandes,Y,Sucre,Y,Eau,Y,Colorant rouge,Y,Vanille,Y,Glucose,Y,Pralines véganes,Amandes,Y,Sucre,Y,Eau,Y,Colorant végétal,Y,Vanille,Y,Glucose,Y
+655,Pâtes de fruits,Fruits,Y,Sucre,Y,Pectine,Y,Acide citrique,Y,Glucose,Y,Eau,Y,Pâtes fruits véganes,Fruits,Y,Sucre,Y,Pectine,Y,Acide citrique,Y,Glucose,Y,Eau,Y
+656,Guimauves,Sucre,Y,Gélatine,N,Blancs œufs,N,Glucose,Y,Vanille,Y,Colorant,Y,Guimauves véganes,Sucre,Y,Agar-agar,Y,Aquafaba,Y,Glucose,Y,Vanille,Y,Colorant végétal,Y
+657,Marshmallows,Gélatine,N,Sucre,Y,Glucose,Y,Blancs œufs,N,Vanille,Y,Eau,Y,Marshmallows véganes,Agar-agar,Y,Sucre,Y,Glucose,Y,Aquafaba,Y,Vanille,Y,Eau,Y
+658,Calissons d'Aix,Amandes,Y,Melon confit,Y,Sucre,Y,Blancs œufs,N,Miel,N,Fleur d'oranger,Y,Calissons véganes,Amandes,Y,Melon confit,Y,Sucre,Y,Aquafaba,Y,Sirop d'agave,Y,Fleur d'oranger,Y
+659,Berlingots,Sucre,Y,Glucose,Y,Arômes,Y,Colorants,Y,Acide citrique,Y,Eau,Y,Berlingots véganes,Sucre,Y,Glucose,Y,Arômes végétaux,Y,Colorants végétaux,Y,Acide citrique,Y,Eau,Y
+660,Pastilles Vichy,Sucre,Y,Menthe,Y,Bicarbonate,Y,Glucose,Y,Arôme,Y,Eau,Y,Pastilles véganes,Sucre,Y,Menthe,Y,Bicarbonate,Y,Glucose,Y,Arôme végétal,Y,Eau,Y
+661,Tarte au chocolat,Pâte sablée,Y,Chocolat noir,Y,Crème,N,Œufs,N,Beurre,N,Sucre,Y,Tarte chocolat végane,Pâte sablée végane,Y,Chocolat noir,Y,Crème végétale,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y
+662,Tarte aux noix,Pâte brisée,Y,Noix,Y,Œufs,N,Crème,N,Miel,N,Sucre,Y,Tarte noix végane,Pâte brisée végane,Y,Noix,Y,Aquafaba,Y,Crème végétale,Y,Sirop d'érable,Y,Sucre,Y
+663,Tarte aux abricots,Pâte sablée,Y,Abricots,Y,Crème d'amande,N,Sucre,Y,Amandes,Y,Vanille,Y,Tarte abricots végane,Pâte sablée végane,Y,Abricots,Y,Crème amande végane,Y,Sucre,Y,Amandes,Y,Vanille,Y
+664,Tarte aux pruneaux,Pâte brisée,Y,Pruneaux,Y,Crème anglaise,N,Armagnac,Y,Sucre,Y,Vanille,Y,Tarte pruneaux végane,Pâte brisée végane,Y,Pruneaux,Y,Crème anglaise végane,Y,Armagnac,Y,Sucre,Y,Vanille,Y
+665,Tarte Bourdaloue,Pâte sablée,Y,Poires,Y,Crème d'amande,N,Amandes,Y,Sucre,Y,Vanille,Y,Tarte Bourdaloue végane,Pâte sablée végane,Y,Poires,Y,Crème amande végane,Y,Amandes,Y,Sucre,Y,Vanille,Y
+666,Tarte alsacienne,Pâte brisée,Y,Pommes,Y,Crème,N,Œufs,N,Sucre,Y,Cannelle,Y,Tarte alsacienne végane,Pâte brisée végane,Y,Pommes,Y,Crème végétale,Y,Aquafaba,Y,Sucre,Y,Cannelle,Y
+667,Tarte normande,Pâte brisée,Y,Pommes,Y,Crème,N,Calvados,Y,Sucre,Y,Cannelle,Y,Tarte normande végane,Pâte brisée végane,Y,Pommes,Y,Crème végétale,Y,Calvados,Y,Sucre,Y,Cannelle,Y
+668,Tarte fine aux pommes,Pâte feuilletée,Y,Pommes,Y,Beurre,N,Sucre,Y,Cannelle,Y,Calvados,Y,Tarte fine végane,Pâte feuilletée végane,Y,Pommes,Y,Beurre végétal,Y,Sucre,Y,Cannelle,Y,Calvados,Y
+669,Galette des rois,Pâte feuilletée,Y,Crème d'amande,N,Œufs,N,Beurre,N,Sucre,Y,Rhum,Y,Galette végane,Pâte feuilletée végane,Y,Crème amande végane,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Rhum,Y
+670,Galette bretonne,Farine,Y,Beurre salé,N,Sucre,Y,Œufs,N,Levure,Y,Sel,Y,Galette bretonne végane,Farine,Y,Beurre salé végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y,Sel,Y
+671,Quatre-quarts,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Levure,Y,Vanille,Y,Quatre-quarts végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y,Vanille,Y
+672,Cake aux fruits,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Fruits confits,Y,Rhum,Y,Cake végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Fruits confits,Y,Rhum,Y
+673,Cake au citron,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Citron,Y,Levure,Y,Cake citron végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Citron,Y,Levure,Y
+674,Cake marbré,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Cacao,Y,Vanille,Y,Cake marbré végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Cacao,Y,Vanille,Y
+675,Gâteau au yaourt,Yaourt,N,Farine,Y,Sucre,Y,Œufs,N,Huile,Y,Levure,Y,Gâteau yaourt végane,Yaourt végétal,Y,Farine,Y,Sucre,Y,Aquafaba,Y,Huile,Y,Levure,Y
+676,Gâteau au chocolat,Farine,Y,Chocolat,Y,Beurre,N,Sucre,Y,Œufs,N,Levure,Y,Gâteau chocolat végane,Farine,Y,Chocolat végane,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y
+677,Moelleux au chocolat,Chocolat noir,Y,Beurre,N,Sucre,Y,Œufs,N,Farine,Y,Vanille,Y,Moelleux végane,Chocolat noir,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Farine,Y,Vanille,Y
+678,Fondant au chocolat,Chocolat noir,Y,Beurre,N,Sucre,Y,Œufs,N,Farine,Y,Sel,Y,Fondant végane,Chocolat noir,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Farine,Y,Sel,Y
+679,Brownies,Chocolat noir,Y,Beurre,N,Sucre,Y,Œufs,N,Farine,Y,Noix,Y,Brownies véganes,Chocolat noir,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Farine,Y,Noix,Y
+680,Blondies,Chocolat blanc,Y,Beurre,N,Sucre,Y,Œufs,N,Farine,Y,Vanille,Y,Blondies véganes,Chocolat blanc végétal,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Farine,Y,Vanille,Y
+681,Muffins chocolat,Farine,Y,Chocolat,Y,Beurre,N,Sucre,Y,Œufs,N,Lait,N,Muffins véganes,Farine,Y,Chocolat végane,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Lait végétal,Y
+682,Muffins myrtilles,Farine,Y,Myrtilles,Y,Beurre,N,Sucre,Y,Œufs,N,Lait,N,Muffins myrtilles véganes,Farine,Y,Myrtilles,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Lait végétal,Y
+683,Cupcakes,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Levure,Y,Vanille,Y,Cupcakes véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y,Vanille,Y
+684,Red velvet,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Colorant rouge,Y,Cacao,Y,Red velvet végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Colorant végétal,Y,Cacao,Y
+685,Carrot cake,Farine,Y,Carottes,Y,Huile,Y,Sucre,Y,Œufs,N,Cannelle,Y,Carrot cake végane,Farine,Y,Carottes,Y,Huile,Y,Sucre,Y,Aquafaba,Y,Cannelle,Y
+686,Cheesecake,Fromage blanc,N,Biscuits,Y,Beurre,N,Sucre,Y,Œufs,N,Vanille,Y,Cheesecake végane,Fromage végétal,Y,Biscuits véganes,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Vanille,Y
+687,Banoffee,Biscuits,Y,Beurre,N,Bananes,Y,Caramel,Y,Crème,N,Chocolat,Y,Banoffee végane,Biscuits véganes,Y,Beurre végétal,Y,Bananes,Y,Caramel végane,Y,Crème végétale,Y,Chocolat,Y
+688,Pavlova,Blancs œufs,N,Sucre,Y,Crème,N,Fruits,Y,Vanille,Y,Maïzena,Y,Pavlova végane,Aquafaba,Y,Sucre,Y,Crème végétale,Y,Fruits,Y,Vanille,Y,Maïzena,Y
+689,Eton mess,Meringue,N,Crème,N,Fraises,Y,Sucre,Y,Vanille,Y,Menthe,Y,Eton mess végane,Meringue végane,Y,Crème végétale,Y,Fraises,Y,Sucre,Y,Vanille,Y,Menthe,Y
+690,Trifle,Génoise,Y,Crème anglaise,N,Fruits,Y,Gelée,Y,Crème chantilly,N,Amandes,Y,Trifle végane,Génoise végane,Y,Crème anglaise végane,Y,Fruits,Y,Gelée végane,Y,Chantilly végétale,Y,Amandes,Y
+691,Charlotte,Biscuits cuillère,Y,Mousse,N,Fruits,Y,Gélatine,N,Crème,N,Sucre,Y,Charlotte végane,Biscuits véganes,Y,Mousse végétale,Y,Fruits,Y,Agar-agar,Y,Crème végétale,Y,Sucre,Y
+692,Bavarois,Crème anglaise,N,Gélatine,N,Crème fouettée,N,Fruits,Y,Sucre,Y,Vanille,Y,Bavarois végane,Crème anglaise végane,Y,Agar-agar,Y,Crème fouettée végétale,Y,Fruits,Y,Sucre,Y,Vanille,Y
+693,Parfait glacé,Crème,N,Œufs,N,Sucre,Y,Fruits,Y,Alcool,Y,Vanille,Y,Parfait glacé végane,Crème coco,Y,Aquafaba,Y,Sucre,Y,Fruits,Y,Alcool,Y,Vanille,Y
+694,Vacherin,Meringue,N,Crème glacée,N,Fruits,Y,Crème chantilly,N,Sucre,Y,Vanille,Y,Vacherin végane,Meringue végane,Y,Glace végétale,Y,Fruits,Y,Chantilly végétale,Y,Sucre,Y,Vanille,Y
+695,Omelette à la confiture,Œufs,N,Confiture,Y,Sucre,Y,Beurre,N,Vanille,Y,Lait,N,Omelette végane sucrée,Aquafaba,Y,Confiture,Y,Sucre,Y,Beurre végétal,Y,Vanille,Y,Lait végétal,Y
+696,Soufflé aux framboises,Œufs,N,Framboises,Y,Sucre,Y,Beurre,N,Farine,Y,Lait,N,Soufflé végane framboises,Aquafaba,Y,Framboises,Y,Sucre,Y,Beurre végétal,Y,Farine,Y,Lait végétal,Y
+697,Soufflé Grand Marnier,Œufs,N,Grand Marnier,Y,Sucre,Y,Beurre,N,Farine,Y,Lait,N,Soufflé végane Grand Marnier,Aquafaba,Y,Grand Marnier,Y,Sucre,Y,Beurre végétal,Y,Farine,Y,Lait végétal,Y
+698,Flan pâtissier,Pâte brisée,Y,Lait,N,Œufs,N,Sucre,Y,Vanille,Y,Maïzena,Y,Flan végane,Pâte brisée végane,Y,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Maïzena,Y
+699,Tarte au flan,Pâte brisée,Y,Lait,N,Œufs,N,Sucre,Y,Vanille,Y,Poudre flan,Y,Tarte flan végane,Pâte brisée végane,Y,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Poudre flan végane,Y
+700,Riz au lait caramélisé,Riz,Y,Lait,N,Sucre,Y,Vanille,Y,Caramel,Y,Cannelle,Y,Riz lait végane caramélisé,Riz,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Caramel végane,Y,Cannelle,YrecetteID,nom_recette,ingredient_1,ingredient_1_vegan,ingredient_2,ingredient_2_vegan,ingredient_3,ingredient_3_vegan,ingredient_4,ingredient_4_vegan,ingredient_5,ingredient_5_vegan,ingredient_6,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_1_vegan,ingredient_vegan_2,ingredient_vegan_2_vegan,ingredient_vegan_3,ingredient_vegan_3_vegan,ingredient_vegan_4,ingredient_vegan_4_vegan,ingredient_vegan_5,ingredient_vegan_5_vegan,ingredient_vegan_6,ingredient_vegan_6_vegan
+801,Couscous royal,Semoule,Y,Agneau,N,Poulet,N,Légumes,Y,Pois chiches,Y,Harissa,Y,Couscous végétal royal,Semoule,Y,Seitan,Y,Tempeh,Y,Légumes,Y,Pois chiches,Y,Harissa,Y
+802,Tagine agneau,Agneau,N,Pruneaux,Y,Amandes,Y,Cannelle,Y,Gingembre,Y,Miel,N,Tagine végétal,Seitan,Y,Pruneaux,Y,Amandes,Y,Cannelle,Y,Gingembre,Y,Sirop d'agave,Y
+803,Tajine poulet citron,Poulet,N,Citrons confits,Y,Olives,Y,Gingembre,Y,Safran,Y,Coriandre,Y,Tajine végétal citron,Tofu,Y,Citrons confits,Y,Olives,Y,Gingembre,Y,Safran,Y,Coriandre,Y
+804,Pastilla au pigeon,Pastilla,Y,Pigeon,N,Amandes,Y,Cannelle,Y,Sucre,Y,Œufs,N,Pastilla végétale,Pastilla,Y,Champignons,Y,Amandes,Y,Cannelle,Y,Sucre,Y,Aquafaba,Y
+805,Mechoui,Agneau,N,Cumin,Y,Coriandre,Y,Ail,Y,Huile d'olive,Y,Sel,Y,Mechoui végétal,Seitan,Y,Cumin,Y,Coriandre,Y,Ail,Y,Huile d'olive,Y,Sel,Y
+806,Chorba,Agneau,N,Tomates,Y,Vermicelles,Y,Coriandre,Y,Menthe,Y,Citron,Y,Chorba végétale,Lentilles,Y,Tomates,Y,Vermicelles,Y,Coriandre,Y,Menthe,Y,Citron,Y
+807,Harira,Lentilles,Y,Pois chiches,Y,Tomates,Y,Coriandre,Y,Persil,Y,Citron,Y,Harira végane,Lentilles,Y,Pois chiches,Y,Tomates,Y,Coriandre,Y,Persil,Y,Citron,Y
+808,Chakchouka,Tomates,Y,Œufs,N,Poivrons,Y,Oignons,Y,Harissa,Y,Coriandre,Y,Chakchouka végane,Tomates,Y,Tofu brouillé,Y,Poivrons,Y,Oignons,Y,Harissa,Y,Coriandre,Y
+809,Bricks à l'œuf,Pâte brick,Y,Œufs,N,Thon,N,Câpres,Y,Persil,Y,Huile,Y,Bricks végétales,Pâte brick,Y,Tofu brouillé,Y,Pâté végétal,Y,Câpres,Y,Persil,Y,Huile,Y
+810,Kefta,Agneau haché,N,Persil,Y,Oignons,Y,Cumin,Y,Cannelle,Y,Piment,Y,Kefta végétale,Protéines végétales,Y,Persil,Y,Oignons,Y,Cumin,Y,Cannelle,Y,Piment,Y
+811,Falafel,Pois chiches,Y,Persil,Y,Coriandre,Y,Ail,Y,Cumin,Y,Huile,Y,Falafel végane,Pois chiches,Y,Persil,Y,Coriandre,Y,Ail,Y,Cumin,Y,Huile,Y
+812,Taboulé libanais,Persil,Y,Tomates,Y,Menthe,Y,Boulgour,Y,Citron,Y,Huile d'olive,Y,Taboulé végane,Persil,Y,Tomates,Y,Menthe,Y,Boulgour,Y,Citron,Y,Huile d'olive,Y
+813,Fattouch,Salade,Y,Tomates,Y,Concombre,Y,Pain pita,Y,Sumac,Y,Menthe,Y,Fattouch végane,Salade,Y,Tomates,Y,Concombre,Y,Pain pita,Y,Sumac,Y,Menthe,Y
+814,Kibbé,Boulgour,Y,Agneau,N,Oignons,Y,Pignons,Y,Cannelle,Y,Huile,Y,Kibbé végétal,Boulgour,Y,Lentilles,Y,Oignons,Y,Pignons,Y,Cannelle,Y,Huile,Y
+815,Lahmacun,Pâte fine,Y,Agneau haché,N,Tomates,Y,Oignons,Y,Persil,Y,Épices,Y,Lahmacun végétal,Pâte fine,Y,Protéines végétales,Y,Tomates,Y,Oignons,Y,Persil,Y,Épices,Y
+816,Dolmas,Feuilles vigne,Y,Riz,Y,Agneau,N,Pignons,Y,Menthe,Y,Citron,Y,Dolmas végétales,Feuilles vigne,Y,Riz,Y,Lentilles,Y,Pignons,Y,Menthe,Y,Citron,Y
+817,Moussaka,Aubergines,Y,Agneau haché,N,Béchamel,N,Tomates,Y,Oignons,Y,Fromage,N,Moussaka végétale,Aubergines,Y,Lentilles,Y,Béchamel végane,Y,Tomates,Y,Oignons,Y,Fromage végétal,Y
+818,Souvlaki,Porc,N,Citron,Y,Origan,Y,Ail,Y,Huile d'olive,Y,Oignons,Y,Souvlaki végétal,Seitan,Y,Citron,Y,Origan,Y,Ail,Y,Huile d'olive,Y,Oignons,Y
+819,Gyros,Porc,N,Yaourt grec,N,Concombre,Y,Tomates,Y,Oignons,Y,Pain pita,Y,Gyros végétal,Seitan,Y,Yaourt végétal,Y,Concombre,Y,Tomates,Y,Oignons,Y,Pain pita,Y
+820,Spanakopita,Épinards,Y,Feta,N,Pâte filo,Y,Œufs,N,Aneth,Y,Huile d'olive,Y,Spanakopita végétale,Épinards,Y,Fromage végétal,Y,Pâte filo,Y,Aquafaba,Y,Aneth,Y,Huile d'olive,Y
+821,Avgolemono,Œufs,N,Citron,Y,Riz,Y,Bouillon poulet,N,Aneth,Y,Persil,Y,Avgolemono végane,Aquafaba,Y,Citron,Y,Riz,Y,Bouillon végétal,Y,Aneth,Y,Persil,Y
+822,Baklava,Pâte filo,Y,Noix,Y,Miel,N,Beurre,N,Cannelle,Y,Sirop,Y,Baklava végane,Pâte filo,Y,Noix,Y,Sirop d'agave,Y,Beurre végétal,Y,Cannelle,Y,Sirop végane,Y
+823,Loukoumades,Farine,Y,Levure,Y,Miel,N,Cannelle,Y,Noix,Y,Huile,Y,Loukoumades véganes,Farine,Y,Levure,Y,Sirop d'érable,Y,Cannelle,Y,Noix,Y,Huile,Y
+824,Galaktoboureko,Lait,N,Semoule,Y,Œufs,N,Pâte filo,Y,Sucre,Y,Vanille,Y,Galaktoboureko végane,Lait végétal,Y,Semoule,Y,Aquafaba,Y,Pâte filo,Y,Sucre,Y,Vanille,Y
+825,Halva,Sésame,Y,Sucre,Y,Miel,N,Pistaches,Y,Vanille,Y,Eau,Y,Halva végane,Sésame,Y,Sucre,Y,Sirop d'agave,Y,Pistaches,Y,Vanille,Y,Eau,Y
+826,Paella valenciana,Riz bomba,Y,Poulet,N,Lapin,N,Haricots verts,Y,Tomates,Y,Safran,Y,Paella végétale valenciana,Riz bomba,Y,Seitan,Y,Champignons,Y,Haricots verts,Y,Tomates,Y,Safran,Y
+827,Gazpacho,Tomates,Y,Concombre,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y,Gazpacho végane,Tomates,Y,Concombre,Y,Poivrons,Y,Oignons,Y,Ail,Y,Huile d'olive,Y
+828,Tortilla espagnole,Œufs,N,Pommes de terre,Y,Oignons,Y,Huile d'olive,Y,Sel,Y,Persil,Y,Tortilla végane,Aquafaba,Y,Pommes de terre,Y,Oignons,Y,Huile d'olive,Y,Sel,Y,Persil,Y
+829,Jambon serrano,Jambon,N,Sel,Y,Temps,Y,Air,Y,Température,Y,Humidité,Y,Jambon végétal serrano,Seitan fumé,Y,Sel,Y,Épices,Y,Fumage,Y,Marinage,Y,Séchage,Y
+830,Chorizo,Porc,N,Pimentón,Y,Ail,Y,Sel,Y,Vin,Y,Boyau,N,Chorizo végétal,Seitan,Y,Pimentón,Y,Ail,Y,Sel,Y,Vin,Y,Enveloppe végétale,Y
+831,Patatas bravas,Pommes de terre,Y,Sauce tomate,Y,Aïoli,N,Piment,Y,Paprika,Y,Huile,Y,Patatas bravas véganes,Pommes de terre,Y,Sauce tomate,Y,Aïoli végane,Y,Piment,Y,Paprika,Y,Huile,Y
+832,Pimientos de Padrón,Piments Padrón,Y,Gros sel,Y,Huile d'olive,Y,Ail,Y,Citron,Y,Persil,Y,Pimientos véganes,Piments Padrón,Y,Gros sel,Y,Huile d'olive,Y,Ail,Y,Citron,Y,Persil,Y
+833,Croquetas,Béchamel,N,Jambon,N,Chapelure,Y,Œufs,N,Farine,Y,Huile,Y,Croquetas végétales,Béchamel végane,Y,Jambon végétal,Y,Chapelure,Y,Aquafaba,Y,Farine,Y,Huile,Y
+834,Pulpo a la gallega,Poulpe,N,Pommes de terre,Y,Pimentón,Y,Gros sel,Y,Huile d'olive,Y,Persil,Y,Pulpo végétal gallega,Champignons king oyster,Y,Pommes de terre,Y,Pimentón,Y,Gros sel,Y,Huile d'olive,Y,Persil,Y
+835,Fabada asturiana,Haricots fabes,Y,Chorizo,N,Morcilla,N,Lard,N,Safran,Y,Oignons,Y,Fabada végétale,Haricots fabes,Y,Chorizo végétal,Y,Boudin végétal,Y,Tempeh fumé,Y,Safran,Y,Oignons,Y
+836,Cocido madrileño,Pois chiches,Y,Bœuf,N,Chorizo,N,Lard,N,Légumes,Y,Vermicelles,Y,Cocido végétal,Pois chiches,Y,Seitan,Y,Chorizo végétal,Y,Tempeh,Y,Légumes,Y,Vermicelles,Y
+837,Salmorejo,Tomates,Y,Pain,Y,Ail,Y,Huile d'olive,Y,Vinaigre,Y,Sel,Y,Salmorejo végane,Tomates,Y,Pain,Y,Ail,Y,Huile d'olive,Y,Vinaigre,Y,Sel,Y
+838,Migas,Pain rassis,Y,Chorizo,N,Lard,N,Ail,Y,Pimentón,Y,Huile,Y,Migas végétales,Pain rassis,Y,Chorizo végétal,Y,Tempeh,Y,Ail,Y,Pimentón,Y,Huile,Y
+839,Crema catalana,Lait,N,Œufs,N,Sucre,Y,Cannelle,Y,Citron,Y,Maïzena,Y,Crema catalana végane,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Cannelle,Y,Citron,Y,Maïzena,Y
+840,Torrijas,Pain,Y,Lait,N,Œufs,N,Sucre,Y,Cannelle,Y,Huile,Y,Torrijas véganes,Pain,Y,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Cannelle,Y,Huile,Y
+841,Flan de huevo,Œufs,N,Lait,N,Sucre,Y,Vanille,Y,Caramel,Y,Eau,Y,Flan végane,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Caramel végane,Y,Eau,Y
+842,Churros con chocolate,Farine,Y,Eau,Y,Sel,Y,Huile,Y,Chocolat,Y,Sucre,Y,Churros véganes chocolat,Farine,Y,Eau,Y,Sel,Y,Huile,Y,Chocolat végane,Y,Sucre,Y
+843,Polvorones,Farine,Y,Saindoux,N,Sucre,Y,Amandes,Y,Cannelle,Y,Anis,Y,Polvorones véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Amandes,Y,Cannelle,Y,Anis,Y
+844,Turron,Amandes,Y,Miel,N,Blancs œufs,N,Sucre,Y,Citron,Y,Vanille,Y,Turron végane,Amandes,Y,Sirop d'agave,Y,Aquafaba,Y,Sucre,Y,Citron,Y,Vanille,Y
+845,Horchata,Souchet,Y,Eau,Y,Sucre,Y,Cannelle,Y,Citron,Y,Glace,Y,Horchata végane,Souchet,Y,Eau,Y,Sucre,Y,Cannelle,Y,Citron,Y,Glace,Y
+846,Sangria,Vin rouge,Y,Fruits,Y,Sucre,Y,Cannelle,Y,Liqueur,Y,Soda,Y,Sangria végane,Vin rouge végane,Y,Fruits,Y,Sucre,Y,Cannelle,Y,Liqueur végane,Y,Soda,Y
+847,Kaiserschmarrn,Farine,Y,Œufs,N,Lait,N,Sucre,Y,Raisins,Y,Beurre,N,Kaiserschmarrn végane,Farine,Y,Aquafaba,Y,Lait végétal,Y,Sucre,Y,Raisins,Y,Beurre végétal,Y
+848,Schnitzel viennois,Escalope veau,N,Chapelure,Y,Œufs,N,Farine,Y,Beurre,N,Citron,Y,Schnitzel végétal,Seitan,Y,Chapelure,Y,Aquafaba,Y,Farine,Y,Beurre végétal,Y,Citron,Y
+849,Goulash,Bœuf,N,Paprika,Y,Oignons,Y,Tomates,Y,Poivrons,Y,Pommes de terre,Y,Goulash végétal,Seitan,Y,Paprika,Y,Oignons,Y,Tomates,Y,Poivrons,Y,Pommes de terre,Y
+850,Strudel aux pommes,Pâte filo,Y,Pommes,Y,Sucre,Y,Cannelle,Y,Raisins,Y,Beurre,N,Strudel végane,Pâte filo,Y,Pommes,Y,Sucre,Y,Cannelle,Y,Raisins,Y,Beurre végétal,Y
+851,Sachertorte,Chocolat,Y,Abricots,Y,Œufs,N,Sucre,Y,Beurre,N,Farine,Y,Sachertorte végane,Chocolat végane,Y,Abricots,Y,Aquafaba,Y,Sucre,Y,Beurre végétal,Y,Farine,Y
+852,Linzertorte,Pâte sablée,Y,Confiture,Y,Amandes,Y,Cannelle,Y,Sucre,Y,Beurre,N,Linzertorte végane,Pâte sablée végane,Y,Confiture,Y,Amandes,Y,Cannelle,Y,Sucre,Y,Beurre végétal,Y
+853,Apfelstrudel,Pommes,Y,Pâte étirée,Y,Sucre,Y,Cannelle,Y,Raisins,Y,Beurre,N,Apfelstrudel végane,Pommes,Y,Pâte étirée végane,Y,Sucre,Y,Cannelle,Y,Raisins,Y,Beurre végétal,Y
+854,Lebkuchen,Farine,Y,Miel,N,Épices,Y,Amandes,Y,Fruits confits,Y,Œufs,N,Lebkuchen végane,Farine,Y,Sirop d'agave,Y,Épices,Y,Amandes,Y,Fruits confits,Y,Aquafaba,Y
+855,Bratwurst,Porc,N,Épices,Y,Sel,Y,Vin,Y,Boyau,N,Fumage,Y,Bratwurst végétale,Seitan,Y,Épices,Y,Sel,Y,Vin,Y,Enveloppe végétale,Y,Fumage végétal,Y
+856,Sauerkraut,Chou blanc,Y,Sel,Y,Baies genièvre,Y,Vin blanc,Y,Lard,N,Oignons,Y,Sauerkraut végane,Chou blanc,Y,Sel,Y,Baies genièvre,Y,Vin blanc,Y,Tempeh,Y,Oignons,Y
+857,Bretzel,Farine,Y,Levure,Y,Sel,Y,Bicarbonate,Y,Gros sel,Y,Eau,Y,Bretzel végane,Farine,Y,Levure,Y,Sel,Y,Bicarbonate,Y,Gros sel,Y,Eau,Y
+858,Spätzle,Farine,Y,Œufs,N,Lait,N,Sel,Y,Muscade,Y,Beurre,N,Spätzle végane,Farine,Y,Aquafaba,Y,Lait végétal,Y,Sel,Y,Muscade,Y,Beurre végétal,Y
+859,Sauerbraten,Bœuf,N,Vinaigre,Y,Vin rouge,Y,Oignons,Y,Épices,Y,Raisins,Y,Sauerbraten végétal,Seitan,Y,Vinaigre,Y,Vin rouge,Y,Oignons,Y,Épices,Y,Raisins,Y
+860,Eisbein,Jarret porc,N,Choucroute,Y,Pommes de terre,Y,Moutarde,N,Cornichons,Y,Bière,Y,Eisbein végétal,Seitan fumé,Y,Choucroute,Y,Pommes de terre,Y,Moutarde végane,Y,Cornichons,Y,Bière,Y
+861,Rouladen,Bœuf,N,Moutarde,N,Cornichons,Y,Lardons,N,Oignons,Y,Vin rouge,Y,Rouladen végétales,Seitan,Y,Moutarde végane,Y,Cornichons,Y,Tempeh,Y,Oignons,Y,Vin rouge,Y
+862,Königsberger Klopse,Bœuf haché,N,Porc haché,N,Œufs,N,Câpres,Y,Crème,N,Citron,Y,Klopse végétales,Protéines végétales,Y,Lentilles,Y,Aquafaba,Y,Câpres,Y,Crème végétale,Y,Citron,Y
+863,Himmel und Erde,Pommes de terre,Y,Pommes,Y,Boudin noir,N,Oignons,Y,Beurre,N,Persil,Y,Himmel végétal,Pommes de terre,Y,Pommes,Y,Boudin végétal,Y,Oignons,Y,Beurre végétal,Y,Persil,Y
+864,Rheinischer Sauerbraten,Bœuf,N,Vinaigre,Y,Raisins,Y,Pain d'épice,Y,Vin rouge,Y,Betteraves,Y,Sauerbraten végétal rhénan,Seitan,Y,Vinaigre,Y,Raisins,Y,Pain d'épice végane,Y,Vin rouge,Y,Betteraves,Y
+865,Currywurst,Saucisse,N,Sauce curry,Y,Ketchup,Y,Poudre curry,Y,Oignons,Y,Paprika,Y,Currywurst végétale,Saucisse végétale,Y,Sauce curry végane,Y,Ketchup,Y,Poudre curry,Y,Oignons,Y,Paprika,Y
+866,Döppekuchen,Pommes de terre,Y,Saucisse,N,Lard,N,Oignons,Y,Bouillon,N,Marjolaine,Y,Döppekuchen végétal,Pommes de terre,Y,Saucisse végétale,Y,Tempeh,Y,Oignons,Y,Bouillon végétal,Y,Marjolaine,Y
+867,Reibekuchen,Pommes de terre,Y,Oignons,Y,Œufs,N,Farine,Y,Sel,Y,Huile,Y,Reibekuchen véganes,Pommes de terre,Y,Oignons,Y,Aquafaba,Y,Farine,Y,Sel,Y,Huile,Y
+868,Flönz,Sang porc,N,Gras,N,Avoine,Y,Oignons,Y,Épices,Y,Boyau,N,Flönz végétal,Haricots noirs,Y,Huile coco,Y,Avoine,Y,Oignons,Y,Épices,Y,Enveloppe végétale,Y
+869,Biersuppe,Bière,Y,Bouillon,N,Œufs,N,Crème,N,Sucre,Y,Cannelle,Y,Biersuppe végane,Bière,Y,Bouillon végétal,Y,Aquafaba,Y,Crème végétale,Y,Sucre,Y,Cannelle,Y
+870,Maultaschen,Pâte,Y,Épinards,Y,Viande hachée,N,Œufs,N,Oignons,Y,Herbes,Y,Maultaschen végétales,Pâte végane,Y,Épinards,Y,Protéines végétales,Y,Aquafaba,Y,Oignons,Y,Herbes,Y
+871,Fish and chips anglais,Cabillaud,N,Pâte à bière,Y,Pommes de terre,Y,Huile,Y,Vinaigre,Y,Petits pois,Y,Fish végétal anglais,Tofu,Y,Pâte à bière végane,Y,Pommes de terre,Y,Huile,Y,Vinaigre,Y,Petits pois,Y
+872,Shepherd's pie,Agneau haché,N,Pommes de terre,Y,Carottes,Y,Petits pois,Y,Oignons,Y,Bouillon,N,Shepherd's pie végétal,Lentilles,Y,Pommes de terre,Y,Carottes,Y,Petits pois,Y,Oignons,Y,Bouillon végétal,Y
+873,Bangers and mash,Saucisses,N,Pommes de terre,Y,Oignons,Y,Sauce,N,Petits pois,Y,Beurre,N,Bangers végétales mash,Saucisses végétales,Y,Pommes de terre,Y,Oignons,Y,Sauce végane,Y,Petits pois,Y,Beurre végétal,Y
+874,Bubble and squeak,Pommes de terre,Y,Chou,Y,Lard,N,Oignons,Y,Beurre,N,Œufs,N,Bubble squeak végétal,Pommes de terre,Y,Chou,Y,Tempeh,Y,Oignons,Y,Beurre végétal,Y,Tofu brouillé,Y
+875,Toad in the hole,Saucisses,N,Pâte Yorkshire,Y,Œufs,N,Lait,N,Farine,Y,Huile,Y,Toad végétal hole,Saucisses végétales,Y,Pâte Yorkshire végane,Y,Aquafaba,Y,Lait végétal,Y,Farine,Y,Huile,Y
+876,Cornish pasty,Pâte brisée,Y,Bœuf,N,Pommes de terre,Y,Navets,Y,Oignons,Y,Poivre,Y,Cornish pasty végétal,Pâte brisée végane,Y,Seitan,Y,Pommes de terre,Y,Navets,Y,Oignons,Y,Poivre,Y
+877,Steak and kidney pie,Bœuf,N,Rognons,N,Pâte,Y,Oignons,Y,Bouillon,N,Herbes,Y,Steak kidney pie végétal,Seitan,Y,Champignons,Y,Pâte végane,Y,Oignons,Y,Bouillon végétal,Y,Herbes,Y
+878,Haggis,Abats mouton,N,Avoine,Y,Oignons,Y,Épices,Y,Graisse,N,Boyau,N,Haggis végétal,Lentilles,Y,Avoine,Y,Oignons,Y,Épices,Y,Huile coco,Y,Enveloppe végétale,Y
+879,Black pudding,Sang porc,N,Avoine,Y,Gras,N,Oignons,Y,Épices,Y,Boyau,N,Black pudding végétal,Haricots noirs,Y,Avoine,Y,Huile coco,Y,Oignons,Y,Épices,Y,Enveloppe végétale,Y
+880,Spotted dick,Farine,Y,Graisse bœuf,N,Sucre,Y,Raisins,Y,Lait,N,Épices,Y,Spotted dick végétal,Farine,Y,Beurre végétal,Y,Sucre,Y,Raisins,Y,Lait végétal,Y,Épices,Y
+881,Treacle tart,Pâte sablée,Y,Mélasse,Y,Chapelure,Y,Citron,Y,Œufs,N,Crème,N,Treacle tart végane,Pâte sablée végane,Y,Mélasse,Y,Chapelure,Y,Citron,Y,Aquafaba,Y,Crème végétale,Y
+882,Eton mess,Meringue,N,Crème,N,Fraises,Y,Sucre,Y,Vanille,Y,Menthe,Y,Eton mess végane,Meringue végane,Y,Crème végétale,Y,Fraises,Y,Sucre,Y,Vanille,Y,Menthe,Y
+883,Scones,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Lait,N,Levure,Y,Scones véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Lait végétal,Y,Levure,Y
+884,Shortbread,Farine,Y,Beurre,N,Sucre,Y,Sel,Y,Vanille,Y,Maïzena,Y,Shortbread végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Sel,Y,Vanille,Y,Maïzena,Y
+885,Trifle anglais,Génoise,Y,Crème anglaise,N,Fruits,Y,Gelée,Y,Crème fouettée,N,Amandes,Y,Trifle végane anglais,Génoise végane,Y,Crème anglaise végane,Y,Fruits,Y,Gelée végane,Y,Crème fouettée végétale,Y,Amandes,Y
+886,Christmas pudding,Fruits secs,Y,Graisse bœuf,N,Farine,Y,Œufs,N,Rhum,Y,Épices,Y,Christmas pudding végane,Fruits secs,Y,Beurre végétal,Y,Farine,Y,Aquafaba,Y,Rhum,Y,Épices,Y
+887,Mince pies,Pâte sablée,Y,Fruits secs,Y,Graisse bœuf,N,Épices,Y,Sucre,Y,Cognac,Y,Mince pies véganes,Pâte sablée végane,Y,Fruits secs,Y,Beurre végétal,Y,Épices,Y,Sucre,Y,Cognac,Y
+888,Victoria sponge,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Confiture,Y,Crème,N,Victoria sponge végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Confiture,Y,Crème végétale,Y
+889,Lemon curd,Citrons,Y,Beurre,N,Sucre,Y,Œufs,N,Maïzena,Y,Sel,Y,Lemon curd végane,Citrons,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Maïzena,Y,Sel,Y
+890,Earl Grey tea cake,Farine,Y,Thé Earl Grey,Y,Beurre,N,Sucre,Y,Œufs,N,Levure,Y,Earl Grey végane,Farine,Y,Thé Earl Grey,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y
+891,Sticky toffee pudding,Dattes,Y,Beurre,N,Sucre,Y,Œufs,N,Farine,Y,Crème,N,Sticky toffee végane,Dattes,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Farine,Y,Crème végétale,Y
+892,Banoffee pie,Biscuits,Y,Beurre,N,Caramel,Y,Bananes,Y,Crème,N,Chocolat,Y,Banoffee pie végane,Biscuits véganes,Y,Beurre végétal,Y,Caramel végane,Y,Bananes,Y,Crème végétale,Y,Chocolat végane,Y
+893,Apple crumble,Pommes,Y,Farine,Y,Beurre,N,Sucre,Y,Avoine,Y,Cannelle,Y,Apple crumble végane,Pommes,Y,Farine,Y,Beurre végétal,Y,Sucre,Y,Avoine,Y,Cannelle,Y
+894,Rhubarb crumble,Rhubarbe,Y,Farine,Y,Beurre,N,Sucre,Y,Amandes,Y,Gingembre,Y,Rhubarb crumble végane,Rhubarbe,Y,Farine,Y,Beurre végétal,Y,Sucre,Y,Amandes,Y,Gingembre,Y
+895,Bread and butter pudding,Pain,Y,Beurre,N,Lait,N,Œufs,N,Sucre,Y,Raisins,Y,Bread butter végane,Pain,Y,Beurre végétal,Y,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Raisins,Y
+896,Rice pudding,Riz,Y,Lait,N,Sucre,Y,Vanille,Y,Cannelle,Y,Raisins,Y,Rice pudding végane,Riz,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Cannelle,Y,Raisins,Y
+897,Jam roly-poly,Pâte suet,Y,Confiture,Y,Farine,Y,Graisse bœuf,N,Sucre,Y,Lait,N,Jam roly-poly végane,Pâte végane,Y,Confiture,Y,Farine,Y,Beurre végétal,Y,Sucre,Y,Lait végétal,Y
+898,Bakewell tart,Pâte sablée,Y,Confiture,Y,Poudre amandes,Y,Beurre,N,Œufs,N,Sucre,Y,Bakewell tart végane,Pâte sablée végane,Y,Confiture,Y,Poudre amandes,Y,Beurre végétal,Y,Aquafaba,Y,Sucre,Y
+899,Custard tart,Pâte brisée,Y,Lait,N,Œufs,N,Sucre,Y,Vanille,Y,Muscade,Y,Custard tart végane,Pâte brisée végane,Y,Lait végétal,Y,Aquafaba,Y,Sucre,Y,Vanille,Y,Muscade,Y
+900,Lemon drizzle cake,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Citron,Y,Levure,Y,Lemon drizzle végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Citron,Y,Levure,Y
+901,Carrot cake anglais,Carottes,Y,Farine,Y,Sucre,Y,Huile,Y,Œufs,N,Épices,Y,Carrot cake végane anglais,Carottes,Y,Farine,Y,Sucre,Y,Huile,Y,Aquafaba,Y,Épices,Y
+902,Parkin,Avoine,Y,Mélasse,Y,Gingembre,Y,Farine,Y,Beurre,N,Œufs,N,Parkin végane,Avoine,Y,Mélasse,Y,Gingembre,Y,Farine,Y,Beurre végétal,Y,Aquafaba,Y
+903,Eccles cakes,Pâte feuilletée,Y,Raisins,Y,Beurre,N,Sucre,Y,Épices,Y,Zeste,Y,Eccles cakes véganes,Pâte feuilletée végane,Y,Raisins,Y,Beurre végétal,Y,Sucre,Y,Épices,Y,Zeste,Y
+904,Welsh cakes,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Raisins,Y,Épices,Y,Welsh cakes véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Raisins,Y,Épices,Y
+905,Bara brith,Farine,Y,Fruits secs,Y,Thé,Y,Sucre,Y,Œufs,N,Épices,Y,Bara brith végane,Farine,Y,Fruits secs,Y,Thé,Y,Sucre,Y,Aquafaba,Y,Épices,Y
+906,Laverbread,Algues laver,Y,Avoine,Y,Lard,N,Sel,Y,Poivre,Y,Citron,Y,Laverbread végane,Algues laver,Y,Avoine,Y,Huile coco,Y,Sel,Y,Poivre,Y,Citron,Y
+907,Cawl,Agneau,N,Poireaux,Y,Pommes de terre,Y,Carottes,Y,Navets,Y,Persil,Y,Cawl végétal,Seitan,Y,Poireaux,Y,Pommes de terre,Y,Carottes,Y,Navets,Y,Persil,Y
+908,Faggots,Porc haché,N,Foie porc,N,Chapelure,Y,Oignons,Y,Herbes,Y,Crépine,N,Faggots végétales,Protéines végétales,Y,Champignons,Y,Chapelure,Y,Oignons,Y,Herbes,Y,Enveloppe végétale,Y
+909,Glamorgan sausages,Fromage,N,Chapelure,Y,Poireaux,Y,Œufs,N,Herbes,Y,Moutarde,N,Glamorgan végétales,Fromage végétal,Y,Chapelure,Y,Poireaux,Y,Aquafaba,Y,Herbes,Y,Moutarde végane,Y
+910,Cockles and laverbread,Coques,N,Algues,Y,Avoine,Y,Lard,N,Citron,Y,Persil,Y,Cockles végétales,Champignons,Y,Algues,Y,Avoine,Y,Huile coco,Y,Citron,Y,Persil,Y
+911,Cullen skink,Haddock fumé,N,Pommes de terre,Y,Oignons,Y,Lait,N,Beurre,N,Persil,Y,Cullen skink végétal,Tofu fumé,Y,Pommes de terre,Y,Oignons,Y,Lait végétal,Y,Beurre végétal,Y,Persil,Y
+912,Neeps and tatties,Navets,Y,Pommes de terre,Y,Beurre,N,Sel,Y,Poivre,Y,Persil,Y,Neeps tatties véganes,Navets,Y,Pommes de terre,Y,Beurre végétal,Y,Sel,Y,Poivre,Y,Persil,Y
+913,Tablet,Sucre,Y,Lait condensé,N,Beurre,N,Vanille,Y,Sel,Y,Glucose,Y,Tablet végane,Sucre,Y,Lait condensé végétal,Y,Beurre végétal,Y,Vanille,Y,Sel,Y,Glucose,Y
+914,Oatcakes,Avoine,Y,Farine,Y,Sel,Y,Beurre,N,Eau,Y,Bicarbonate,Y,Oatcakes véganes,Avoine,Y,Farine,Y,Sel,Y,Beurre végétal,Y,Eau,Y,Bicarbonate,Y
+915,Irn-Bru cake,Farine,Y,Irn-Bru,Y,Beurre,N,Sucre,Y,Œufs,N,Levure,Y,Irn-Bru cake végane,Farine,Y,Irn-Bru,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Levure,Y
+916,Dundee cake,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Fruits secs,Y,Amandes,Y,Dundee cake végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Fruits secs,Y,Amandes,Y
+917,Empire biscuits,Farine,Y,Beurre,N,Sucre,Y,Œufs,N,Confiture,Y,Glaçage,Y,Empire véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Aquafaba,Y,Confiture,Y,Glaçage végane,Y
+918,Millionaire's shortbread,Sablé,Y,Caramel,Y,Chocolat,Y,Beurre,N,Sucre,Y,Crème,N,Millionaire végane,Sablé végane,Y,Caramel végane,Y,Chocolat végane,Y,Beurre végétal,Y,Sucre,Y,Crème végétale,Y
+919,Tunnock's teacakes,Biscuit,Y,Guimauve,Y,Chocolat,Y,Sucre,Y,Gélatine,N,Vanille,Y,Teacakes véganes,Biscuit végane,Y,Guimauve végane,Y,Chocolat végane,Y,Sucre,Y,Agar-agar,Y,Vanille,Y
+920,Snowballs,Génoise,Y,Confiture,Y,Crème,N,Noix de coco,Y,Guimauve,Y,Chocolat,Y,Snowballs véganes,Génoise végane,Y,Confiture,Y,Crème végétale,Y,Noix de coco,Y,Guimauve végane,Y,Chocolat végane,Y
+921,Cranachan,Avoine,Y,Crème,N,Miel,N,Whisky,Y,Framboises,Y,Amandes,Y,Cranachan végane,Avoine,Y,Crème végétale,Y,Sirop d'agave,Y,Whisky,Y,Framboises,Y,Amandes,Y
+922,Clootie dumpling,Farine,Y,Graisse bœuf,N,Fruits secs,Y,Épices,Y,Mélasse,Y,Œufs,N,Clootie végane,Farine,Y,Beurre végétal,Y,Fruits secs,Y,Épices,Y,Mélasse,Y,Aquafaba,Y
+923,Bannocks,Avoine,Y,Farine,Y,Bicarbonate,Y,Babeurre,N,Sel,Y,Sucre,Y,Bannocks véganes,Avoine,Y,Farine,Y,Bicarbonate,Y,Lait végétal,Y,Sel,Y,Sucre,Y
+924,Butteries,Farine,Y,Beurre,N,Saindoux,N,Sucre,Y,Levure,Y,Sel,Y,Butteries véganes,Farine,Y,Beurre végétal,Y,Huile coco,Y,Sucre,Y,Levure,Y,Sel,Y
+925,Aberdeen Angus beef,Bœuf Aberdeen,N,Sel,Y,Poivre,Y,Thym,Y,Ail,Y,Huile,Y,Aberdeen végétal,Seitan premium,Y,Sel,Y,Poivre,Y,Thym,Y,Ail,Y,Huile,Y
+926,Black bun,Pâte,Y,Fruits secs,Y,Épices,Y,Whisky,Y,Amandes,Y,Œufs,N,Black bun végane,Pâte végane,Y,Fruits secs,Y,Épices,Y,Whisky,Y,Amandes,Y,Aquafaba,Y
+927,Selkirk bannock,Farine,Y,Beurre,N,Sucre,Y,Raisins,Y,Levure,Y,Lait,N,Selkirk végane,Farine,Y,Beurre végétal,Y,Sucre,Y,Raisins,Y,Levure,Y,Lait végétal,Y
+928,Petticoat tails,Farine,Y,Beurre,N,Sucre,Y,Amandes,Y,Eau de rose,Y,Sel,Y,Petticoat véganes,Farine,Y,Beurre végétal,Y,Sucre,Y,Amandes,Y,Eau de rose,Y,Sel,Y
+929,Macaroon bars,Pommes de terre,Y,Sucre glace,Y,Noix de coco,Y,Chocolat,Y,Colorant,Y,Vanille,Y,Macaroon véganes,Pommes de terre,Y,Sucre glace,Y,Noix de coco,Y,Chocolat végane,Y,Colorant végétal,Y,Vanille,Y
+930,Tablet écossais,Sucre,Y,Lait,N,Beurre,N,Vanille,Y,Sel,Y,Glucose,Y,Tablet végane écossais,Sucre,Y,Lait végétal,Y,Beurre végétal,Y,Vanille,Y,Sel,Y,Glucose,Y
+931,Fudge écossais,Sucre,Y,Beurre,N,Lait condensé,N,Vanille,Y,Sel,Y,Chocolat,Y,Fudge végane écossais,Sucre,Y,Beurre végétal,Y,Lait condensé végétal,Y,Vanille,Y,Sel,Y,Chocolat végane,Y
+932,Edinburgh rock,Sucre,Y,Crème de tartre,Y,Eau,Y,Arômes,Y,Colorants,Y,Glucose,Y,Edinburgh rock végane,Sucre,Y,Crème de tartre,Y,Eau,Y,Arômes végétaux,Y,Colorants végétaux,Y,Glucose,Y
+933,Berwick cockles,Sucre,Y,Menthe,Y,Crème de tartre,Y,Colorant,Y,Eau,Y,Glucose,Y,Berwick cockles véganes,Sucre,Y,Menthe,Y,Crème de tartre,Y,Colorant végétal,Y,Eau,Y,Glucose,Y
+934,Soor plums,Sucre,Y,Acide tartrique,Y,Colorant,Y,Arôme,Y,Eau,Y,Glucose,Y,Soor plums véganes,Sucre,Y,Acide tartrique,Y,Colorant végétal,Y,Arôme végétal,Y,Eau,Y,Glucose,Y
+935,Pan drops,Sucre,Y,Menthe,Y,Crème de tartre,Y,Colorant,Y,Eau,Y,Glucose,Y,Pan drops véganes,Sucre,Y,Menthe,Y,Crème de tartre,Y,Colorant végétal,Y,Eau,Y,Glucose,Y
+936,Humbugs,Sucre,Y,Menthe,Y,Glucose,Y,Crème de tartre,Y,Colorant,Y,Arôme,Y,Humbugs véganes,Sucre,Y,Menthe,Y,Glucose,Y,Crème de tartre,Y,Colorant végétal,Y,Arôme végétal,Y
+937,Bonfire toffee,Sucre,Y,Glucose,Y,Beurre,N,Mélasse,Y,Bicarbonate,Y,Vinaigre,Y,Bonfire toffee végane,Sucre,Y,Glucose,Y,Beurre végétal,Y,Mélasse,Y,Bicarbonate,Y,Vinaigre,Y
+938,Mint imperials,Sucre,Y,Glucose,Y,Menthe,Y,Crème de tartre,Y,Colorant,Y,Eau,Y,Mint imperials véganes,Sucre,Y,Glucose,Y,Menthe,Y,Crème de tartre,Y,Colorant végétal,Y,Eau,Y
+939,Acid drops,Sucre,Y,Glucose,Y,Acide citrique,Y,Colorant,Y,Arôme,Y,Eau,Y,Acid drops véganes,Sucre,Y,Glucose,Y,Acide citrique,Y,Colorant végétal,Y,Arôme végétal,Y,Eau,Y
+940,Sherbet lemons,Sucre,Y,Glucose,Y,Acide citrique,Y,Bicarbonate,Y,Arôme citron,Y,Colorant,Y,Sherbet lemons véganes,Sucre,Y,Glucose,Y,Acide citrique,Y,Bicarbonate,Y,Arôme citron végétal,Y,Colorant végétal,Y
+941,Pear drops,Sucre,Y,Glucose,Y,Arôme poire,Y,Colorant,Y,Acide citrique,Y,Eau,Y,Pear drops véganes,Sucre,Y,Glucose,Y,Arôme poire végétal,Y,Colorant végétal,Y,Acide citrique,Y,Eau,Y
+942,Rhubarb and custard,Sucre,Y,Glucose,Y,Arôme rhubarbe,Y,Arôme custard,Y,Colorant,Y,Acide,Y,Rhubarb custard véganes,Sucre,Y,Glucose,Y,Arôme rhubarbe végétal,Y,Arôme custard végétal,Y,Colorant végétal,Y,Acide végétal,Y
+943,Cola bottles,Sucre,Y,Gélatine,N,Arôme cola,Y,Colorant,Y,Acide citrique,Y,Glucose,Y,Cola bottles véganes,Sucre,Y,Agar-agar,Y,Arôme cola végétal,Y,Colorant végétal,Y,Acide citrique,Y,Glucose,Y
+944,Wine gums,Sucre,Y,Gélatine,N,Arômes fruits,Y,Colorants,Y,Acide citrique,Y,Glucose,Y,Wine gums véganes,Sucre,Y,Agar-agar,Y,Arômes fruits végétaux,Y,Colorants végétaux,Y,Acide citrique,Y,Glucose,Y
+945,Jelly babies,Sucre,Y,Gélatine,N,Arômes,Y,Colorants,Y,Acide citrique,Y,Amidon,Y,Jelly babies véganes,Sucre,Y,Agar-agar,Y,Arômes végétaux,Y,Colorants végétaux,Y,Acide citrique,Y,Amidon,Y
+946,Liquorice allsorts,Réglisse,Y,Sucre,Y,Farine,Y,Gélatine,N,Colorants,Y,Arômes,Y,Liquorice véganes,Réglisse,Y,Sucre,Y,Farine,Y,Agar-agar,Y,Colorants végétaux,Y,Arômes végétaux,Y
+947,Pontefract cakes,Réglisse,Y,Sucre,Y,Farine,Y,Mélasse,Y,Anis,Y,Sel,Y,Pontefract véganes,Réglisse,Y,Sucre,Y,Farine,Y,Mélasse,Y,Anis,Y,Sel,Y
+948,Love hearts,Sucre,Y,Glucose,Y,Arômes,Y,Colorants,Y,Acide citrique,Y,Amidon,Y,Love hearts véganes,Sucre,Y,Glucose,Y,Arômes végétaux,Y,Colorants végétaux,Y,Acide citrique,Y,Amidon,Y
+949,Parma violets,Sucre,Y,Amidon,Y,Arôme violette,Y,Colorant,Y,Acide citrique,Y,Glucose,Y,Parma violets véganes,Sucre,Y,Amidon,Y,Arôme violette végétal,Y,Colorant végétal,Y,Acide citrique,Y,Glucose,Y
+950,Refreshers,Sucre,Y,Glucose,Y,Bicarbonate,Y,Acide citrique,Y,Arômes,Y,Colorants,Y,Refreshers véganes,Sucre,Y,Glucose,Y,Bicarbonate,Y,Acide citrique,Y,Arômes végétaux,Y,Colorants végétaux,YrecetteID,nom_recette,ingredient_1,ingredient_1_vegan,ingredient_2,ingredient_2_vegan,ingredient_3,ingredient_3_vegan,ingredient_4,ingredient_4_vegan,ingredient_5,ingredient_5_vegan,ingredient_6,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_1_vegan,ingredient_vegan_2,ingredient_vegan_2_vegan,ingredient_vegan_3,ingredient_vegan_3_vegan,ingredient_vegan_4,ingredient_vegan_4_vegan,ingredient_vegan_5,ingredient_vegan_5_vegan,ingredient_vegan_6,ingredient_vegan_6_vegan
+451,Salade verte simple,Laitue,Y,Vinaigrette,N,Radis,Y,Concombre,Y,Tomates cerises,Y,Ciboulette,Y,Salade verte végane,Laitue,Y,Vinaigrette végane,Y,Radis,Y,Concombre,Y,Tomates cerises,Y,Ciboulette,Y
+452,Salade de tomates,Tomates,Y,Oignons rouges,Y,Basilic,Y,Huile d'olive,Y,Vinaigre balsamique,Y,Mozzarella,N,Salade tomates végane,Tomates,Y,Oignons rouges,Y,Basilic,Y,Huile d'olive,Y,Vinaigre balsamique,Y,Fromage végétal,Y
+453,Salade composée,Salade verte,Y,Œufs durs,N,Thon,N,Tomates,Y,Olives,Y,Vinaigrette,N,Salade composée végane,Salade verte,Y,Pois chiches,Y,Tempeh,Y,Tomates,Y,Olives,Y,Vinaigrette végane,Y
+454,Salade de pâtes,Penne,Y,Tomates cerises,Y,Mozzarella,N,Basilic,Y,Huile d'olive,Y,Pignons,Y,Salade pâtes végane,Penne,Y,Tomates cerises,Y,Fromage végétal,Y,Basilic,Y,Huile d'olive,Y,Pignons,Y
+455,Salade de riz,Riz,Y,Thon,N,Maïs,Y,Tomates,Y,Œufs durs,N,Mayonnaise,N,Salade riz végane,Riz,Y,Légumineuses,Y,Maïs,Y,Tomates,Y,Tofu fumé,Y,Mayo végane,Y
+456,Salade grecque,Tomates,Y,Concombre,Y,Olives noires,Y,Oignons rouges,Y,Feta,N,Origan,Y,Salade grecque végane,Tomates,Y,Concombre,Y,Olives noires,Y,Oignons rouges,Y,Feta végétale,Y,Origan,Y
+457,Salade de betteraves,Betteraves,Y,Noix,Y,Chèvre,N,Mâche,Y,Vinaigrette,N,Échalotes,Y,Salade betteraves végane,Betteraves,Y,Noix,Y,Fromage végétal,Y,Mâche,Y,Vinaigrette végane,Y,Échalotes,Y
+458,Salade de carottes râpées,Carottes,Y,Citron,Y,Huile d'olive,Y,Persil,Y,Sel,Y,Poivre,Y,Salade carottes végane,Carottes,Y,Citron,Y,Huile d'olive,Y,Persil,Y,Sel,Y,Poivre,Y
+459,Salade d'endives,Endives,Y,Noix,Y,Roquefort,N,Pommes,Y,Vinaigrette,N,Cerfeuil,Y,Salade endives végane,Endives,Y,Noix,Y,Fromage bleu végétal,Y,Pommes,Y,Vinaigrette végane,Y,Cerfeuil,Y
+460,Salade de quinoa,Quinoa,Y,Avocat,Y,Tomates cerises,Y,Feta,N,Citron,Y,Menthe,Y,Salade quinoa végane,Quinoa,Y,Avocat,Y,Tomates cerises,Y,Fromage végétal,Y,Citron,Y,Menthe,Y
+461,Salade taboulé,Semoule,Y,Tomates,Y,Persil,Y,Menthe,Y,Citron,Y,Huile d'olive,Y,Taboulé végane,Semoule,Y,Tomates,Y,Persil,Y,Menthe,Y,Citron,Y,Huile d'olive,Y
+462,Salade de lentilles,Lentilles,Y,Carottes,Y,Oignons,Y,Persil,Y,Vinaigrette,N,Œufs durs,N,Salade lentilles végane,Lentilles,Y,Carottes,Y,Oignons,Y,Persil,Y,Vinaigrette végane,Y,Tofu,Y
+463,Salade de fenouil,Fenouil,Y,Orange,Y,Olives,Y,Huile d'olive,Y,Aneth,Y,Pignons,Y,Salade fenouil végane,Fenouil,Y,Orange,Y,Olives,Y,Huile d'olive,Y,Aneth,Y,Pignons,Y
+464,Salade de champignons,Champignons de Paris,Y,Persil,Y,Ail,Y,Huile d'olive,Y,Citron,Y,Parmesan,N,Salade champignons végane,Champignons de Paris,Y,Persil,Y,Ail,Y,Huile d'olive,Y,Citron,Y,Levure nutritionnelle,Y
+465,Salade d'épinards,Épinards,Y,Avocat,Y,Graines de tournesol,Y,Vinaigrette,N,Tomates cerises,Y,Concombre,Y,Salade épinards végane,Épinards,Y,Avocat,Y,Graines de tournesol,Y,Vinaigrette végane,Y,Tomates cerises,Y,Concombre,Y
+466,Œuf mimosa,Œufs durs,N,Mayonnaise,N,Ciboulette,Y,Salade verte,Y,Tomates cerises,Y,Radis,Y,Œuf mimosa végane,Tofu soyeux,Y,Mayo végane,Y,Ciboulette,Y,Salade verte,Y,Tomates cerises,Y,Radis,Y
+467,Œufs à la coque,Œufs,N,Beurre,N,Sel,Y,Poivre,Y,Mouillettes,Y,Ciboulette,Y,Œufs coque véganes,Tofu soyeux,Y,Beurre végétal,Y,Sel,Y,Poivre,Y,Pain grillé,Y,Ciboulette,Y
+468,Œufs brouillés,Œufs,N,Beurre,N,Lait,N,Sel,Y,Poivre,Y,Ciboulette,Y,Œufs brouillés véganes,Tofu soyeux,Y,Beurre végétal,Y,Lait végétal,Y,Sel,Y,Poivre,Y,Ciboulette,Y
+469,Omelette nature,Œufs,N,Beurre,N,Lait,N,Sel,Y,Poivre,Y,Herbes,Y,Omelette végane nature,Farine pois chiches,Y,Beurre végétal,Y,Eau,Y,Sel,Y,Poivre,Y,Herbes,Y
+470,Omelette aux herbes,Œufs,N,Persil,Y,Ciboulette,Y,Estragon,Y,Beurre,N,Lait,N,Omelette végane herbes,Farine pois chiches,Y,Persil,Y,Ciboulette,Y,Estragon,Y,Beurre végétal,Y,Lait végétal,Y
+471,Omelette aux champignons,Œufs,N,Champignons,Y,Beurre,N,Persil,Y,Sel,Y,Poivre,Y,Omelette végane champignons,Farine pois chiches,Y,Champignons,Y,Beurre végétal,Y,Persil,Y,Sel,Y,Poivre,Y
+472,Omelette au fromage,Œufs,N,Gruyère,N,Beurre,N,Lait,N,Sel,Y,Poivre,Y,Omelette végane fromage,Farine pois chiches,Y,Fromage végétal,Y,Beurre végétal,Y,Lait végétal,Y,Sel,Y,Poivre,Y
+473,Œufs Benedict,Œufs,N,Jambon,N,Muffins anglais,Y,Sauce hollandaise,N,Beurre,N,Paprika,Y,Benedict végane,Tofu soyeux,Y,Tempeh,Y,Muffins anglais,Y,Sauce végane,Y,Beurre végétal,Y,Paprika,Y
+474,Œufs Florentine,Œufs,N,Épinards,Y,Béchamel,N,Gruyère,N,Muscade,Y,Beurre,N,Florentine végane,Tofu soyeux,Y,Épinards,Y,Béchamel végane,Y,Fromage végétal,Y,Muscade,Y,Beurre végétal,Y
+475,Quiche lorraine,Pâte brisée,Y,Œufs,N,Crème fraîche,N,Lardons,N,Gruyère,N,Muscade,Y,Quiche végane lorraine,Pâte brisée,Y,Tofu soyeux,Y,Crème végétale,Y,Tempeh fumé,Y,Fromage végétal,Y,Muscade,Y
+476,Pot-au-feu,Bœuf,N,Poireaux,Y,Carottes,Y,Navets,Y,Pommes de terre,Y,Bouquet garni,Y,Pot-au-feu végétal,Seitan,Y,Poireaux,Y,Carottes,Y,Navets,Y,Pommes de terre,Y,Bouquet garni,Y
+477,Pot-au-feu de légumes,Carottes,Y,Poireaux,Y,Navets,Y,Choux,Y,Pommes de terre,Y,Bouillon,Y,Pot-au-feu végétal,Carottes,Y,Poireaux,Y,Navets,Y,Choux,Y,Pommes de terre,Y,Bouillon végétal,Y
+478,Potée auvergnate,Chou,Y,Saucisse,N,Lard,N,Haricots,Y,Pommes de terre,Y,Carottes,Y,Potée végane,Chou,Y,Saucisse végétale,Y,Tempeh fumé,Y,Haricots,Y,Pommes de terre,Y,Carottes,Y
+479,Potée aux choux,Chou,Y,Pommes de terre,Y,Carottes,Y,Saucisse,N,Lard,N,Oignons,Y,Potée choux végane,Chou,Y,Pommes de terre,Y,Carottes,Y,Saucisse végétale,Y,Tempeh,Y,Oignons,Y
+480,Pot-au-feu de poisson,Cabillaud,N,Saumon,N,Poireaux,Y,Carottes,Y,Pommes de terre,Y,Court-bouillon,Y,Pot-au-feu algues,Tempeh,Y,Tofu,Y,Poireaux,Y,Carottes,Y,Pommes de terre,Y,Bouillon algues,Y
+481,Blanquette de veau,Veau,N,Carottes,Y,Champignons,Y,Oignons,Y,Crème,N,Citron,Y,Blanquette végétale,Seitan,Y,Carottes,Y,Champignons,Y,Oignons,Y,Crème végétale,Y,Citron,Y
+482,Blanquette de légumes,Carottes,Y,Champignons,Y,Petits pois,Y,Oignons,Y,Crème,N,Persil,Y,Blanquette végane,Carottes,Y,Champignons,Y,Petits pois,Y,Oignons,Y,Crème végétale,Y,Persil,Y
+483,Coq au vin,Poulet,N,Vin rouge,Y,Lardons,N,Champignons,Y,Oignons,Y,Bouquet garni,Y,Coq végétal au vin,Seitan,Y,Vin rouge,Y,Tempeh,Y,Champignons,Y,Oignons,Y,Bouquet garni,Y
+484,Bœuf bourguignon,Bœuf,N,Vin rouge,Y,Lardons,N,Champignons,Y,Oignons,Y,Bouquet garni,Y,Bourguignon végétal,Seitan,Y,Vin rouge,Y,Tempeh,Y,Champignons,Y,Oignons,Y,Bouquet garni,Y
+485,Navarin d'agneau,Agneau,N,Navets,Y,Carottes,Y,Pommes de terre,Y,Petits pois,Y,Thym,Y,Navarin végétal,Seitan,Y,Navets,Y,Carottes,Y,Pommes de terre,Y,Petits pois,Y,Thym,Y
+486,Civet de lapin,Lapin,N,Vin rouge,Y,Oignons,Y,Carottes,Y,Champignons,Y,Thym,Y,Civet végétal,Champignons,Y,Vin rouge,Y,Oignons,Y,Carottes,Y,Seitan,Y,Thym,Y
+487,Osso-buco,Jarret de veau,N,Tomates,Y,Carottes,Y,Céleri,Y,Vin blanc,Y,Gremolata,Y,Osso-buco végétal,Champignons portobello,Y,Tomates,Y,Carottes,Y,Céleri,Y,Vin blanc,Y,Gremolata,Y
+488,Carbonnade flamande,Bœuf,N,Bière,Y,Oignons,Y,Cassonade,Y,Moutarde,N,Thym,Y,Carbonnade végétale,Seitan,Y,Bière,Y,Oignons,Y,Cassonade,Y,Moutarde végane,Y,Thym,Y
+489,Daube provençale,Bœuf,N,Vin rouge,Y,Olives,Y,Tomates,Y,Herbes de Provence,Y,Anchois,N,Daube végétale,Seitan,Y,Vin rouge,Y,Olives,Y,Tomates,Y,Herbes de Provence,Y,Câpres,Y
+490,Fricassée de volaille,Poulet,N,Champignons,Y,Crème,N,Estragon,Y,Vin blanc,Y,Échalotes,Y,Fricassée végétale,Seitan,Y,Champignons,Y,Crème végétale,Y,Estragon,Y,Vin blanc,Y,Échalotes,Y
+491,Soupe à l'oignon,Oignons,Y,Bouillon de bœuf,N,Gruyère,N,Pain,Y,Beurre,N,Thym,Y,Soupe oignon végane,Oignons,Y,Bouillon végétal,Y,Fromage végétal,Y,Pain,Y,Beurre végétal,Y,Thym,Y
+492,Soupe de potiron,Potiron,Y,Pommes de terre,Y,Oignons,Y,Bouillon,Y,Crème,N,Muscade,Y,Soupe potiron végane,Potiron,Y,Pommes de terre,Y,Oignons,Y,Bouillon végétal,Y,Crème végétale,Y,Muscade,Y
+493,Soupe aux choux,Choux,Y,Pommes de terre,Y,Carottes,Y,Poireaux,Y,Bouillon,Y,Persil,Y,Soupe choux végane,Choux,Y,Pommes de terre,Y,Carottes,Y,Poireaux,Y,Bouillon végétal,Y,Persil,Y
+494,Soupe de tomates,Tomates,Y,Oignons,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Sucre,Y,Soupe tomates végane,Tomates,Y,Oignons,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Sucre,Y
+495,Soupe de légumes,Carottes,Y,Courgettes,Y,Poireaux,Y,Pommes de terre,Y,Bouillon,Y,Persil,Y,Soupe légumes végane,Carottes,Y,Courgettes,Y,Poireaux,Y,Pommes de terre,Y,Bouillon végétal,Y,Persil,Y
+496,Velouté de champignons,Champignons,Y,Pommes de terre,Y,Oignons,Y,Crème,N,Bouillon,Y,Persil,Y,Velouté champignons végane,Champignons,Y,Pommes de terre,Y,Oignons,Y,Crème végétale,Y,Bouillon végétal,Y,Persil,Y
+497,Velouté de carottes,Carottes,Y,Pommes de terre,Y,Oignons,Y,Crème,N,Gingembre,Y,Coriandre,Y,Velouté carottes végane,Carottes,Y,Pommes de terre,Y,Oignons,Y,Crème végétale,Y,Gingembre,Y,Coriandre,Y
+498,Bisque de homard,Homard,N,Crème,N,Cognac,Y,Tomates,Y,Échalotes,Y,Estragon,Y,Bisque végétale,Champignons,Y,Crème végétale,Y,Cognac,Y,Tomates,Y,Échalotes,Y,Estragon,Y
+499,Bouillabaisse,Poissons,N,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Rouille,N,Bouillabaisse végétale,Champignons,Y,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Rouille végane,Y
+500,Choucroute garnie,Choucroute,Y,Saucisses,N,Lard,N,Pommes de terre,Y,Genièvre,Y,Vin blanc,Y,Choucroute végane,Choucroute,Y,Saucisses végétales,Y,Tempeh,Y,Pommes de terre,Y,Genièvre,Y,Vin blanc,Y
+501,Cassoulet,Haricots blancs,Y,Canard,N,Saucisse,N,Tomates,Y,Ail,Y,Thym,Y,Cassoulet végétal,Haricots blancs,Y,Seitan,Y,Saucisse végétale,Y,Tomates,Y,Ail,Y,Thym,Y
+502,Confit de canard,Canard,N,Graisse de canard,N,Ail,Y,Thym,Y,Laurier,Y,Sel,Y,Confit végétal,Champignons king oyster,Y,Huile d'olive,Y,Ail,Y,Thym,Y,Laurier,Y,Sel,Y
+503,Magret aux cerises,Magret,N,Cerises,Y,Vin rouge,Y,Échalotes,Y,Miel,N,Thym,Y,Magret végétal cerises,Seitan,Y,Cerises,Y,Vin rouge,Y,Échalotes,Y,Sirop d'érable,Y,Thym,Y
+504,Foie gras,Foie gras,N,Cognac,Y,Sel,Y,Poivre,Y,Épices,Y,Brioche,Y,Faux gras végétal,Noix de cajou,Y,Cognac,Y,Sel,Y,Poivre,Y,Épices,Y,Brioche,Y
+505,Terrine de campagne,Porc,N,Foie,N,Œufs,N,Cognac,Y,Épices,Y,Pistaches,Y,Terrine végétale,Lentilles,Y,Champignons,Y,Tofu,Y,Cognac,Y,Épices,Y,Pistaches,Y
+506,Pâté de foie,Foie,N,Beurre,N,Échalotes,Y,Cognac,Y,Thym,Y,Laurier,Y,Pâté végétal,Champignons,Y,Beurre végétal,Y,Échalotes,Y,Cognac,Y,Thym,Y,Laurier,Y
+507,Rillettes de porc,Porc,N,Saindoux,N,Ail,Y,Thym,Y,Laurier,Y,Sel,Y,Rillettes végétales,Champignons,Y,Huile de coco,Y,Ail,Y,Thym,Y,Laurier,Y,Sel,Y
+508,Boudin noir,Sang de porc,N,Gras,N,Oignons,Y,Épices,Y,Pommes,Y,Beurre,N,Boudin végétal,Haricots noirs,Y,Huile,Y,Oignons,Y,Épices,Y,Pommes,Y,Beurre végétal,Y
+509,Andouillette,Tripes,N,Vin blanc,Y,Échalotes,Y,Moutarde,N,Herbes,Y,Beurre,N,Andouillette végétale,Champignons,Y,Vin blanc,Y,Échalotes,Y,Moutarde végane,Y,Herbes,Y,Beurre végétal,Y
+510,Saucisse de Toulouse,Porc,N,Gras,N,Ail,Y,Persil,Y,Épices,Y,Vin rouge,Y,Saucisse végétale,Protéines végétales,Y,Huile,Y,Ail,Y,Persil,Y,Épices,Y,Vin rouge,Y
+511,Escalope milanaise,Escalope de veau,N,Chapelure,Y,Œufs,N,Parmesan,N,Citron,Y,Beurre,N,Escalope végétale,Seitan,Y,Chapelure,Y,Aquafaba,Y,Levure nutritionnelle,Y,Citron,Y,Beurre végétal,Y
+512,Escalope à la crème,Escalope,N,Crème,N,Champignons,Y,Échalotes,Y,Vin blanc,Y,Persil,Y,Escalope végétale crème,Seitan,Y,Crème végétale,Y,Champignons,Y,Échalotes,Y,Vin blanc,Y,Persil,Y
+513,Cordon bleu,Escalope,N,Jambon,N,Gruyère,N,Chapelure,Y,Œufs,N,Beurre,N,Cordon bleu végétal,Seitan,Y,Jambon végétal,Y,Fromage végétal,Y,Chapelure,Y,Aquafaba,Y,Beurre végétal,Y
+514,Saltimbocca,Escalope,N,Jambon,N,Sauge,Y,Vin blanc,Y,Beurre,N,Parmesan,N,Saltimbocca végétale,Seitan,Y,Jambon végétal,Y,Sauge,Y,Vin blanc,Y,Beurre végétal,Y,Levure nutritionnelle,Y
+515,Piccata,Escalope,N,Citron,Y,Câpres,Y,Beurre,N,Persil,Y,Vin blanc,Y,Piccata végétale,Seitan,Y,Citron,Y,Câpres,Y,Beurre végétal,Y,Persil,Y,Vin blanc,Y
+516,Rôti de porc,Rôti de porc,N,Ail,Y,Romarin,Y,Pommes de terre,Y,Carottes,Y,Jus,N,Rôti végétal,Seitan,Y,Ail,Y,Romarin,Y,Pommes de terre,Y,Carottes,Y,Jus végétal,Y
+517,Gigot d'agneau,Gigot,N,Ail,Y,Romarin,Y,Flageolets,Y,Pommes de terre,Y,Jus,N,Gigot végétal,Seitan,Y,Ail,Y,Romarin,Y,Flageolets,Y,Pommes de terre,Y,Jus végétal,Y
+518,Côte de bœuf,Côte de bœuf,N,Sel,Y,Poivre,Y,Beurre,N,Thym,Y,Échalotes,Y,Côte végétale,Champignons king oyster,Y,Sel,Y,Poivre,Y,Beurre végétal,Y,Thym,Y,Échalotes,Y
+519,Entrecôte,Entrecôte,N,Beurre,N,Échalotes,Y,Persil,Y,Ail,Y,Poivre,Y,Entrecôte végétale,Champignons portobello,Y,Beurre végétal,Y,Échalotes,Y,Persil,Y,Ail,Y,Poivre,Y
+520,Filet de bœuf,Filet,N,Beurre,N,Échalotes,Y,Cognac,Y,Crème,N,Poivre vert,Y,Filet végétal,Seitan,Y,Beurre végétal,Y,Échalotes,Y,Cognac,Y,Crème végétale,Y,Poivre vert,Y
+521,Steak tartare,Bœuf cru,N,Œuf,N,Câpres,Y,Cornichons,Y,Échalotes,Y,Moutarde,N,Tartare végétal,Betterave,Y,Aquafaba,Y,Câpres,Y,Cornichons,Y,Échalotes,Y,Moutarde végane,Y
+522,Carpaccio de bœuf,Bœuf cru,N,Parmesan,N,Câpres,Y,Roquette,Y,Huile d'olive,Y,Citron,Y,Carpaccio végétal,Betterave,Y,Levure nutritionnelle,Y,Câpres,Y,Roquette,Y,Huile d'olive,Y,Citron,Y
+523,Tartare de thon,Thon,N,Avocat,Y,Échalotes,Y,Citron vert,Y,Soja,Y,Sésame,Y,Tartare végétal thon,Pastèque,Y,Avocat,Y,Échalotes,Y,Citron vert,Y,Soja,Y,Sésame,Y
+524,Saumon grillé,Saumon,N,Citron,Y,Aneth,Y,Huile d'olive,Y,Beurre,N,Câpres,Y,Saumon végétal,Tofu fumé,Y,Citron,Y,Aneth,Y,Huile d'olive,Y,Beurre végétal,Y,Câpres,Y
+525,Sole meunière,Sole,N,Beurre,N,Citron,Y,Persil,Y,Farine,Y,Amandes,Y,Sole végétale,Champignons plats,Y,Beurre végétal,Y,Citron,Y,Persil,Y,Farine,Y,Amandes,Y
+526,Bouillabaisse,Rascasse,N,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Rouille,N,Bouillabaisse végétale,Champignons,Y,Safran,Y,Tomates,Y,Fenouil,Y,Huile d'olive,Y,Rouille végane,Y
+527,Fish and chips,Cabillaud,N,Pâte à frire,Y,Pommes de terre,Y,Huile,Y,Vinaigre,Y,Petits pois,Y,Fish végétal chips,Tofu,Y,Pâte à frire,Y,Pommes de terre,Y,Huile,Y,Vinaigre,Y,Petits pois,Y
+528,Ceviche,Poisson blanc,N,Citron vert,Y,Oignons rouges,Y,Coriandre,Y,Piment,Y,Patate douce,Y,Ceviche végétal,Champignons king oyster,Y,Citron vert,Y,Oignons rouges,Y,Coriandre,Y,Piment,Y,Patate douce,Y
+529,Paella,Riz,Y,Safran,Y,Crevettes,N,Moules,N,Poulet,N,Petits pois,Y,Paella végétale,Riz,Y,Safran,Y,Champignons,Y,Haricots verts,Y,Seitan,Y,Petits pois,Y
+530,Risotto aux champignons,Riz arborio,Y,Champignons,Y,Parmesan,N,Vin blanc,Y,Bouillon,N,Beurre,N,Risotto végétal,Riz arborio,Y,Champignons,Y,Levure nutritionnelle,Y,Vin blanc,Y,Bouillon végétal,Y,Beurre végétal,Y
+531,Risotto à la milanaise,Riz arborio,Y,Safran,Y,Parmesan,N,Vin blanc,Y,Bouillon,N,Moelle,N,Risotto végétal safran,Riz arborio,Y,Safran,Y,Levure nutritionnelle,Y,Vin blanc,Y,Bouillon végétal,Y,Beurre végétal,Y
+532,Riz cantonais,Riz,Y,Œufs,N,Jambon,N,Petits pois,Y,Carottes,Y,Soja,Y,Riz cantonais végane,Riz,Y,Tofu brouillé,Y,Tempeh,Y,Petits pois,Y,Carottes,Y,Soja,Y
+533,Riz pilaf,Riz,Y,Oignons,Y,Bouillon,N,Beurre,N,Épices,Y,Raisins,Y,Riz pilaf végane,Riz,Y,Oignons,Y,Bouillon végétal,Y,Beurre végétal,Y,Épices,Y,Raisins,Y
+534,Riz au lait,Riz,Y,Lait,N,Sucre,Y,Vanille,Y,Cannelle,Y,Raisins,Y,Riz au lait végétal,Riz,Y,Lait végétal,Y,Sucre,Y,Vanille,Y,Cannelle,Y,Raisins,Y
+535,Spaghetti carbonara,Spaghetti,Y,Œufs,N,Lardons,N,Parmesan,N,Poivre,Y,Persil,Y,Carbonara végane,Spaghetti,Y,Aquafaba,Y,Tempeh,Y,Levure nutritionnelle,Y,Poivre,Y,Persil,Y
+536,Spaghetti bolognaise,Spaghetti,Y,Bœuf haché,N,Tomates,Y,Oignons,Y,Carottes,Y,Vin rouge,Y,Bolognaise végétale,Spaghetti,Y,Protéines végétales,Y,Tomates,Y,Oignons,Y,Carottes,Y,Vin rouge,Y
+537,Lasagnes,Pâtes lasagne,Y,Bœuf haché,N,Béchamel,N,Tomates,Y,Parmesan,N,Mozzarella,N,Lasagnes végétales,Pâtes lasagne,Y,Protéines végétales,Y,Béchamel végane,Y,Tomates,Y,Fromage végétal,Y,Mozzarella végétale,Y
+538,Cannellonis,Pâtes cannelloni,Y,Ricotta,N,Épinards,Y,Tomates,Y,Parmesan,N,Mozzarella,N,Cannellonis végétales,Pâtes cannelloni,Y,Ricotta végétale,Y,Épinards,Y,Tomates,Y,Fromage végétal,Y,Mozzarella végétale,Y
+539,Raviolis,Pâte à raviolis,Y,Ricotta,N,Épinards,Y,Parmesan,N,Œufs,N,Muscade,Y,Raviolis végétales,Pâte à raviolis,Y,Ricotta végétale,Y,Épinards,Y,Levure nutritionnelle,Y,Aquafaba,Y,Muscade,Y
+540,Gnocchis,Pommes de terre,Y,Farine,Y,Œufs,N,Parmesan,N,Beurre,N,Sauge,Y,Gnocchis végétales,Pommes de terre,Y,Farine,Y,Aquafaba,Y,Levure nutritionnelle,Y,Beurre végétal,Y,Sauge,Y
+541,Penne à l'arrabbiata,Penne,Y,Tomates,Y,Ail,Y,Piment,Y,Huile d'olive,Y,Basilic,Y,Penne arrabbiata végane,Penne,Y,Tomates,Y,Ail,Y,Piment,Y,Huile d'olive,Y,Basilic,Y
+542,Penne à la puttanesca,Penne,Y,Tomates,Y,Olives,Y,Câpres,Y,Anchois,N,Ail,Y,Penne puttanesca végane,Penne,Y,Tomates,Y,Olives,Y,Câpres,Y,Algues nori,Y,Ail,Y
+543,Linguine aux palourdes,Linguine,Y,Palourdes,N,Ail,Y,Persil,Y,Vin blanc,Y,Huile d'olive,Y,Linguine végétales,Linguine,Y,Champignons,Y,Ail,Y,Persil,Y,Vin blanc,Y,Huile d'olive,Y
+544,Fettuccine Alfredo,Fettuccine,Y,Beurre,N,Parmesan,N,Crème,N,Ail,Y,Persil,Y,Fettuccine végane,Fettuccine,Y,Beurre végétal,Y,Levure nutritionnelle,Y,Crème végétale,Y,Ail,Y,Persil,Y
+545,Tagliatelle au saumon,Tagliatelle,Y,Saumon,N,Crème,N,Aneth,Y,Citron,Y,Câpres,Y,Tagliatelle végétales,Tagliatelle,Y,Tofu fumé,Y,Crème végétale,Y,Aneth,Y,Citron,Y,Câpres,Y
+546,Pizza margherita,Pâte à pizza,Y,Tomates,Y,Mozzarella,N,Basilic,Y,Huile d'olive,Y,Origan,Y,Pizza margherita végane,Pâte à pizza,Y,Tomates,Y,Mozzarella végétale,Y,Basilic,Y,Huile d'olive,Y,Origan,Y
+547,Pizza regina,Pâte à pizza,Y,Tomates,Y,Jambon,N,Champignons,Y,Mozzarella,N,Origan,Y,Pizza regina végane,Pâte à pizza,Y,Tomates,Y,Jambon végétal,Y,Champignons,Y,Mozzarella végétale,Y,Origan,Y
+548,Pizza quatre saisons,Pâte à pizza,Y,Tomates,Y,Artichauts,Y,Champignons,Y,Jambon,N,Mozzarella,N,Pizza quatre saisons végane,Pâte à pizza,Y,Tomates,Y,Artichauts,Y,Champignons,Y,Jambon végétal,Y,Mozzarella végétale,Y
+549,Pizza quatre fromages,Pâte à pizza,Y,Mozzarella,N,Gorgonzola,N,Parmesan,N,Chèvre,N,Huile d'olive,Y,Pizza quatre fromages végane,Pâte à pizza,Y,Mozzarella végétale,Y,Fromage bleu végétal,Y,Parmesan végétal,Y,Chèvre végétal,Y,Huile d'olive,Y
+550,Calzone,Pâte à pizza,Y,Ricotta,N,Jambon,N,Mozzarella,N,Tomates,Y,Basilic,Y,Calzone végane,Pâte à pizza,Y,Ricotta végétale,Y,Jambon végétal,Y,Mozzarella végétale,Y,Tomates,Y,Basilic,Y
+551,Focaccia,Farine,Y,Levure,Y,Huile d'olive,Y,Romarin,Y,Sel,Y,Tomates cerises,Y,Focaccia végane,Farine,Y,Levure,Y,Huile d'olive,Y,Romarin,Y,Sel,Y,Tomates cerises,Y
+552,Bruschetta,Pain,Y,Tomates,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Sel,Y,Bruschetta végane,Pain,Y,Tomates,Y,Ail,Y,Basilic,Y,Huile d'olive,Y,Sel,Y
+553,Antipasti,Jambon,N,Salami,N,Olives,Y,Tomates,Y,Mozzarella,N,Basilic,Y,Antipasti végétales,Jambon végétal,Y,Salami végétal,Y,Olives,Y,Tomates,Y,Mozzarella végétale,Y,Basilic,Y
+554,Carpaccio,Bœuf,N,Roquette,Y,Parmesan,N,Huile d'olive,Y,Citron,Y,Pignons,Y,Carpaccio végétal,Betterave,Y,Roquette,Y,Levure nutritionnelle,Y,Huile d'olive,Y,Citron,Y,Pignons,Y
+555,Vitello tonnato,Veau,N,Thon,N,Mayonnaise,N,Câpres,Y,Citron,Y,Anchois,N,Vitello tonnato végétal,Seitan,Y,Pâté végétal,Y,Mayo végane,Y,Câpres,Y,Citron,Y,Algues,Y
+556,Osso-buco milanaise,Jarret de veau,N,Riz,Y,Safran,Y,Tomates,Y,Vin blanc,Y,Gremolata,Y,Osso-buco végétal milanaise,Champignons king oyster,Y,Riz,Y,Safran,Y,Tomates,Y,Vin blanc,Y,Gremolata,Y
+557,Saltimbocca romana,Escalope,N,Jambon,N,Sauge,Y,Vin blanc,Y,Beurre,N,Parmesan,N,Saltimbocca végétale romana,Seitan,Y,Jambon végétal,Y,Sauge,Y,Vin blanc,Y,Beurre végétal,Y,Levure nutritionnelle,Y
+558,Parmigiana,Aubergines,Y,Tomates,Y,Mozzarella,N,Parmesan,N,Basilic,Y,Huile d'olive,Y,Parmigiana végane,Aubergines,Y,Tomates,Y,Mozzarella végétale,Y,Parmesan végétal,Y,Basilic,Y,Huile d'olive,Y
+559,Caponata,Aubergines,Y,Tomates,Y,Olives,Y,Câpres,Y,Céleri,Y,Vinaigre,Y,Caponata végane,Aubergines,Y,Tomates,Y,Olives,Y,Câpres,Y,Céleri,Y,Vinaigre,Y
+560,Minestrone,Haricots,Y,Carottes,Y,Céleri,Y,Tomates,Y,Pâtes,Y,Basilic,Y,Minestrone végane,Haricots,Y,Carottes,Y,Céleri,Y,Tomates,Y,Pâtes,Y,Basilic,Y
+561,Ribollita,Pain rassis,Y,Haricots,Y,Chou noir,Y,Tomates,Y,Carottes,Y,Huile d'olive,Y,Ribollita végane,Pain rassis,Y,Haricots,Y,Chou noir,Y,Tomates,Y,Carottes,Y,Huile d'olive,Y
+562,Acqua pazza,Poisson,N,Tomates cerises,Y,Olives,Y,Câpres,Y,Ail,Y,Persil,Y,Acqua pazza végétale,Champignons,Y,Tomates cerises,Y,Olives,Y,Câpres,Y,Ail,Y,Persil,Y
+563,Baccalà mantecato,Morue,N,Huile d'olive,Y,Lait,N,Ail,Y,Persil,Y,Poivre,Y,Baccalà végétal,Champignons,Y,Huile d'olive,Y,Lait végétal,Y,Ail,Y,Persil,Y,Poivre,Y
+564,Arancini,Riz,Y,Safran,Y,Parmesan,N,Mozzarella,N,Œufs,N,Chapelure,Y,Arancini végétales,Riz,Y,Safran,Y,Levure nutritionnelle,Y,Fromage végétal,Y,Aquafaba,Y,Chapelure,Y
+565,Supplì,Riz,Y,Tomates,Y,Mozzarella,N,Œufs,N,Chapelure,Y,Huile,Y,Supplì végétales,Riz,Y,Tomates,Y,Mozzarella végétale,Y,Aquafaba,Y,Chapelure,Y,Huile,Y
+566,Polenta,Farine de maïs,Y,Eau,Y,Beurre,N,Parmesan,N,Sel,Y,Champignons,Y,Polenta végane,Farine de maïs,Y,Eau,Y,Beurre végétal,Y,Levure nutritionnelle,Y,Sel,Y,Champignons,Y
+567,Gremolata,Persil,Y,Ail,Y,Citron,Y,Huile d'olive,Y,Sel,Y,Poivre,Y,Gremolata végane,Persil,Y,Ail,Y,Citron,Y,Huile d'olive,Y,Sel,Y,Poivre,Y
+568,Pesto genovese,Basilic,Y,Pignons,Y,Ail,Y,Parmesan,N,Huile d'olive,Y,Pecorino,N,Pesto végane,Basilic,Y,Pignons,Y,Ail,Y,Levure nutritionnelle,Y,Huile d'olive,Y,Noix de cajou,Y
+569,Tapenade,Olives noires,Y,Anchois,N,Câpres,Y,Ail,Y,Huile d'olive,Y,Cognac,Y,Tapenade végane,Olives noires,Y,Algues nori,Y,Câpres,Y,Ail,Y,Huile d'olive,Y,Cognac,Y
+570,Ratatouille niçoise,Tomates,Y,Courgettes,Y,Aubergines,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y,Ratatouille végane,Tomates,Y,Courgettes,Y,Aubergines,Y,Poivrons,Y,Oignons,Y,Herbes de Provence,Y
+571,Bouillabaisse marseillaise,Poissons,N,Safran,Y,Tomates,Y,Fenouil,Y,Pommes de terre,Y,Rouille,N,Bouillabaisse végétale marseillaise,Champignons,Y,Safran,Y,Tomates,Y,Fenouil,Y,Pommes de terre,Y,Rouille végane,Y
+572,Aïoli,Ail,Y,Œuf,N,Huile d'olive,Y,Citron,Y,Moutarde,N,Sel,Y,Aïoli végane,Ail,Y,Aquafaba,Y,Huile d'olive,Y,Citron,Y,Moutarde végane,Y,Sel,Y
+573,Socca,Farine pois chiches,Y,Eau,Y,Huile d'olive,Y,Sel,Y,Poivre,Y,Cumin,Y,Socca végane,Farine pois chiches,Y,Eau,Y,Huile d'olive,Y,Sel,Y,Poivre,Y,Cumin,Y
+574,Pissaladière,Pâte à pain,Y,Oignons,Y,Anchois,N,Olives,Y,Thym,Y,Huile d'olive,Y,Pissaladière végane,Pâte à pain,Y,Oignons,Y,Tapenade,Y,Olives,Y,Thym,Y,Huile d'olive,Y
+575,Pan bagnat,Pain,Y,Tomates,Y,Thon,N,Œufs durs,N,Olives,Y,Anchois,N,Pan bagnat végane,Pain,Y,Tomates,Y,Pâté végétal,Y,Tofu,Y,Olives,Y,Tapenade,Y
+576,Salade niçoise complète,Salade,Y,Tomates,Y,Thon,N,Œufs durs,N,Haricots verts,Y,Anchois,N,Salade niçoise végane,Salade,Y,Tomates,Y,Pâté végétal,Y,Tofu,Y,Haricots verts,Y,Tapenade,Y
+577,Daube niçoise,Bœuf,N,Vin rouge,Y,Tomates,Y,Olives,Y,Herbes de Provence,Y,Orange,Y,Daube végétale niçoise,Seitan,Y,Vin rouge,Y,Tomates,Y,Olives,Y,Herbes de Provence,Y,Orange,Y
+578,Farcis niçois,Tomates,Y,Courgettes,Y,Poivrons,Y,Farce,N,Herbes,Y,Huile d'olive,Y,Farcis véganes niçois,Tomates,Y,Courgettes,Y,Poivrons,Y,Farce végétale,Y,Herbes,Y,Huile d'olive,Y
+579,Soupe au pistou,Haricots,Y,Courgettes,Y,Tomates,Y,Pâtes,Y,Pistou,N,Parmesan,N,Soupe pistou végane,Haricots,Y,Courgettes,Y,Tomates,Y,Pâtes,Y,Pistou végane,Y,Levure nutritionnelle,Y
+580,Calissons,Amandes,Y,Melon confit,Y,Sucre,Y,Blancs d'œufs,N,Miel,N,Fleur d'oranger,Y,Calissons véganes,Amandes,Y,Melon confit,Y,Sucre,Y,Aquafaba,Y,Sirop d'agave,Y,Fleur d'oranger,Y
+581,Nougat,Amandes,Y,Pistaches,Y,Miel,N,Blancs d'œufs,N,Sucre,Y,Vanille,Y,Nougat végane,Amandes,Y,Pistaches,Y,Sirop d'agave,Y,Aquafaba,Y,Sucre,Y,Vanille,Y
+582,Navettes,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y,Navettes véganes,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y
+583,Cade toulonnais,Farine pois chiches,Y,Eau,Y,Huile d'olive,Y,Sel,Y,Oignons,Y,Herbes,Y,Cade végane,Farine pois chiches,Y,Eau,Y,Huile d'olive,Y,Sel,Y,Oignons,Y,Herbes,Y
+584,Tourte de blettes,Pâte brisée,Y,Blettes,Y,Œufs,N,Parmesan,N,Pignons,Y,Raisins,Y,Tourte blettes végane,Pâte brisée,Y,Blettes,Y,Tofu,Y,Levure nutritionnelle,Y,Pignons,Y,Raisins,Y
+585,Barbajuan,Pâte,Y,Blettes,Y,Ricotta,N,Parmesan,N,Œufs,N,Herbes,Y,Barbajuan végane,Pâte,Y,Blettes,Y,Ricotta végétale,Y,Levure nutritionnelle,Y,Aquafaba,Y,Herbes,Y
+586,Estocaficada,Stockfish,N,Pommes de terre,Y,Tomates,Y,Poivrons,Y,Olives,Y,Vin rouge,Y,Estocaficada végétale,Champignons,Y,Pommes de terre,Y,Tomates,Y,Poivrons,Y,Olives,Y,Vin rouge,Y
+587,Brandade niçoise,Morue,N,Pommes de terre,Y,Huile d'olive,Y,Lait,N,Ail,Y,Persil,Y,Brandade végane niçoise,Champignons,Y,Pommes de terre,Y,Huile d'olive,Y,Lait végétal,Y,Ail,Y,Persil,Y
+588,Ratafias,Cerises,Y,Alcool,Y,Sucre,Y,Cannelle,Y,Clous de girofle,Y,Eau,Y,Ratafias véganes,Cerises,Y,Alcool,Y,Sucre,Y,Cannelle,Y,Clous de girofle,Y,Eau,Y
+589,Oreillettes,Farine,Y,Œufs,N,Beurre,N,Sucre,Y,Rhum,Y,Huile,Y,Oreillettes véganes,Farine,Y,Aquafaba,Y,Beurre végétal,Y,Sucre,Y,Rhum,Y,Huile,Y
+590,Pompe à l'huile,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y,Pompe végane,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Levure,Y,Sel,Y
+591,Fougasse d'Aigues-Mortes,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Œufs,N,Beurre,N,Fougasse végane,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Aquafaba,Y,Beurre végétal,Y
+592,Gibassier,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Anis,Y,Levure,Y,Gibassier végane,Farine,Y,Huile d'olive,Y,Sucre,Y,Fleur d'oranger,Y,Anis,Y,Levure,Y
+593,Chichi frégi,Farine,Y,Eau,Y,Sel,Y,Huile,Y,Sucre,Y,Citron,Y,Chichi végane,Farine,Y,Eau,Y,Sel,Y,Huile,Y,Sucre,Y,Citron,Y
+594,Tropézienne,Brioche,Y,Crème pâtissière,N,Crème chantilly,N,Sucre perlé,Y,Œufs,N,Beurre,N,Tropézienne végane,Brioche végane,Y,Crème pâtissière végane,Y,Chantilly végétale,Y,Sucre perlé,Y,Aquafaba,Y,Beurre végétal,Y
+595,Tarte tropézienne,Pâte sablée,Y,Crème pâtissière,N,Crème chantilly,N,Sucre glace,Y,Vanille,Y,Œufs,N,Tarte végane tropézienne,Pâte sablée végane,Y,Crème pâtissière végane,Y,Chantilly végétale,Y,Sucre glace,Y,Vanille,Y,Aquafaba,Y
+596,Chocolats de Provence,Chocolat noir,Y,Miel,N,Lavande,Y,Amandes,Y,Pistaches,Y,Fleur d'oranger,Y,Chocolats véganes Provence,Chocolat noir,Y,Sirop d'agave,Y,Lavande,Y,Amandes,Y,Pistaches,Y,Fleur d'oranger,Y
+597,Confiture de figues,Figues,Y,Sucre,Y,Citron,Y,Vanille,Y,Cannelle,Y,Eau,Y,Confiture figues végane,Figues,Y,Sucre,Y,Citron,Y,Vanille,Y,Cannelle,Y,Eau,Y
+598,Miel de lavande,Miel,N,Lavande,Y,Propolis,N,Cire,N,Pollen,N,Eau,Y,Sirop lavande végane,Sirop d'agave,Y,Lavande,Y,Extrait floral,Y,Agar-agar,Y,Sucre,Y,Eau,Y
+599,Tisane de thym,Thym,Y,Eau,Y,Miel,N,Citron,Y,Menthe,Y,Lavande,Y,Tisane thym végane,Thym,Y,Eau,Y,Sirop d'agave,Y,Citron,Y,Menthe,Y,Lavande,Y
+600,Pastis de Marseille,Anis,Y,Réglisse,Y,Fenouil,Y,Alcool,Y,Sucre,Y,Eau,Y,Pastis végane,Anis,Y,Réglisse,Y,Fenouil,Y,Alcool,Y,Sucre,Y,Eau,Y
