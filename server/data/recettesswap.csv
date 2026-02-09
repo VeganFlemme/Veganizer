@@ -1,4 +1,0 @@
-recetteID,nom_recette,ingredient_1,ingredient_2,ingredient_3,ingredient_4,ingredient_5,ingredient_6,ingredient_1_vegan,ingredient_2_vegan,ingredient_3_vegan,ingredient_4_vegan,ingredient_5_vegan,ingredient_6_vegan,nom_recette_vegan_equivalente,ingredient_vegan_1,ingredient_vegan_2,ingredient_vegan_3,ingredient_vegan_4,ingredient_vegan_5,ingredient_vegan_6
-1,Blanquette de veau,veau,crème fraîche,carottes,oignons,champignons,bouillon de volaille,N,N,Y,Y,Y,N,Blanquette végane,protéines de soja texturées,crème de soja,carottes,oignons,champignons,bouillon de légumes
-2,Bœuf bourguignon,bœuf,vin rouge,carottes,oignons,lardons,champignons,N,Y,Y,Y,N,Y,Bourguignon de seitan,seitan,vin rouge,carottes,oignons,tofu fumé,champignons
-3,Coq au vin,poulet,vin blanc,champignons,oignons,beurre,crème fraîche,N,Y,Y,Y,N,N,Tofu au vin,tofu mariné,vin blanc,champignons,oignons,beurre végétal,crème de soja
